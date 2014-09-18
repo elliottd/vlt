@@ -1,0 +1,19 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("363.745,264.265")
+label="child"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("86.868,278.364")
+label="computer"
+]
+"n1" -> "n2" [
+label="beside"
+]
+}

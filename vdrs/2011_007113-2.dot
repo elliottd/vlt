@@ -1,0 +1,82 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("194.741,214.133")
+label="window"
+]
+"n5" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("187.001,250.221")
+label="walls"
+]
+"n7" -> "n2" [
+label="on"
+]
+"n2" [
+comment=("187.001,250.221")
+label="walls"
+]
+"n6" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("209.184,244.482")
+label="cellphone"
+]
+"n5" -> "n3" [
+label="infront"
+]
+"n3" [
+comment=("209.184,244.482")
+label="cellphone"
+]
+"n5" -> "n3" [
+label="surrounds"
+]
+"n4" [
+comment=("51.074,355.788")
+label="stuff"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("218.880,353.384")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("20.123,345.435")
+label="pipe"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("65.620,90.634")
+label="pipe"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("152.192,463.880")
+label="radiator"
+]
+"n0" -> "n8" [
+label="-"
+]
+"n9" [
+comment=("53.779,350.101")
+label="shelf"
+]
+"n0" -> "n9" [
+label="-"
+]
+}

@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("350.087,108.960")
+label="ball"
+]
+"n2" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("173.525,221.812")
+label="person"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("103.233,244.463")
+label="wall"
+]
+"n2" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("83.281,91.477")
+label="bushes"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("250.880,264.926")
+label="bushes"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

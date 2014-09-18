@@ -1,0 +1,68 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("344.703,259.417")
+label="table"
+]
+"n2" -> "n1" [
+label="above"
+]
+"n1" [
+comment=("344.703,259.417")
+label="table"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("444.808,181.475")
+label="plate"
+]
+"n6" -> "n2" [
+label="opposite"
+]
+"n3" [
+comment=("402.454,145.876")
+label="soda"
+]
+"n6" -> "n3" [
+label="opposite"
+]
+"n4" [
+comment=("275.576,169.760")
+label="computer"
+]
+"n2" -> "n4" [
+label="above"
+]
+"n4" [
+comment=("275.576,169.760")
+label="computer"
+]
+"n3" -> "n4" [
+label="above"
+]
+"n4" [
+comment=("275.576,169.760")
+label="computer"
+]
+"n6" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("446.247,185.220")
+label="crumbs"
+]
+"n2" -> "n5" [
+label="surrounds"
+]
+"n6" [
+comment=("115.329,228.427")
+label="man"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("39.001,264.989")
+label="bookshelf"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("302.740,231.962")
+label="child"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("199.227,209.902")
+label="computer"
+]
+"n2" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("97.582,88.399")
+label="magazines"
+]
+"n5" -> "n4" [
+label="surrounds"
+]
+"n5" [
+comment=("98.450,91.039")
+label="rack"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("427.644,84.383")
+label="window"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("111.400,248.908")
+label="bike"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("69.332,46.880")
+label="building"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("121.031,203.890")
+label="child"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("187.640,92.797")
+label="fence"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("251.270,280.702")
+label="sidewalk"
+]
+"n1" -> "n5" [
+label="beside"
+]
+}

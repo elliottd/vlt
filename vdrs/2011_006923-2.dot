@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("177.908,370.659")
+label="bike"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("328.988,221.307")
+label="child"
+]
+"n1" -> "n2" [
+label="below"
+]
+"n3" [
+comment=("216.292,232.233")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("321.406,256.795")
+label="pole"
+]
+"n2" -> "n4" [
+label="behind"
+]
+"n4" [
+comment=("321.406,256.795")
+label="pole"
+]
+"n3" -> "n4" [
+label="behind"
+]
+"n5" [
+comment=("287.123,107.616")
+label="wall"
+]
+"n2" -> "n5" [
+label="infront"
+]
+"n5" [
+comment=("287.123,107.616")
+label="wall"
+]
+"n3" -> "n5" [
+label="infront"
+]
+}

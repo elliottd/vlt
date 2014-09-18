@@ -1,0 +1,68 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("279.669,283.551")
+label="book"
+]
+"n4" -> "n1" [
+label="behind"
+]
+"n1" [
+comment=("279.669,283.551")
+label="book"
+]
+"n5" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("315.712,305.709")
+label="floor"
+]
+"n4" -> "n2" [
+label="on"
+]
+"n2" [
+comment=("315.712,305.709")
+label="floor"
+]
+"n5" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("185.034,263.257")
+label="girl"
+]
+"n4" -> "n3" [
+label="surrounds"
+]
+"n3" [
+comment=("185.034,263.257")
+label="girl"
+]
+"n5" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("316.258,201.180")
+label="girl"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("330.861,235.828")
+label="girl"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("310.571,29.503")
+label="window"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

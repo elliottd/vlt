@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("242.190,245.490")
+label="walkway"
+]
+"n7" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("367.602,135.183")
+label="building"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("288.609,209.538")
+label="bushes"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("22.000,218.333")
+label="grass"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("193.352,230.043")
+label="grass"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("249.786,315.999")
+label="grass"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("76.646,224.733")
+label="people"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

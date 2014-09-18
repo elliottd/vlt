@@ -1,0 +1,61 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("145.832,136.100")
+label="storageboxes"
+]
+"n3" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("108.086,154.248")
+label="wall"
+]
+"n3" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("120.952,183.924")
+label="bookshelf"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("185.300,219.353")
+label="laptop"
+]
+"n7" -> "n4" [
+label="behind"
+]
+"n5" [
+comment=("211.201,306.971")
+label="laptop"
+]
+"n6" -> "n5" [
+label="beside"
+]
+"n6" [
+comment=("78.007,284.783")
+label="people"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("193.372,224.927")
+label="people"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("62.118,114.308")
+label="storageboxes"
+]
+"n3" -> "n8" [
+label="surrounds"
+]
+}

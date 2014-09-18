@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("33.034,183.234")
+label="furniture"
+]
+"n6" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("117.679,196.204")
+label="furniture"
+]
+"n6" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("185.581,164.410")
+label="furniture"
+]
+"n6" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("469.041,167.708")
+label="furniture"
+]
+"n6" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("231.551,239.446")
+label="girl"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("239.623,299.713")
+label="pool"
+]
+"n5" -> "n6" [
+label="on"
+]
+}

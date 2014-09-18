@@ -1,0 +1,117 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("415.319,195.358")
+label="woman"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("46.283,243.166")
+label="computer"
+]
+"n7" -> "n2" [
+label="beside"
+]
+"n2" [
+comment=("46.283,243.166")
+label="computer"
+]
+"n8" -> "n2" [
+label="beside"
+]
+"n2" [
+comment=("46.283,243.166")
+label="computer"
+]
+"n1" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("225.597,266.720")
+label="computer"
+]
+"n7" -> "n3" [
+label="behind"
+]
+"n3" [
+comment=("225.597,266.720")
+label="computer"
+]
+"n8" -> "n3" [
+label="beside"
+]
+"n3" [
+comment=("225.597,266.720")
+label="computer"
+]
+"n1" -> "n3" [
+label="behind"
+]
+"n4" [
+comment=("240.217,342.447")
+label="desks"
+]
+"n7" -> "n4" [
+label="behind"
+]
+"n4" [
+comment=("240.217,342.447")
+label="desks"
+]
+"n8" -> "n4" [
+label="behind"
+]
+"n4" [
+comment=("240.217,342.447")
+label="desks"
+]
+"n1" -> "n4" [
+label="behind"
+]
+"n5" [
+comment=("198.676,54.154")
+label="poster"
+]
+"n6" -> "n5" [
+label="behind"
+]
+"n6" [
+comment=("261.736,130.944")
+label="wall"
+]
+"n7" -> "n6" [
+label="infront"
+]
+"n6" [
+comment=("261.736,130.944")
+label="wall"
+]
+"n8" -> "n6" [
+label="infront"
+]
+"n6" [
+comment=("261.736,130.944")
+label="wall"
+]
+"n1" -> "n6" [
+label="infront"
+]
+"n7" [
+comment=("169.150,170.660")
+label="woman"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("310.893,170.079")
+label="woman"
+]
+"n0" -> "n8" [
+label="-"
+]
+}

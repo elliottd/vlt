@@ -1,0 +1,103 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("179.798,106.854")
+label="windows"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("195.681,277.085")
+label="table"
+]
+"n6" -> "n2" [
+label="on"
+]
+"n2" [
+comment=("195.681,277.085")
+label="table"
+]
+"n8" -> "n2" [
+label="on"
+]
+"n2" [
+comment=("195.681,277.085")
+label="table"
+]
+"n7" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("68.460,270.656")
+label="adult"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n3" [
+comment=("68.460,270.656")
+label="adult"
+]
+"n6" -> "n3" [
+label="on"
+]
+"n3" [
+comment=("68.460,270.656")
+label="adult"
+]
+"n8" -> "n3" [
+label="on"
+]
+"n3" [
+comment=("68.460,270.656")
+label="adult"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n3" [
+comment=("68.460,270.656")
+label="adult"
+]
+"n7" -> "n3" [
+label="on"
+]
+"n4" [
+comment=("239.389,262.171")
+label="adult"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("412.429,211.978")
+label="adult"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("31.773,226.923")
+label="laptop"
+]
+"n3" -> "n6" [
+label="infront"
+]
+"n7" [
+comment=("122.593,219.328")
+label="laptop"
+]
+"n4" -> "n7" [
+label="infront"
+]
+"n8" [
+comment=("201.842,212.685")
+label="laptop"
+]
+"n5" -> "n8" [
+label="beside"
+]
+}

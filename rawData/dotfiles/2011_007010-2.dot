@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("223.281,250.007")
+label="fence"
+]
+"n3" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("244.169,370.967")
+label="fire"
+]
+"n3" -> "n2" [
+label="above"
+]
+"n3" [
+comment=("185.111,200.163")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("163.307,252.529")
+label="people"
+]
+"n3" -> "n4" [
+label="infront"
+]
+}

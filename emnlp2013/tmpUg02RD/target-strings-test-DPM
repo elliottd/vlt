@@ -1,0 +1,102 @@
+0: ROOT person person 
+1: ROOT snake watercraft 
+2: ROOT baby_bed person person person person piano 
+3: ROOT person refrigerator 
+4: ROOT baby_bed lamp piano watercraft 
+5: ROOT baby_bed lamp piano watercraft 
+6: ROOT bicycle motorcycle person 
+7: ROOT bicycle motorcycle person 
+8: ROOT refrigerator 
+9: ROOT baby_bed lobster piano snake 
+10: ROOT lobster piano snake 
+11: ROOT lobster piano snake 
+12: ROOT car computer_keyboard person person 
+13: ROOT person refrigerator 
+14: ROOT baby_bed computer_keyboard domestic_cat piano 
+15: ROOT baby_bed piano snake 
+16: ROOT laptop piano snake 
+17: ROOT person piano snake 
+18: ROOT cart computer_keyboard person person person person snake 
+19: ROOT baby_bed laptop person piano 
+20: ROOT baby_bed laptop person piano 
+21: ROOT baby_bed laptop person piano 
+22: ROOT person 
+23: ROOT person 
+24: ROOT person person watercraft 
+25: ROOT airplane car helmet motorcycle person piano 
+26: ROOT airplane car helmet motorcycle person piano 
+27: ROOT lobster piano snake watercraft 
+28: ROOT lobster piano snake watercraft 
+29: ROOT lobster piano snake watercraft 
+30: ROOT baby_bed person person snake watercraft 
+31: ROOT person 
+32: ROOT baby_bed bus person piano tv_or_monitor watercraft 
+33: ROOT laptop person piano 
+34: ROOT bicycle car motorcycle piano snake 
+35: ROOT bicycle car motorcycle piano snake 
+36: ROOT person watercraft 
+37: ROOT person person 
+38: ROOT table 
+39: ROOT baby_bed computer_keyboard laptop lobster piano snake 
+40: ROOT baby_bed piano watercraft 
+41: ROOT refrigerator 
+42: ROOT refrigerator 
+43: ROOT baby_bed laptop piano snake sofa 
+44: ROOT person person person person person 
+45: ROOT baby_bed lobster piano snake 
+46: ROOT piano watercraft 
+47: ROOT person person piano 
+48: ROOT bus computer_keyboard piano refrigerator table watercraft 
+49: ROOT bus computer_keyboard piano refrigerator table watercraft 
+50: ROOT baby_bed person piano snake 
+51: ROOT horse person snake 
+52: ROOT horse person snake 
+53: ROOT horse person snake 
+54: ROOT baby_bed laptop lobster piano snake 
+55: ROOT baby_bed computer_keyboard laptop lobster piano snake watercraft 
+56: ROOT baby_bed computer_keyboard laptop lobster piano snake watercraft 
+57: ROOT baby_bed laptop lobster piano snake watercraft 
+58: ROOT snake 
+59: ROOT snake 
+60: ROOT watercraft baby_bed computer_keyboard laptop person piano snake table 
+61: ROOT watercraft baby_bed computer_keyboard laptop person piano snake table 
+62: ROOT baby_bed piano snake table tv_or_monitor 
+63: ROOT baby_bed piano snake table tv_or_monitor 
+64: ROOT snake watercraft 
+65: ROOT snake watercraft 
+66: ROOT baby_bed laptop piano table watercraft 
+67: ROOT baby_bed laptop piano table watercraft 
+68: ROOT baby_bed person person 
+69: ROOT computer_keyboard person watercraft 
+70: ROOT person refrigerator 
+71: ROOT computer_keyboard piano snake tv_or_monitor watercraft 
+72: ROOT person watercraft 
+73: ROOT baby_bed computer_keyboard snake watercraft 
+74: ROOT person 
+75: ROOT lobster snake watercraft 
+76: ROOT person 
+77: ROOT piano snake 
+78: ROOT piano snake 
+79: ROOT computer_keyboard piano watercraft 
+80: ROOT computer_keyboard piano watercraft 
+81: ROOT person refrigerator 
+82: ROOT person 
+83: ROOT person 
+84: ROOT person piano 
+85: ROOT coffee_maker 
+86: ROOT baby_bed car piano watercraft 
+87: ROOT baby_bed car piano watercraft 
+88: ROOT person piano snake watercraft 
+89: ROOT person 
+90: ROOT person 
+91: ROOT computer_keyboard person snake 
+92: ROOT baby_bed computer_keyboard person piano snake 
+93: ROOT person 
+94: ROOT person 
+95: ROOT baby_bed piano 
+96: ROOT baby_bed laptop piano table 
+97: ROOT baby_bed laptop piano table 
+98: ROOT baby_bed person piano snake 
+99: ROOT computer_keyboard horse lobster snake watercraft 
+100: ROOT computer_keyboard horse lobster snake watercraft 
+101: ROOT computer_keyboard laptop piano snake watercraft 

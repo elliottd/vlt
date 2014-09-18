@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("189.067,177.233")
+label="camera"
+]
+"n5" -> "n1" [
+label="behind"
+]
+"n2" [
+comment=("163.293,433.000")
+label="floor"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("69.566,174.545")
+label="plant"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("61.510,312.738")
+label="stand"
+]
+"n3" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("192.333,327.386")
+label="woman"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

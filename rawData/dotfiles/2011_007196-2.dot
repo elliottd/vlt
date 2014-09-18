@@ -1,0 +1,82 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("380.078,163.713")
+label="table"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("172.573,194.309")
+label="woman"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("325.909,134.624")
+label="table"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("359.755,326.649")
+label="table"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("302.323,152.918")
+label="chair"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n5" [
+comment=("302.323,152.918")
+label="chair"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n5" [
+comment=("302.323,152.918")
+label="chair"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("329.133,210.845")
+label="chair"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("463.023,162.299")
+label="chair"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("436.146,271.859")
+label="glass"
+]
+"n0" -> "n8" [
+label="-"
+]
+"n9" [
+comment=("255.070,296.895")
+label="magazine"
+]
+"n2" -> "n9" [
+label="behind"
+]
+}

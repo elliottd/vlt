@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("322.464,172.909")
+label="stores"
+]
+"n2" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("248.662,229.894")
+label="woman"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("144.455,307.674")
+label="escalator"
+]
+"n2" -> "n3" [
+label="behind"
+]
+"n4" [
+comment=("11.957,190.594")
+label="mannequin"
+]
+"n2" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("56.219,184.288")
+label="mannequin"
+]
+"n2" -> "n5" [
+label="beside"
+]
+"n6" [
+comment=("171.038,180.524")
+label="mannequins"
+]
+"n2" -> "n6" [
+label="infront"
+]
+"n7" [
+comment=("477.452,211.837")
+label="mannequins"
+]
+"n2" -> "n7" [
+label="beside"
+]
+}

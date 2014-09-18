@@ -1,0 +1,75 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("213.261,274.843")
+label="street"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("255.216,47.527")
+label="house"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("442.405,65.186")
+label="house"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("211.701,277.533")
+label="bicycle"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n4" [
+comment=("211.701,277.533")
+label="bicycle"
+]
+"n8" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("54.530,64.133")
+label="car"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("126.163,76.189")
+label="car"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("330.707,204.905")
+label="concrete"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("201.617,208.670")
+label="girl"
+]
+"n0" -> "n8" [
+label="-"
+]
+"n9" [
+comment=("57.705,32.667")
+label="house"
+]
+"n0" -> "n9" [
+label="-"
+]
+}

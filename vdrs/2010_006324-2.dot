@@ -1,0 +1,96 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("393.902,183.341")
+label="vendingmachine"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("281.720,266.940")
+label="street"
+]
+"n3" -> "n2" [
+label="above"
+]
+"n2" [
+comment=("281.720,266.940")
+label="street"
+]
+"n6" -> "n2" [
+label="on"
+]
+"n2" [
+comment=("281.720,266.940")
+label="street"
+]
+"n7" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("122.195,197.839")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("110.458,88.258")
+label="buildings"
+]
+"n3" -> "n4" [
+label="above"
+]
+"n4" [
+comment=("110.458,88.258")
+label="buildings"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n4" [
+comment=("110.458,88.258")
+label="buildings"
+]
+"n6" -> "n4" [
+label="on"
+]
+"n4" [
+comment=("110.458,88.258")
+label="buildings"
+]
+"n7" -> "n4" [
+label="on"
+]
+"n4" [
+comment=("110.458,88.258")
+label="buildings"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("430.793,81.339")
+label="buildings"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("249.296,182.882")
+label="girl"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("346.568,185.657")
+label="girl"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

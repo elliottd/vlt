@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("268.137,231.411")
+label="man"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("50.740,159.043")
+label="motorcycle"
+]
+"n1" -> "n2" [
+label="above"
+]
+"n3" [
+comment=("116.137,153.815")
+label="motorcycle"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("253.342,302.301")
+label="motorcycle"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("248.477,250.709")
+label="parkinglot"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

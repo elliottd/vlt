@@ -1,0 +1,68 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("248.961,177.260")
+label="mirror"
+]
+"n4" -> "n1" [
+label="behind"
+]
+"n2" [
+comment=("331.779,165.605")
+label="phone"
+]
+"n5" -> "n2" [
+label="surrounds"
+]
+"n3" [
+comment=("115.254,304.402")
+label="tv"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("247.169,183.317")
+label="wall"
+]
+"n5" -> "n4" [
+label="infront"
+]
+"n4" [
+comment=("247.169,183.317")
+label="wall"
+]
+"n6" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("200.683,230.305")
+label="woman"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n5" [
+comment=("200.683,230.305")
+label="woman"
+]
+"n6" -> "n5" [
+label="beside"
+]
+"n6" [
+comment=("383.396,223.691")
+label="woman"
+]
+"n5" -> "n6" [
+label="beside"
+]
+"n6" [
+comment=("383.396,223.691")
+label="woman"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

@@ -1,0 +1,75 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("107.797,258.323")
+label="people"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("443.835,289.094")
+label="people"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("385.013,154.056")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("67.719,100.568")
+label="people"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("283.833,91.926")
+label="couch"
+]
+"n6" -> "n5" [
+label="on"
+]
+"n6" [
+comment=("272.848,91.827")
+label="girl"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("142.537,220.682")
+label="instrument"
+]
+"n2" -> "n7" [
+label="beside"
+]
+"n8" [
+comment=("409.222,237.604")
+label="instrument"
+]
+"n1" -> "n8" [
+label="surrounds"
+]
+"n9" [
+comment=("411.184,126.306")
+label="instrument"
+]
+"n4" -> "n9" [
+label="surrounds"
+]
+"n10" [
+comment=("47.972,110.957")
+label="instrument"
+]
+"n3" -> "n10" [
+label="surrounds"
+]
+}

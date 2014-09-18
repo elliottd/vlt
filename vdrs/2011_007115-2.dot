@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("191.554,241.196")
+label="camera"
+]
+"n3" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("307.472,56.735")
+label="ledge"
+]
+"n3" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("134.437,287.656")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("156.047,63.962")
+label="trees"
+]
+"n3" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("186.068,317.045")
+label="tripod"
+]
+"n3" -> "n5" [
+label="beside"
+]
+"n6" [
+comment=("231.029,214.686")
+label="water"
+]
+"n3" -> "n6" [
+label="infront"
+]
+}

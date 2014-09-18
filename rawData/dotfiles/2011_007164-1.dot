@@ -1,0 +1,19 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("208.084,220.057")
+label="camera"
+]
+"n2" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("326.296,264.448")
+label="man"
+]
+"n0" -> "n2" [
+label="-"
+]
+}

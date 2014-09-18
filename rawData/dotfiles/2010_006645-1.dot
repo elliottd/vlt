@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("261.170,191.287")
+label="woman"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("37.889,220.183")
+label="horse"
+]
+"n6" -> "n2" [
+label="above"
+]
+"n3" [
+comment=("103.524,214.633")
+label="horse"
+]
+"n5" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("284.950,277.394")
+label="horse"
+]
+"n1" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("43.296,195.671")
+label="person"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("98.334,203.656")
+label="person"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

@@ -1,0 +1,61 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("196.300,33.504")
+label="window"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("221.436,247.748")
+label="window"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("148.775,321.283")
+label="box"
+]
+"n5" -> "n3" [
+label="behind"
+]
+"n4" [
+comment=("173.689,213.628")
+label="house"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("166.134,327.350")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("67.678,24.055")
+label="window"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("70.778,258.735")
+label="window"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("75.181,252.221")
+label="window"
+]
+"n0" -> "n8" [
+label="-"
+]
+}

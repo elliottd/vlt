@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("251.046,61.050")
+label="wall"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("329.293,130.984")
+label="boy"
+]
+"n4" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("331.180,187.378")
+label="horseback"
+]
+"n2" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("451.284,191.701")
+label="man"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("320.550,58.875")
+label="poster"
+]
+"n1" -> "n5" [
+label="surrounds"
+]
+"n6" [
+comment=("195.559,69.855")
+label="posters"
+]
+"n1" -> "n6" [
+label="surrounds"
+]
+"n7" [
+comment=("451.799,69.934")
+label="posters"
+]
+"n1" -> "n7" [
+label="surrounds"
+]
+}

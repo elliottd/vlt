@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("146.391,259.483")
+label="girl"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("225.561,192.246")
+label="girl"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("380.145,172.571")
+label="girl"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("250.361,187.313")
+label="grass"
+]
+"n1" -> "n4" [
+label="on"
+]
+"n4" [
+comment=("250.361,187.313")
+label="grass"
+]
+"n3" -> "n4" [
+label="on"
+]
+"n4" [
+comment=("250.361,187.313")
+label="grass"
+]
+"n2" -> "n4" [
+label="on"
+]
+}

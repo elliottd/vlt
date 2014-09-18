@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("316.016,191.125")
+label="man"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("418.812,266.319")
+label="box"
+]
+"n5" -> "n2" [
+label="below"
+]
+"n3" [
+comment=("455.642,171.110")
+label="box"
+]
+"n5" -> "n3" [
+label="below"
+]
+"n4" [
+comment=("181.728,305.831")
+label="couch"
+]
+"n1" -> "n4" [
+label="on"
+]
+"n5" [
+comment=("434.322,216.918")
+label="footballtable"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("331.561,325.580")
+label="keyboard"
+]
+"n1" -> "n6" [
+label="beside"
+]
+}

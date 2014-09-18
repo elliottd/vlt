@@ -1,0 +1,26 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("204.892,150.435")
+label="father"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("255.012,295.164")
+label="floor"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("150.227,214.491")
+label="son"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

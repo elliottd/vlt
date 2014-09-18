@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("386.726,191.066")
+label="woman"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("243.541,35.684")
+label="ceiling"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("135.017,210.463")
+label="drumstick"
+]
+"n1" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("155.758,316.629")
+label="guitar"
+]
+"n6" -> "n4" [
+label="behind"
+]
+"n5" [
+comment=("350.398,105.216")
+label="harmonica"
+]
+"n1" -> "n5" [
+label="surrounds"
+]
+"n6" [
+comment=("54.943,263.766")
+label="man"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("253.311,200.269")
+label="walls"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("250.138,186.936")
+label="curtains"
+]
+"n6" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("44.872,340.608")
+label="drum"
+]
+"n6" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("253.952,332.016")
+label="drum"
+]
+"n6" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("456.157,343.643")
+label="drums"
+]
+"n6" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("165.602,140.913")
+label="flute"
+]
+"n6" -> "n5" [
+label="surrounds"
+]
+"n6" [
+comment=("155.861,223.995")
+label="man"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("386.507,163.297")
+label="sign"
+]
+"n6" -> "n7" [
+label="beside"
+]
+}

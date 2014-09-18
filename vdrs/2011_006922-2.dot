@@ -1,0 +1,61 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("231.144,120.411")
+label="person"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("244.462,267.528")
+label="area"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("242.064,181.573")
+label="fence"
+]
+"n2" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("248.092,183.334")
+label="horse"
+]
+"n1" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("303.653,246.335")
+label="hurdle"
+]
+"n4" -> "n5" [
+label="above"
+]
+"n6" [
+comment=("225.842,60.363")
+label="mountains"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("394.247,182.967")
+label="obstacle"
+]
+"n2" -> "n7" [
+label="surrounds"
+]
+"n8" [
+comment=("91.262,219.936")
+label="obstacles"
+]
+"n2" -> "n8" [
+label="surrounds"
+]
+}

@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("115.136,230.602")
+label="book"
+]
+"n5" -> "n1" [
+label="below"
+]
+"n2" [
+comment=("164.715,96.644")
+label="books"
+]
+"n5" -> "n2" [
+label="surrounds"
+]
+"n3" [
+comment=("326.411,139.203")
+label="books"
+]
+"n4" -> "n3" [
+label="surrounds"
+]
+"n4" [
+comment=("350.650,147.757")
+label="bookshelves"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("117.371,296.934")
+label="box"
+]
+"n4" -> "n5" [
+label="opposite"
+]
+}

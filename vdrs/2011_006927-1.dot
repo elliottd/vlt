@@ -1,0 +1,26 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("299.622,161.826")
+label="microphone"
+]
+"n3" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("147.508,210.311")
+label="gentleman"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("283.769,226.876")
+label="gentleman"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

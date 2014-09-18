@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("394.357,198.727")
+label="student"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("238.353,147.512")
+label="cabinet"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("88.655,279.342")
+label="instrument"
+]
+"n6" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("280.447,304.575")
+label="instrument"
+]
+"n7" -> "n4" [
+label="surrounds"
+]
+"n5" [
+comment=("386.089,192.416")
+label="instrument"
+]
+"n1" -> "n5" [
+label="surrounds"
+]
+"n6" [
+comment=("135.422,230.325")
+label="student"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("288.886,287.241")
+label="student"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

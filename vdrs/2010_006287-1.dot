@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("185.024,419.879")
+label="bench"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("109.385,261.581")
+label="book"
+]
+"n3" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("194.037,321.613")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("366.603,140.697")
+label="pedestrian"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("211.980,123.897")
+label="pedestrians"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

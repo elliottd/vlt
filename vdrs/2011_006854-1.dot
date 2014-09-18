@@ -1,0 +1,26 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("169.241,273.505")
+label="train"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("255.604,296.543")
+label="floor"
+]
+"n3" -> "n2" [
+label="above"
+]
+"n3" [
+comment=("165.217,208.581")
+label="girl"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

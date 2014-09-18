@@ -1,0 +1,19 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("250.617,148.621")
+label="clouds"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("291.805,137.785")
+label="girl"
+]
+"n0" -> "n2" [
+label="-"
+]
+}

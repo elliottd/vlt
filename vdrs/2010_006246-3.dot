@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("193.395,154.441")
+label="flute"
+]
+"n2" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("234.665,230.817")
+label="girl"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("77.583,259.716")
+label="musicstand"
+]
+"n2" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("436.550,268.941")
+label="piano"
+]
+"n5" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("352.149,249.963")
+label="woman"
+]
+"n2" -> "n5" [
+label="infront"
+]
+"n6" [
+comment=("405.152,180.163")
+label="woman"
+]
+"n2" -> "n6" [
+label="infront"
+]
+}

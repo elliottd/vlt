@@ -1,0 +1,103 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("187.357,170.067")
+label="stand"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("263.948,98.545")
+label="billboard"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("226.019,300.149")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("316.182,227.287")
+label="person"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("188.741,26.506")
+label="billboard"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n5" [
+comment=("188.741,26.506")
+label="billboard"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("198.466,149.392")
+label="billboard"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("345.705,98.961")
+label="billboard"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("187.992,376.338")
+label="field"
+]
+"n9" -> "n8" [
+label="on"
+]
+"n8" [
+comment=("187.992,376.338")
+label="field"
+]
+"n3" -> "n8" [
+label="above"
+]
+"n8" [
+comment=("187.992,376.338")
+label="field"
+]
+"n10" -> "n8" [
+label="above"
+]
+"n8" [
+comment=("187.992,376.338")
+label="field"
+]
+"n4" -> "n8" [
+label="above"
+]
+"n9" [
+comment=("78.542,227.831")
+label="person"
+]
+"n0" -> "n9" [
+label="-"
+]
+"n10" [
+comment=("138.941,243.708")
+label="person"
+]
+"n0" -> "n10" [
+label="-"
+]
+}

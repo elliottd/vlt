@@ -1,0 +1,61 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("283.734,316.822")
+label="street"
+]
+"n2" -> "n1" [
+label="above"
+]
+"n1" [
+comment=("283.734,316.822")
+label="street"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("48.952,184.983")
+label="buildings"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("337.428,128.318")
+label="buildings"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("143.472,314.091")
+label="child"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("242.952,277.968")
+label="child"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("207.781,338.181")
+label="sidewalk"
+]
+"n5" -> "n6" [
+label="above"
+]
+"n6" [
+comment=("207.781,338.181")
+label="sidewalk"
+]
+"n4" -> "n6" [
+label="on"
+]
+}

@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("251.559,279.654")
+label="beach"
+]
+"n2" -> "n1" [
+label="on"
+]
+"n1" [
+comment=("251.559,279.654")
+label="beach"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("157.800,232.487")
+label="dog"
+]
+"n3" -> "n2" [
+label="opposite"
+]
+"n3" [
+comment=("442.440,203.966")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("250.991,127.184")
+label="waves"
+]
+"n2" -> "n4" [
+label="infront"
+]
+"n4" [
+comment=("250.991,127.184")
+label="waves"
+]
+"n3" -> "n4" [
+label="infront"
+]
+}

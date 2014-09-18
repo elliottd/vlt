@@ -1,0 +1,82 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("238.208,261.199")
+label="woman"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("460.064,180.384")
+label="people"
+]
+"n1" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("284.920,296.815")
+label="street"
+]
+"n1" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("362.607,193.008")
+label="people"
+]
+"n1" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("404.094,225.411")
+label="people"
+]
+"n1" -> "n5" [
+label="infront"
+]
+"n6" [
+comment=("230.045,92.386")
+label="buildings"
+]
+"n1" -> "n6" [
+label="infront"
+]
+"n7" [
+comment=("13.159,237.509")
+label="people"
+]
+"n1" -> "n7" [
+label="infront"
+]
+"n8" [
+comment=("62.120,228.474")
+label="people"
+]
+"n1" -> "n8" [
+label="infront"
+]
+"n9" [
+comment=("120.740,215.610")
+label="people"
+]
+"n1" -> "n9" [
+label="infront"
+]
+"n10" [
+comment=("193.326,240.634")
+label="people"
+]
+"n1" -> "n10" [
+label="infront"
+]
+"n11" [
+comment=("302.894,176.432")
+label="people"
+]
+"n1" -> "n11" [
+label="infront"
+]
+}

@@ -1,0 +1,442 @@
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	frying_pan	frying_pan	NN	NN	-	0	-	-	-
+3	person	person	NN	NN	-	0	-	-	-
+4	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+5	sofa	sofa	NN	NN	-	3	on	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	laptop	laptop	NN	NN	-	3	beside	-	-
+3	piano	piano	NN	NN	-	0	-	-	-
+4	snake	snake	NN	NN	-	0	-	-	-
+5	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	laptop	laptop	NN	NN	-	3	beside	-	-
+3	piano	piano	NN	NN	-	0	-	-	-
+4	snake	snake	NN	NN	-	0	-	-	-
+5	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	car	car	NN	NN	-	0	-	-	-
+
+1	coffee_maker	coffee_maker	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	coffee_maker	coffee_maker	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	person	person	NN	NN	-	0	-	-	-
+4	person	person	NN	NN	-	0	-	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	piano	piano	NN	NN	-	2	beside	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	person	person	NN	NN	-	0	-	-	-
+4	piano	piano	NN	NN	-	1	beside	-	-
+5	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	person	person	NN	NN	-	0	-	-	-
+4	piano	piano	NN	NN	-	1	beside	-	-
+5	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	piano	piano	NN	NN	-	0	-	-	-
+2	snake	snake	NN	NN	-	0	-	-	-
+
+1	piano	piano	NN	NN	-	0	-	-	-
+2	snake	snake	NN	NN	-	0	-	-	-
+
+1	car	car	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	piano	piano	NN	NN	-	2	beside	-	-
+4	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	car	car	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	piano	piano	NN	NN	-	2	beside	-	-
+4	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	car	car	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	piano	piano	NN	NN	-	2	beside	-	-
+4	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	laptop	laptop	NN	NN	-	2	beside	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	piano	piano	NN	NN	-	2	beside	-	-
+4	snake	snake	NN	NN	-	0	-	-	-
+5	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	laptop	laptop	NN	NN	-	2	beside	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	piano	piano	NN	NN	-	2	beside	-	-
+4	snake	snake	NN	NN	-	0	-	-	-
+5	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	lamp	lamp	NN	NN	-	0	-	-	-
+3	piano	piano	NN	NN	-	0	-	-	-
+4	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	bicycle	bicycle	NN	NN	-	3	above	-	-
+2	motorcycle	motorcycle	NN	NN	-	3	above	-	-
+3	person	person	NN	NN	-	0	-	-	-
+
+1	bicycle	bicycle	NN	NN	-	3	above	-	-
+2	motorcycle	motorcycle	NN	NN	-	3	above	-	-
+3	person	person	NN	NN	-	0	-	-	-
+
+1	horse	horse	NN	NN	-	2	above	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+4	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	laptop	laptop	NN	NN	-	3	beside	-	-
+3	piano	piano	NN	NN	-	0	-	-	-
+4	snake	snake	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	laptop	laptop	NN	NN	-	3	beside	-	-
+3	piano	piano	NN	NN	-	0	-	-	-
+4	snake	snake	NN	NN	-	0	-	-	-
+
+1	hat_with_a_wide_brim	hat_with_a_wide_brim	NN	NN	-	0	-	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+
+1	lobster	lobster	NN	NN	-	0	-	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	car	car	NN	NN	-	0	-	-	-
+3	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+4	lobster	lobster	NN	NN	-	0	-	-	-
+5	piano	piano	NN	NN	-	2	surrounds	-	-
+6	snake	snake	NN	NN	-	0	-	-	-
+7	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	car	car	NN	NN	-	0	-	-	-
+3	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+4	lobster	lobster	NN	NN	-	0	-	-	-
+5	piano	piano	NN	NN	-	2	surrounds	-	-
+6	snake	snake	NN	NN	-	0	-	-	-
+7	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	chair	chair	NN	NN	-	0	-	-	-
+3	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+4	laptop	laptop	NN	NN	-	5	beside	-	-
+5	piano	piano	NN	NN	-	0	-	-	-
+6	snake	snake	NN	NN	-	0	-	-	-
+7	tv_or_monitor	tv_or_monitor	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+
+1	snake	snake	NN	NN	-	0	-	-	-
+
+1	piano	piano	NN	NN	-	0	-	-	-
+
+1	piano	piano	NN	NN	-	0	-	-	-
+
+1	horse	horse	NN	NN	-	0	-	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	person	person	NN	NN	-	0	-	-	-
+4	piano	piano	NN	NN	-	2	beside	-	-
+5	snake	snake	NN	NN	-	0	-	-	-
+6	sofa	sofa	NN	NN	-	2	on	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	coffee_maker	coffee_maker	NN	NN	-	0	-	-	-
+3	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	coffee_maker	coffee_maker	NN	NN	-	0	-	-	-
+3	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+
+1	cart	cart	NN	NN	-	0	-	-	-
+2	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+3	person	person	NN	NN	-	0	-	-	-
+4	person	person	NN	NN	-	0	-	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	person	person	NN	NN	-	0	-	-	-
+7	snake	snake	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	horse	horse	NN	NN	-	0	-	-	-
+
+1	horse	horse	NN	NN	-	0	-	-	-
+
+1	horse	horse	NN	NN	-	0	-	-	-
+
+1	watercraft	watercraft	NN	NN	-	0	-	-	-
+2	watercraft	watercraft	NN	NN	-	0	-	-	-
+3	car	car	NN	NN	-	0	-	-	-
+4	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+5	lobster	lobster	NN	NN	-	0	-	-	-
+6	motorcycle	motorcycle	NN	NN	-	3	above	-	-
+7	piano	piano	NN	NN	-	9	surrounds	-	-
+8	snake	snake	NN	NN	-	0	-	-	-
+9	table	table	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+4	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	person	person	NN	NN	-	0	-	-	-
+4	snake	snake	NN	NN	-	0	-	-	-
+5	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	snake	snake	NN	NN	-	0	-	-	-
+2	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	snake	snake	NN	NN	-	0	-	-	-
+2	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	snake	snake	NN	NN	-	0	-	-	-
+2	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	watercraft	watercraft	NN	NN	-	0	-	-	-
+2	antelope	antelope	NN	NN	-	0	-	-	-
+3	camel	camel	NN	NN	-	0	-	-	-
+4	cattle	cattle	NN	NN	-	0	-	-	-
+5	horse	horse	NN	NN	-	7	above	-	-
+6	lobster	lobster	NN	NN	-	0	-	-	-
+7	person	person	NN	NN	-	0	-	-	-
+8	snake	snake	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	train	train	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	piano	piano	NN	NN	-	0	-	-	-
+2	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	car	car	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	laptop	laptop	NN	NN	-	4	beside	-	-
+3	lobster	lobster	NN	NN	-	0	-	-	-
+4	piano	piano	NN	NN	-	0	-	-	-
+5	snake	snake	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+3	laptop	laptop	NN	NN	-	5	beside	-	-
+4	lobster	lobster	NN	NN	-	0	-	-	-
+5	piano	piano	NN	NN	-	0	-	-	-
+6	snake	snake	NN	NN	-	0	-	-	-
+7	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	airplane	airplane	NN	NN	-	3	on	-	-
+2	piano	piano	NN	NN	-	3	surrounds	-	-
+3	table	table	NN	NN	-	0	-	-	-
+4	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	laptop	laptop	NN	NN	-	3	beside	-	-
+2	lobster	lobster	NN	NN	-	0	-	-	-
+3	piano	piano	NN	NN	-	0	-	-	-
+4	snake	snake	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	watercraft	watercraft	NN	NN	-	0	-	-	-
+2	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+3	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+4	laptop	laptop	NN	NN	-	6	beside	-	-
+5	lobster	lobster	NN	NN	-	0	-	-	-
+6	motorcycle	motorcycle	NN	NN	-	1	above	-	-
+7	piano	piano	NN	NN	-	6	beside	-	-
+8	snake	snake	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+3	lobster	lobster	NN	NN	-	0	-	-	-
+4	person	person	NN	NN	-	0	-	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	person	person	NN	NN	-	0	-	-	-
+7	snake	snake	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+4	sofa	sofa	NN	NN	-	0	-	-	-
+5	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	piano	piano	NN	NN	-	2	beside	-	-
+
+1	laptop	laptop	NN	NN	-	2	beside	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+4	tv_or_monitor	tv_or_monitor	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	snake	snake	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	snake	snake	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	laptop	laptop	NN	NN	-	2	beside	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+
+1	laptop	laptop	NN	NN	-	2	beside	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+3	lobster	lobster	NN	NN	-	0	-	-	-
+4	piano	piano	NN	NN	-	6	surrounds	-	-
+5	snake	snake	NN	NN	-	0	-	-	-
+6	table	table	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	laptop	laptop	NN	NN	-	4	beside	-	-
+3	lobster	lobster	NN	NN	-	0	-	-	-
+4	piano	piano	NN	NN	-	0	-	-	-
+5	snake	snake	NN	NN	-	0	-	-	-
+6	turtle	turtle	NN	NN	-	0	-	-	-
+7	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	piano	piano	NN	NN	-	0	-	-	-
+3	snake	snake	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	cart	cart	NN	NN	-	0	-	-	-
+3	lobster	lobster	NN	NN	-	0	-	-	-
+4	person	person	NN	NN	-	0	-	-	-
+5	snake	snake	NN	NN	-	0	-	-	-
+6	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	cart	cart	NN	NN	-	0	-	-	-
+3	lobster	lobster	NN	NN	-	0	-	-	-
+4	person	person	NN	NN	-	0	-	-	-
+5	snake	snake	NN	NN	-	0	-	-	-
+6	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	coffee_maker	coffee_maker	NN	NN	-	0	-	-	-
+
+1	tape_player	tape_player	NN	NN	-	0	-	-	-
+2	snake	snake	NN	NN	-	0	-	-	-
+3	table	table	NN	NN	-	0	-	-	-
+4	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+5	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+6	dishwasher	dishwasher	NN	NN	-	0	-	-	-
+7	laptop	laptop	NN	NN	-	3	on	-	-
+8	lobster	lobster	NN	NN	-	0	-	-	-
+9	piano	piano	NN	NN	-	3	surrounds	-	-
+10	printer	printer	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	snake	snake	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	snake	snake	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+2	snake	snake	NN	NN	-	0	-	-	-
+3	watercraft	watercraft	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+
+1	baby_bed	baby_bed	NN	NN	-	0	-	-	-
+2	laptop	laptop	NN	NN	-	4	on	-	-
+3	piano	piano	NN	NN	-	4	surrounds	-	-
+4	table	table	NN	NN	-	0	-	-	-
+
+1	airplane	airplane	NN	NN	-	0	-	-	-
+2	computer_keyboard	computer_keyboard	NN	NN	-	0	-	-	-
+3	laptop	laptop	NN	NN	-	4	beside	-	-
+4	piano	piano	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+2	refrigerator	refrigerator	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+
+1	person	person	NN	NN	-	0	-	-	-
+

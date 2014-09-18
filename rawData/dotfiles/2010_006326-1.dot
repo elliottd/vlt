@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("158.197,432.342")
+label="track"
+]
+"n5" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("210.128,294.646")
+label="field"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("106.965,263.935")
+label="hurdle"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("282.988,297.557")
+label="hurdles"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("195.848,229.707")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("55.124,211.403")
+label="runners"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("359.927,261.481")
+label="runners"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

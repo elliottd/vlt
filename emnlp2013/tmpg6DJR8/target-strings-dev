@@ -1,0 +1,102 @@
+0: ROOT box brother girl mother present 
+1: ROOT bike grass grass person trail trees 
+2: ROOT bike person trail 
+3: ROOT bike person trees 
+4: ROOT barn floor girl horse 
+5: ROOT girl grass 
+6: ROOT girl grass trees 
+7: ROOT flag man sign 
+8: ROOT man sign 
+9: ROOT child phone portrait wall 
+10: ROOT bike man 
+11: ROOT woman people street people people people people people people people 
+12: ROOT woman people street people people buildings people people people people people 
+13: ROOT bike car man road trees trees 
+14: ROOT bike car man road trees trees 
+15: ROOT vegetation wall woman 
+16: ROOT vegetation wall woman 
+17: ROOT chair couch laptop man 
+18: ROOT chair couch laptop man 
+19: ROOT horse person 
+20: ROOT fence grass horse person trees 
+21: ROOT beach horse horse man woman 
+22: ROOT boy snow tree trees 
+23: ROOT drink male male male man 
+24: ROOT vendingmachine street person buildings buildings girl girl 
+25: ROOT computers person woman 
+26: ROOT table plate soda computer crumbs man 
+27: ROOT wall boy cellphone door floor friend friend 
+28: ROOT box boxes computer girl object 
+29: ROOT person instrument person 
+30: ROOT field horse man 
+31: ROOT woman sidewalk cone 
+32: ROOT building man 
+33: ROOT building man pole sidewalk street 
+34: ROOT man 
+35: ROOT laptop laptop person person 
+36: ROOT street buildings buildings child child sidewalk 
+37: ROOT wall alley door door man wall 
+38: ROOT person person sidewalk sign 
+39: ROOT camera plant woman 
+40: ROOT bicycle buildings people person road sand 
+41: ROOT guitar man 
+42: ROOT people guitar man 
+43: ROOT baby basket book chair changingstation 
+44: ROOT baby book chair changingstation shelf 
+45: ROOT trumpet person person carpet instrument person 
+46: ROOT computer computer man woman 
+47: ROOT chair computer computer man map woman 
+48: ROOT man motorcycle 
+49: ROOT man motorcycle road 
+50: ROOT trees man road bicycle man man bicycle bicycle bicycle bicycle man man 
+51: ROOT book box child person plate 
+52: ROOT person person person car fence fence forest grass path 
+53: ROOT hut people 
+54: ROOT beach dog person waves 
+55: ROOT couch laptop man 
+56: ROOT couch laptop man 
+57: ROOT camera man woman 
+58: ROOT bike building man people person storefronts 
+59: ROOT horseback river woman 
+60: ROOT horseback trees woman 
+61: ROOT horseback river skyline trees woman 
+62: ROOT instrument man 
+63: ROOT train floor girl 
+64: ROOT grass horse jockey trees 
+65: ROOT horse jockey trees 
+66: ROOT people people people piano snacks 
+67: ROOT buildings dog woman 
+68: ROOT woman chandelier 
+69: ROOT man people people trees 
+70: ROOT camera sidewalk woman 
+71: ROOT wall boy horseback man poster posters posters 
+72: ROOT throughfare wall boy horseback man 
+73: ROOT horse jockey trees trees 
+74: ROOT child door railing telephone wall 
+75: ROOT child door telephone 
+76: ROOT child door telephone 
+77: ROOT horse person 
+78: ROOT horse person stable 
+79: ROOT binocular dirtroad mountain people people people trees 
+80: ROOT garbagecontainer person shoppingbag shoppingbag walkover 
+81: ROOT girl presents woman 
+82: ROOT woman videocamera monitor 
+83: ROOT man man 
+84: ROOT computer man 
+85: ROOT fire man 
+86: ROOT fence fire man people 
+87: ROOT blanket foliage person 
+88: ROOT people camera man people 
+89: ROOT computer man 
+90: ROOT clouds girl 
+91: ROOT boy ledge 
+92: ROOT boy ledge 
+93: ROOT horse rider rider rider 
+94: ROOT horse horse horse rider 
+95: ROOT bike girl shadow vehicle woman 
+96: ROOT book boy wall 
+97: ROOT something wall child grass plants 
+98: ROOT man trees 
+99: ROOT newspaper woman 
+100: ROOT camera man 
+101: ROOT table woman table table chair chair chair glass magazine 

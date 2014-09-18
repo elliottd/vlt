@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("99.646,205.008")
+label="child"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("28.013,255.981")
+label="grass"
+]
+"n1" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("196.153,380.786")
+label="horse"
+]
+"n1" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("200.904,75.361")
+label="tree"
+]
+"n1" -> "n4" [
+label="infront"
+]
+}

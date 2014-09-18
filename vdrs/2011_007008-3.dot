@@ -1,0 +1,19 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("27.627,199.797")
+label="baseball"
+]
+"n2" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("179.322,260.284")
+label="pitcher"
+]
+"n0" -> "n2" [
+label="-"
+]
+}

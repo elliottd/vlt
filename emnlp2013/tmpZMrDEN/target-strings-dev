@@ -1,0 +1,101 @@
+0: ROOT trees man man people person person person 
+1: ROOT man man people person person person 
+2: ROOT newspaper chair man 
+3: ROOT boat man trees wake 
+4: ROOT bike person trail 
+5: ROOT mirror wall woman woman 
+6: ROOT lamp phone woman 
+7: ROOT bike car man road trees trees 
+8: ROOT bike car man road trees trees 
+9: ROOT bike car man 
+10: ROOT man phone sign wall 
+11: ROOT man phone sign wall 
+12: ROOT bed girl laptop 
+13: ROOT girl laptop 
+14: ROOT chair couch laptop man 
+15: ROOT chair couch laptop man 
+16: ROOT fence grass horse person trees 
+17: ROOT field hills horse person 
+18: ROOT keyboard tree woman 
+19: ROOT horn man umbrella 
+20: ROOT guitar guitar man microphone person 
+21: ROOT guitar man 
+22: ROOT curtain guitar man 
+23: ROOT table person person canopy electronics 
+24: ROOT table person person 
+25: ROOT computers person woman 
+26: ROOT road trees car cars participant participant participant participant participant 
+27: ROOT horse rock rock rock woman 
+28: ROOT trees trees bag person person person trail 
+29: ROOT cellphone man 
+30: ROOT cellphone man 
+31: ROOT cellphone man 
+32: ROOT sidewalk woman 
+33: ROOT bridge crowd sidewalk woman 
+34: ROOT woman cone person pole 
+35: ROOT bookshelf doorway doorway girl violin picture 
+36: ROOT house house bicycle girl house 
+37: ROOT street house house bicycle car car concrete girl house 
+38: ROOT cellphone man 
+39: ROOT building man telephone 
+40: ROOT man telephone 
+41: ROOT building building bushes man telephone 
+42: ROOT grass person person trees 
+43: ROOT bike bike child child house 
+44: ROOT canoe canoe grass man 
+45: ROOT camera canoe canoe man 
+46: ROOT path person person person sign trees 
+47: ROOT person person person trees 
+48: ROOT phone man man 
+49: ROOT person person computer computer computer computer desks person person 
+50: ROOT bike field man man path trees 
+51: ROOT woman horse horse horse person person 
+52: ROOT woman horse horse person 
+53: ROOT person person person car fence fence forest grass path 
+54: ROOT beach horse horse person person 
+55: ROOT girl girl phone shade wall 
+56: ROOT fence friend friend friend friend friend road 
+57: ROOT girl girl girl grass 
+58: ROOT man people people rock water 
+59: ROOT belt fence girl horse trees 
+60: ROOT floor girl 
+61: ROOT package deskchairfoot girl 
+62: ROOT man door man 
+63: ROOT child door railing telephone wall 
+64: ROOT child door telephone 
+65: ROOT bookcases computer person 
+66: ROOT fireplace violin woman 
+67: ROOT fireplace violin woman 
+68: ROOT binocular dirtroad mountain people people people trees 
+69: ROOT man tourists trumpet 
+70: ROOT building man tourists trumpet 
+71: ROOT man phone storedisplay 
+72: ROOT baseball baseballdiamond mound pitcher 
+73: ROOT man 
+74: ROOT man wall 
+75: ROOT people camera man people 
+76: ROOT bricks man phone 
+77: ROOT drummer guitarist man microphone stage 
+78: ROOT boy ledge 
+79: ROOT arena field line man man 
+80: ROOT line man man 
+81: ROOT athlete finishline people people 
+82: ROOT book boy 
+83: ROOT bike girl 
+84: ROOT bike biker man 
+85: ROOT bike biker spectators 
+86: ROOT woman woman 
+87: ROOT barstool bookshelf person 
+88: ROOT piano someone someone 
+89: ROOT something wall child grass plants 
+90: ROOT trees horse person 
+91: ROOT trees horse person 
+92: ROOT horse man 
+93: ROOT newspaper woman 
+94: ROOT beach boy sand water 
+95: ROOT trees pedesterian 
+96: ROOT boy girl shrubs walkway 
+97: ROOT camera man shops table woman 
+98: ROOT rail river trees wall woman woman 
+99: ROOT river trees wall woman woman 
+100: ROOT boy instrument wall 

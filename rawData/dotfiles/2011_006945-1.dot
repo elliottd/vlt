@@ -1,0 +1,110 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("281.787,254.557")
+label="pool"
+]
+"n6" -> "n1" [
+label="on"
+]
+"n1" [
+comment=("281.787,254.557")
+label="pool"
+]
+"n7" -> "n1" [
+label="on"
+]
+"n1" [
+comment=("281.787,254.557")
+label="pool"
+]
+"n3" -> "n1" [
+label="on"
+]
+"n1" [
+comment=("281.787,254.557")
+label="pool"
+]
+"n5" -> "n1" [
+label="on"
+]
+"n2" [
+comment=("201.783,196.891")
+label="toddler"
+]
+"n3" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("279.473,227.109")
+label="lady"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("319.002,112.714")
+label="buildings"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n4" [
+comment=("319.002,112.714")
+label="buildings"
+]
+"n6" -> "n4" [
+label="on"
+]
+"n4" [
+comment=("319.002,112.714")
+label="buildings"
+]
+"n3" -> "n4" [
+label="beside"
+]
+"n4" [
+comment=("319.002,112.714")
+label="buildings"
+]
+"n7" -> "n4" [
+label="on"
+]
+"n4" [
+comment=("319.002,112.714")
+label="buildings"
+]
+"n3" -> "n4" [
+label="on"
+]
+"n4" [
+comment=("319.002,112.714")
+label="buildings"
+]
+"n5" -> "n4" [
+label="on"
+]
+"n5" [
+comment=("101.999,181.968")
+label="child"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("122.605,188.596")
+label="child"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("187.193,171.082")
+label="child"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

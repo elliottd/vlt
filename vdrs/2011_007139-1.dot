@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("398.094,167.943")
+label="instrument"
+]
+"n2" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("111.569,232.631")
+label="man"
+]
+"n3" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("342.638,131.790")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("252.311,268.327")
+label="piano"
+]
+"n3" -> "n4" [
+label="infront"
+]
+}

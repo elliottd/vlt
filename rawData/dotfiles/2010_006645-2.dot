@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("261.170,191.287")
+label="woman"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("248.813,298.985")
+label="arena"
+]
+"n3" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("284.950,277.394")
+label="horse"
+]
+"n1" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("246.095,242.180")
+label="jumps"
+]
+"n2" -> "n4" [
+label="surrounds"
+]
+}

@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("306.651,163.795")
+label="SUV"
+]
+"n5" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("176.988,227.502")
+label="bike"
+]
+"n1" -> "n2" [
+label="below"
+]
+"n3" [
+comment=("255.075,52.844")
+label="bike"
+]
+"n1" -> "n3" [
+label="below"
+]
+"n4" [
+comment=("363.405,53.403")
+label="bike"
+]
+"n5" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("180.166,182.116")
+label="person"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("282.256,249.272")
+label="road"
+]
+"n4" -> "n6" [
+label="on"
+]
+}

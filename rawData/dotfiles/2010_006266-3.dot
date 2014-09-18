@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("164.491,193.552")
+label="airplane"
+]
+"n3" -> "n1" [
+label="on"
+]
+"n2" [
+comment=("166.388,248.736")
+label="magazine"
+]
+"n3" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("67.970,317.926")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("186.512,356.196")
+label="passenger"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("47.492,177.097")
+label="passenger"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("301.889,191.245")
+label="passengers"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("148.030,249.607")
+label="seats"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

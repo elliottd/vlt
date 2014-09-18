@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("321.230,28.117")
+label="blinds"
+]
+"n4" -> "n1" [
+label="behind"
+]
+"n2" [
+comment=("255.407,217.775")
+label="couch"
+]
+"n5" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("98.103,207.821")
+label="phone"
+]
+"n5" -> "n3" [
+label="surrounds"
+]
+"n4" [
+comment=("305.945,28.422")
+label="window"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("112.418,229.753")
+label="woman"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

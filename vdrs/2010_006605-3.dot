@@ -1,0 +1,61 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("193.143,439.711")
+label="statue"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("195.176,252.787")
+label="water"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("153.859,369.866")
+label="bicycle"
+]
+"n4" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("177.256,340.082")
+label="bicyclist"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("124.985,401.293")
+label="other"
+]
+"n4" -> "n5" [
+label="infront"
+]
+"n6" [
+comment=("312.819,394.559")
+label="other"
+]
+"n4" -> "n6" [
+label="beside"
+]
+"n7" [
+comment=("350.601,386.948")
+label="other"
+]
+"n4" -> "n7" [
+label="beside"
+]
+"n8" [
+comment=("203.738,205.052")
+label="pier"
+]
+"n2" -> "n8" [
+label="surrounds"
+]
+}

@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("398.730,231.107")
+label="river"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("216.291,194.568")
+label="trees"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("231.260,334.139")
+label="wall"
+]
+"n5" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("75.537,203.739")
+label="woman"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("376.588,284.913")
+label="woman"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

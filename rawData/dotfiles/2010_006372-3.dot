@@ -1,0 +1,61 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("226.019,300.149")
+label="person"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("316.182,227.287")
+label="person"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("187.992,376.338")
+label="field"
+]
+"n4" -> "n3" [
+label="on"
+]
+"n3" [
+comment=("187.992,376.338")
+label="field"
+]
+"n1" -> "n3" [
+label="above"
+]
+"n3" [
+comment=("187.992,376.338")
+label="field"
+]
+"n5" -> "n3" [
+label="above"
+]
+"n3" [
+comment=("187.992,376.338")
+label="field"
+]
+"n2" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("78.542,227.831")
+label="person"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("138.941,243.708")
+label="person"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

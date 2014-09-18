@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("242.687,170.728")
+label="camera"
+]
+"n4" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("394.240,139.301")
+label="houses"
+]
+"n3" -> "n2" [
+label="below"
+]
+"n3" [
+comment=("298.543,251.160")
+label="lake"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("169.983,193.596")
+label="person"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("165.444,125.284")
+label="trees"
+]
+"n3" -> "n5" [
+label="below"
+]
+"n6" [
+comment=("477.372,150.229")
+label="trees"
+]
+"n3" -> "n6" [
+label="below"
+]
+}

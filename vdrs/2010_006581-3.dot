@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("105.655,241.082")
+label="woman"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("111.286,335.351")
+label="bicycle"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n2" [
+comment=("111.286,335.351")
+label="bicycle"
+]
+"n4" -> "n2" [
+label="above"
+]
+"n3" [
+comment=("469.644,232.477")
+label="bicycle"
+]
+"n1" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("485.783,181.385")
+label="male"
+]
+"n0" -> "n4" [
+label="-"
+]
+}

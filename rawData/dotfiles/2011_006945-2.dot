@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("281.787,254.557")
+label="pool"
+]
+"n2" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("201.783,196.891")
+label="toddler"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("279.473,227.109")
+label="lady"
+]
+"n2" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("263.494,145.724")
+label="people"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("280.451,149.879")
+label="chair"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("340.483,146.559")
+label="chair"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("402.041,145.384")
+label="chair"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("100.140,59.763")
+label="phone"
+]
+"n2" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("124.678,160.167")
+label="woman"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("227.614,201.191")
+label="people"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("312.757,212.574")
+label="people"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("413.761,328.489")
+label="blanket"
+]
+"n3" -> "n5" [
+label="above"
+]
+"n5" [
+comment=("413.761,328.489")
+label="blanket"
+]
+"n4" -> "n5" [
+label="above"
+]
+}

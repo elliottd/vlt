@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("396.713,224.013")
+label="bike"
+]
+"n3" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("410.558,172.267")
+label="field"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("55.275,194.861")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("399.832,187.368")
+label="man"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("252.169,303.091")
+label="path"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("198.588,99.812")
+label="trees"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

@@ -1,0 +1,96 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("182.126,126.491")
+label="wall"
+]
+"n6" -> "n1" [
+label="infront"
+]
+"n1" [
+comment=("182.126,126.491")
+label="wall"
+]
+"n7" -> "n1" [
+label="infront"
+]
+"n1" [
+comment=("182.126,126.491")
+label="wall"
+]
+"n2" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("250.472,282.214")
+label="boy"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("235.861,197.344")
+label="cellphone"
+]
+"n2" -> "n3" [
+label="surrounds"
+]
+"n4" [
+comment=("259.536,130.196")
+label="door"
+]
+"n2" -> "n4" [
+label="infront"
+]
+"n4" [
+comment=("259.536,130.196")
+label="door"
+]
+"n6" -> "n4" [
+label="infront"
+]
+"n4" [
+comment=("259.536,130.196")
+label="door"
+]
+"n7" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("217.483,315.642")
+label="floor"
+]
+"n2" -> "n5" [
+label="on"
+]
+"n5" [
+comment=("217.483,315.642")
+label="floor"
+]
+"n7" -> "n5" [
+label="beside"
+]
+"n5" [
+comment=("217.483,315.642")
+label="floor"
+]
+"n6" -> "n5" [
+label="on"
+]
+"n6" [
+comment=("61.299,279.527")
+label="friend"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("448.328,298.697")
+label="friend"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

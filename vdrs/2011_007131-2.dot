@@ -1,0 +1,222 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("214.175,220.181")
+label="people"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("341.753,223.863")
+label="people"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("122.602,211.607")
+label="people"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("94.467,81.173")
+label="window"
+]
+"n1" -> "n4" [
+label="infront"
+]
+"n4" [
+comment=("94.467,81.173")
+label="window"
+]
+"n5" -> "n4" [
+label="infront"
+]
+"n4" [
+comment=("94.467,81.173")
+label="window"
+]
+"n2" -> "n4" [
+label="infront"
+]
+"n4" [
+comment=("94.467,81.173")
+label="window"
+]
+"n3" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("416.282,257.239")
+label="people"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("55.594,176.188")
+label="table"
+]
+"n1" -> "n6" [
+label="opposite"
+]
+"n6" [
+comment=("55.594,176.188")
+label="table"
+]
+"n5" -> "n6" [
+label="opposite"
+]
+"n6" [
+comment=("55.594,176.188")
+label="table"
+]
+"n2" -> "n6" [
+label="opposite"
+]
+"n6" [
+comment=("55.594,176.188")
+label="table"
+]
+"n3" -> "n6" [
+label="beside"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n1" -> "n7" [
+label="infront"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n1" -> "n7" [
+label="opposite"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n5" -> "n7" [
+label="opposite"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n5" -> "n7" [
+label="infront"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n2" -> "n7" [
+label="opposite"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n2" -> "n7" [
+label="infront"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n3" -> "n7" [
+label="infront"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n3" -> "n7" [
+label="beside"
+]
+"n7" [
+comment=("115.865,229.974")
+label="cello"
+]
+"n5" -> "n7" [
+label="beside"
+]
+"n8" [
+comment=("202.853,220.739")
+label="cello"
+]
+"n2" -> "n8" [
+label="behind"
+]
+"n9" [
+comment=("311.473,255.297")
+label="cello"
+]
+"n1" -> "n9" [
+label="behind"
+]
+"n10" [
+comment=("365.010,264.375")
+label="cello"
+]
+"n3" -> "n10" [
+label="behind"
+]
+"n11" [
+comment=("44.373,172.639")
+label="chair"
+]
+"n6" -> "n11" [
+label="beside"
+]
+"n12" [
+comment=("87.641,185.551")
+label="chair"
+]
+"n6" -> "n12" [
+label="infront"
+]
+"n13" [
+comment=("426.536,120.604")
+label="horn"
+]
+"n4" -> "n13" [
+label="infront"
+]
+}

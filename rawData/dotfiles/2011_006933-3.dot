@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("69.983,79.742")
+label="car"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("161.454,65.279")
+label="car"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("229.606,56.019")
+label="car"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("338.414,128.298")
+label="computer"
+]
+"n6" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("32.652,131.072")
+label="picture"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("230.835,156.569")
+label="woman"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("184.673,335.379")
+label="bridge"
+]
+"n4" -> "n1" [
+label="on"
+]
+"n2" [
+comment=("89.720,129.525")
+label="crowd"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("131.245,351.067")
+label="sidewalk"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("194.557,232.070")
+label="woman"
+]
+"n0" -> "n4" [
+label="-"
+]
+}

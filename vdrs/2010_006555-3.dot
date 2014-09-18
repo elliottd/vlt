@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("199.811,23.570")
+label="ceiling"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("145.400,226.464")
+label="guitar"
+]
+"n4" -> "n2" [
+label="surrounds"
+]
+"n3" [
+comment=("300.821,254.461")
+label="guitar"
+]
+"n5" -> "n3" [
+label="surrounds"
+]
+"n4" [
+comment=("149.992,212.330")
+label="man"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("366.613,217.129")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("256.988,206.635")
+label="wall"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

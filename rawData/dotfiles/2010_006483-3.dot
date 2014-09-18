@@ -1,0 +1,12 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("212.762,186.861")
+label="man"
+]
+"n0" -> "n1" [
+label="-"
+]
+}

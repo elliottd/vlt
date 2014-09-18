@@ -1,0 +1,443 @@
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	person	person	NN	NN	"386.000|165.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	person	person	NN	NN	"386.000|165.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	snake	snake	NN	NN	"274.500|148.000" 	0	label	_	_
+2	table	table	NN	NN	"276.000|165.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+6	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	person	person	NN	NN	"257.000|257.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"377.000|257.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"377.000|257.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	horse	horse	NN	NN	"237.000|265.000" 	0	label	_	_
+2	person	person	NN	NN	"261.000|171.500" 	0	label	_	_
+
+1	snake	snake	NN	NN	"223.000|154.500" 	0	label	_	_
+2	bicycle	bicycle	NN	NN	"206.000|206.000" 	0	label	_	_
+3	car	car	NN	NN	"335.500|127.000" 	0	label	_	_
+4	computer_keyboard	computer_keyboard	NN	NN	"197.000|158.000" 	0	label	_	_
+5	lobster	lobster	NN	NN	"197.000|158.000" 	0	label	_	_
+6	motorcycle	motorcycle	NN	NN	"232.500|200.500" 	0	label	_	_
+7	motorcycle	motorcycle	NN	NN	"239.000|179.000" 	0	label	_	_
+8	piano	piano	NN	NN	"197.000|158.000" 	0	label	_	_
+
+1	snake	snake	NN	NN	"217.000|177.500" 	0	label	_	_
+2	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	snake	snake	NN	NN	"217.000|177.500" 	0	label	_	_
+2	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	car	car	NN	NN	"11.500|215.000" 	0	label	_	_
+2	person	person	NN	NN	"267.000|267.000" 	0	label	_	_
+3	refrigerator	refrigerator	NN	NN	"194.500|243.000" 	0	label	_	_
+
+1	car	car	NN	NN	"106.000|190.000" 	0	label	_	_
+2	person	person	NN	NN	"264.500|208.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	car	car	NN	NN	"106.000|190.000" 	0	label	_	_
+2	person	person	NN	NN	"264.500|208.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	snake	snake	NN	NN	"181.000|376.000" 	0	label	_	_
+
+1	snake	snake	NN	NN	"181.000|376.000" 	0	label	_	_
+
+1	snake	snake	NN	NN	"274.500|148.000" 	0	label	_	_
+2	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+4	sofa	sofa	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+4	sofa	sofa	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+2	snake	snake	NN	NN	"217.000|177.500" 	0	label	_	_
+3	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+2	snake	snake	NN	NN	"217.000|177.500" 	0	label	_	_
+3	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	guitar	guitar	NN	NN	"237.500|294.000" 	0	label	_	_
+2	person	person	NN	NN	"170.000|267.000" 	0	label	_	_
+3	refrigerator	refrigerator	NN	NN	"194.500|243.000" 	0	label	_	_
+
+1	car	car	NN	NN	"492.500|156.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"118.000|197.000" 	0	label	_	_
+4	person	person	NN	NN	"295.000|177.500" 	0	label	_	_
+
+1	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+4	watercraft	watercraft	NN	NN	"317.000|41.500" 	0	label	_	_
+
+1	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+4	watercraft	watercraft	NN	NN	"317.000|41.500" 	0	label	_	_
+
+1	bus	bus	NN	NN	"315.000|157.500" 	0	label	_	_
+2	car	car	NN	NN	"311.500|168.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+5	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	bus	bus	NN	NN	"315.000|157.500" 	0	label	_	_
+2	car	car	NN	NN	"311.500|168.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+5	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	horse	horse	NN	NN	"264.000|264.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	horse	horse	NN	NN	"264.000|264.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	laptop	laptop	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"271.500|158.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|232.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	laptop	laptop	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"271.500|158.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|232.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	laptop	laptop	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"271.500|158.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|232.500" 	0	label	_	_
+
+1	cart	cart	NN	NN	"253.500|169.000" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"165.500|165.500" 	0	label	_	_
+4	person	person	NN	NN	"236.000|157.500" 	0	label	_	_
+5	person	person	NN	NN	"291.500|154.500" 	0	label	_	_
+6	person	person	NN	NN	"326.000|171.500" 	0	label	_	_
+7	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	monkey	monkey	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"363.500|182.000" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+4	table	table	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	airplane	airplane	NN	NN	"257.500|147.000" 	0	label	_	_
+2	car	car	NN	NN	"267.000|218.500" 	0	label	_	_
+3	helmet	helmet	NN	NN	"280.500|152.500" 	0	label	_	_
+4	motorcycle	motorcycle	NN	NN	"253.000|296.000" 	0	label	_	_
+5	person	person	NN	NN	"254.000|254.000" 	0	label	_	_
+6	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	snake	snake	NN	NN	"232.500|232.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	snake	snake	NN	NN	"232.500|232.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	person	person	NN	NN	"217.000|236.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	watercraft	watercraft	NN	NN	"234.500|182.000" 	0	label	_	_
+
+1	bicycle	bicycle	NN	NN	"233.500|233.500" 	0	label	_	_
+2	pizza	pizza	NN	NN	"243.000|170.000" 	0	label	_	_
+3	snake	snake	NN	NN	"232.500|148.000" 	0	label	_	_
+4	turtle	turtle	NN	NN	"267.000|170.000" 	0	label	_	_
+5	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	bus	bus	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"105.500|253.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	watercraft	watercraft	NN	NN	"234.500|182.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	person	person	NN	NN	"272.500|144.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	person	person	NN	NN	"272.500|144.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	person	person	NN	NN	"272.500|144.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+2	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+3	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+4	laptop	laptop	NN	NN	"243.000|194.500" 	0	label	_	_
+5	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+6	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+7	snake	snake	NN	NN	"217.000|216.500" 	0	label	_	_
+8	table	table	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	laptop	laptop	NN	NN	"243.000|146.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"232.500|148.000" 	0	label	_	_
+
+1	laptop	laptop	NN	NN	"243.000|146.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"232.500|148.000" 	0	label	_	_
+
+1	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+2	horse	horse	NN	NN	"305.000|265.500" 	0	label	_	_
+3	person	person	NN	NN	"289.500|188.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+
+1	bicycle	bicycle	NN	NN	"197.000|275.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+
+1	bicycle	bicycle	NN	NN	"197.000|275.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+
+1	laptop	laptop	NN	NN	"243.000|146.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"217.000|177.500" 	0	label	_	_
+4	turtle	turtle	NN	NN	"274.500|148.000" 	0	label	_	_
+
+1	laptop	laptop	NN	NN	"243.000|146.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"217.000|177.500" 	0	label	_	_
+4	turtle	turtle	NN	NN	"274.500|148.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	domestic_cat	domestic_cat	NN	NN	"267.000|194.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+
+1	bus	bus	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	refrigerator	refrigerator	NN	NN	"243.000|194.500" 	0	label	_	_
+5	table	table	NN	NN	"267.000|218.500" 	0	label	_	_
+6	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	bus	bus	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+4	refrigerator	refrigerator	NN	NN	"243.000|194.500" 	0	label	_	_
+5	table	table	NN	NN	"267.000|218.500" 	0	label	_	_
+6	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"194.000|254.000" 	0	label	_	_
+4	person	person	NN	NN	"260.000|260.500" 	0	label	_	_
+5	person	person	NN	NN	"327.500|222.000" 	0	label	_	_
+6	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+7	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	watercraft	watercraft	NN	NN	"234.500|182.000" 	0	label	_	_
+
+1	watercraft	watercraft	NN	NN	"234.500|182.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+6	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+2	snake	snake	NN	NN	"217.000|138.000" 	0	label	_	_
+3	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	laptop	laptop	NN	NN	"243.000|194.500" 	0	label	_	_
+3	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"232.500|232.500" 	0	label	_	_
+6	watercraft	watercraft	NN	NN	"234.500|182.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	person	person	NN	NN	"39.500|256.000" 	0	label	_	_
+2	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+
+1	person	person	NN	NN	"39.500|256.000" 	0	label	_	_
+2	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+4	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+4	sofa	sofa	NN	NN	"267.000|218.500" 	0	label	_	_
+5	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+4	sofa	sofa	NN	NN	"267.000|218.500" 	0	label	_	_
+5	watercraft	watercraft	NN	NN	"267.000|218.500" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	person	person	NN	NN	"5.500|15.000" 	0	label	_	_
+
+1	laptop	laptop	NN	NN	"243.000|146.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"217.000|138.000" 	0	label	_	_
+
+1	laptop	laptop	NN	NN	"243.000|146.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"217.000|138.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	laptop	laptop	NN	NN	"243.000|194.500" 	0	label	_	_
+4	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+5	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+6	snake	snake	NN	NN	"232.500|190.000" 	0	label	_	_
+
+1	person	person	NN	NN	"170.000|218.500" 	0	label	_	_
+2	person	person	NN	NN	"221.500|200.500" 	0	label	_	_
+
+1	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+2	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	person	person	NN	NN	"240.500|336.500" 	0	label	_	_
+3	person	person	NN	NN	"279.000|327.500" 	0	label	_	_
+4	person	person	NN	NN	"334.500|326.000" 	0	label	_	_
+
+1	person	person	NN	NN	"197.000|236.500" 	0	label	_	_
+
+1	person	person	NN	NN	"197.000|236.500" 	0	label	_	_
+
+1	person	person	NN	NN	"197.000|236.500" 	0	label	_	_
+
+1	tape_player	tape_player	NN	NN	"267.000|170.000" 	0	label	_	_
+2	snake	snake	NN	NN	"274.500|190.000" 	0	label	_	_
+3	table	table	NN	NN	"267.000|218.500" 	0	label	_	_
+4	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+5	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+6	dishwasher	dishwasher	NN	NN	"243.000|194.500" 	0	label	_	_
+7	laptop	laptop	NN	NN	"243.000|194.500" 	0	label	_	_
+8	lobster	lobster	NN	NN	"243.000|194.500" 	0	label	_	_
+9	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+10	printer	printer	NN	NN	"243.000|194.500" 	0	label	_	_
+
+1	person	person	NN	NN	"432.000|237.000" 	0	label	_	_
+2	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+3	snake	snake	NN	NN	"217.000|216.500" 	0	label	_	_
+4	watercraft	watercraft	NN	NN	"267.000|170.000" 	0	label	_	_
+
+1	person	person	NN	NN	"73.500|202.000" 	0	label	_	_
+
+1	baby_bed	baby_bed	NN	NN	"243.000|194.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	person	person	NN	NN	"448.500|144.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"274.500|148.000" 	0	label	_	_
+
+1	person	person	NN	NN	"181.000|292.500" 	0	label	_	_
+2	person	person	NN	NN	"187.000|148.000" 	0	label	_	_
+3	refrigerator	refrigerator	NN	NN	"194.500|243.000" 	0	label	_	_
+
+1	car	car	NN	NN	"224.500|160.500" 	0	label	_	_
+2	computer_keyboard	computer_keyboard	NN	NN	"243.000|194.500" 	0	label	_	_
+3	laptop	laptop	NN	NN	"243.000|194.500" 	0	label	_	_
+4	piano	piano	NN	NN	"243.000|194.500" 	0	label	_	_
+5	snake	snake	NN	NN	"217.000|177.500" 	0	label	_	_
+

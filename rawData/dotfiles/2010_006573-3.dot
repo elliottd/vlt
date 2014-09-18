@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("234.130,160.457")
+label="trumpet"
+]
+"n6" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("171.234,305.726")
+label="person"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("183.406,165.520")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("373.760,325.789")
+label="carpet"
+]
+"n6" -> "n4" [
+label="beside"
+]
+"n4" [
+comment=("373.760,325.789")
+label="carpet"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("358.900,147.088")
+label="instrument"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("100.454,215.543")
+label="person"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

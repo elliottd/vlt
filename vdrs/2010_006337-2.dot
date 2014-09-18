@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("209.156,361.603")
+label="grass"
+]
+"n4" -> "n1" [
+label="below"
+]
+"n2" [
+comment=("172.450,323.331")
+label="man"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("179.881,98.999")
+label="mountain"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("125.000,453.000")
+label="road"
+]
+"n2" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("189.670,188.618")
+label="trees"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

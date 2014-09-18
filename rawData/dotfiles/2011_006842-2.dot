@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("257.307,246.377")
+label="aerna"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("252.722,127.290")
+label="child"
+]
+"n4" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("226.267,152.388")
+label="fence"
+]
+"n1" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("293.129,215.090")
+label="trainer"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("256.868,96.177")
+label="trees"
+]
+"n1" -> "n5" [
+label="infront"
+]
+}

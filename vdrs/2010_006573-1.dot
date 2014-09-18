@@ -1,0 +1,68 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("442.702,284.423")
+label="table"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("234.130,160.457")
+label="trumpet"
+]
+"n9" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("171.234,305.726")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("183.406,165.520")
+label="person"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("90.116,223.173")
+label="chair"
+]
+"n9" -> "n5" [
+label="on"
+]
+"n6" [
+comment=("123.757,165.589")
+label="chair"
+]
+"n3" -> "n6" [
+label="on"
+]
+"n7" [
+comment=("290.533,210.366")
+label="child"
+]
+"n9" -> "n7" [
+label="beside"
+]
+"n8" [
+comment=("455.657,258.545")
+label="laptop"
+]
+"n1" -> "n8" [
+label="surrounds"
+]
+"n9" [
+comment=("100.454,215.543")
+label="person"
+]
+"n0" -> "n9" [
+label="-"
+]
+}

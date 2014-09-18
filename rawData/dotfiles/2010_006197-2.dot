@@ -1,0 +1,89 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("181.436,225.383")
+label="foliage"
+]
+"n5" -> "n1" [
+label="beside"
+]
+"n1" [
+comment=("181.436,225.383")
+label="foliage"
+]
+"n7" -> "n1" [
+label="beside"
+]
+"n1" [
+comment=("181.436,225.383")
+label="foliage"
+]
+"n6" -> "n1" [
+label="beside"
+]
+"n1" [
+comment=("181.436,225.383")
+label="foliage"
+]
+"n2" -> "n1" [
+label="beside"
+]
+"n1" [
+comment=("181.436,225.383")
+label="foliage"
+]
+"n4" -> "n1" [
+label="beside"
+]
+"n1" [
+comment=("181.436,225.383")
+label="foliage"
+]
+"n3" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("122.565,458.357")
+label="horse"
+]
+"n5" -> "n2" [
+label="above"
+]
+"n3" [
+comment=("230.672,407.943")
+label="horse"
+]
+"n6" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("295.716,364.512")
+label="horse"
+]
+"n7" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("139.732,379.255")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("233.388,337.478")
+label="man"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("294.114,323.440")
+label="man"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

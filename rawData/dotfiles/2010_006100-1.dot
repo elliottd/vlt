@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("175.883,370.973")
+label="baby"
+]
+"n5" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("194.820,42.797")
+label="cabinets"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("247.042,200.418")
+label="cabinets"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("197.032,147.656")
+label="counter"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("171.814,297.076")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("152.715,138.531")
+label="phone"
+]
+"n5" -> "n6" [
+label="surrounds"
+]
+}

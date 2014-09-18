@@ -1,0 +1,820 @@
+0: ROOT child horse park 
+1: ROOT child horse 
+2: ROOT child grass horse tree 
+3: ROOT boy gate laptop 
+4: ROOT boy laptop window 
+5: ROOT boy laptop window 
+6: ROOT man newspaper roof skyscrapers 
+7: ROOT man newspaper skyscrapers 
+8: ROOT man newspaper skyscrapers 
+9: ROOT bicycle gate girl stairs 
+10: ROOT bicycle gate girl stairs tunnel 
+11: ROOT stairs bicycle girl tunnel 
+12: ROOT trees man man people person person person 
+13: ROOT man man people person person person 
+14: ROOT man man people person person person phone 
+15: ROOT baby cabinets cabinets counter man phone 
+16: ROOT baby cabinets cabinets man phone 
+17: ROOT walkway people trees 
+18: ROOT walkway building bushes grass grass grass people 
+19: ROOT walkway people trees 
+20: ROOT boy boy field onlookers track tyre tyre 
+21: ROOT track boy tyre tyre 
+22: ROOT building fence man paper 
+23: ROOT building fence man paper 
+24: ROOT paper fence man 
+25: ROOT bicycle dog person 
+26: ROOT bicycle dog dog dog person 
+27: ROOT bicycle dog dog dog person road 
+28: ROOT lady window lady lady window door homes car 
+29: ROOT guitar light man 
+30: ROOT guitar instrument man man 
+31: ROOT computer man screen 
+32: ROOT computer computer counter man 
+33: ROOT bike grass grass person trail trees 
+34: ROOT bike person trail 
+35: ROOT bike person trees 
+36: ROOT bed book man poster poster wall 
+37: ROOT bed book man 
+38: ROOT bed book man poster poster wall 
+39: ROOT grass instrument man trees 
+40: ROOT trees instrument man 
+41: ROOT grass instrument man trees 
+42: ROOT scooter building person 
+43: ROOT building crates person scooter trees 
+44: ROOT girl girl horse reign 
+45: ROOT barn floor girl horse 
+46: ROOT girl shoe sidewalk 
+47: ROOT girl sidewalk 
+48: ROOT camera girl parkinglot person 
+49: ROOT trees lake man 
+50: ROOT trees grass man 
+51: ROOT trees grass man 
+52: ROOT bookcase guitar man picture 
+53: ROOT bookcase guitar man 
+54: ROOT bookcase guitar man 
+55: ROOT bench building man man 
+56: ROOT man man tree trees 
+57: ROOT man man 
+58: ROOT girl grass 
+59: ROOT girl grass trees 
+60: ROOT girl grass 
+61: ROOT mirror wall woman woman 
+62: ROOT mirror phone tv wall woman woman 
+63: ROOT foliage horse horse horse man man man 
+64: ROOT grass sky tree trees woman 
+65: ROOT tree trees woman 
+66: ROOT tree woman 
+67: ROOT buildings camera car cars man parkinglot 
+68: ROOT man parkinglot 
+69: ROOT camera houses lake person trees trees 
+70: ROOT camera field lake person 
+71: ROOT camera lake person 
+72: ROOT cello man music stand 
+73: ROOT carpet cello glass man 
+74: ROOT cello man music stand 
+75: ROOT man sign 
+76: ROOT flag man sign 
+77: ROOT man sign 
+78: ROOT father man son wall 
+79: ROOT father floor son 
+80: ROOT child phone portrait 
+81: ROOT child phone portrait wall 
+82: ROOT bottle friend girl 
+83: ROOT bottle car friend girl table 
+84: ROOT friend girl 
+85: ROOT girl guy minivan road 
+86: ROOT guy minivan sign wood 
+87: ROOT guy minivan sign wood 
+88: ROOT woman people street people people people people people people people 
+89: ROOT woman people street people people buildings people people people people people 
+90: ROOT bike car man road trees trees 
+91: ROOT bike car man road trees trees 
+92: ROOT bike car man 
+93: ROOT trees bicycle man 
+94: ROOT bicycle grass man trees 
+95: ROOT bicycle grass man trees 
+96: ROOT bed newspaper woman 
+97: ROOT bed lamp newspaper picture woman wall 
+98: ROOT bed blinds lamp newspaper woman 
+99: ROOT guitar man saxophone 
+100: ROOT guitar man saxophone 
+101: ROOT bar horse trees woman 
+102: ROOT bar horse sand trees woman 
+103: ROOT bar horse trees woman 
+104: ROOT girl van 
+105: ROOT buildings finishline girl people people person van 
+106: ROOT buildings finishline girl van 
+107: ROOT man phone sign wall 
+108: ROOT man phone sign wall 
+109: ROOT man phone sign wall 
+110: ROOT vegetation wall woman 
+111: ROOT woman 
+112: ROOT vegetation wall woman 
+113: ROOT man moped 
+114: ROOT trees man moped mountain 
+115: ROOT man moped pavement sky trees 
+116: ROOT blinds chair person plant plant window 
+117: ROOT guitar person plant 
+118: ROOT guitar person plant 
+119: ROOT field man people 
+120: ROOT trees man people 
+121: ROOT field man people trees 
+122: ROOT barrier floor horse person wall 
+123: ROOT barrier gate horse person wall 
+124: ROOT barrier horse 
+125: ROOT curtains magazine man window 
+126: ROOT man 
+127: ROOT curtains magazine man window 
+128: ROOT bicyclist bus sky street 
+129: ROOT bicyclist bike bus street 
+130: ROOT bicyclist bike bus 
+131: ROOT bed girl laptop 
+132: ROOT bed dresser girl lamp laptop picture wall 
+133: ROOT girl laptop 
+134: ROOT bike fence man road trees 
+135: ROOT bike fence man road trees 
+136: ROOT man sidewalk trees 
+137: ROOT chair couch laptop man 
+138: ROOT chair couch laptop man 
+139: ROOT magazine man passenger passenger passengers window 
+140: ROOT magazine man window 
+141: ROOT airplane magazine man passenger passenger passengers seats 
+142: ROOT horse person 
+143: ROOT fence grass horse person trees 
+144: ROOT field hills horse person 
+145: ROOT crowd fence grass woman 
+146: ROOT crowd fence grass woman 
+147: ROOT crowd woman 
+148: ROOT boy snow tree trees 
+149: ROOT boy hill snow tree trees 
+150: ROOT floor keyboard tree woman 
+151: ROOT floor keyboard tree woman 
+152: ROOT keyboard tree woman 
+153: ROOT couch phone window woman 
+154: ROOT blinds couch phone window woman 
+155: ROOT man phone woman 
+156: ROOT chair man phone woman 
+157: ROOT desk desk man phone wall woman 
+158: ROOT horn man 
+159: ROOT horn man umbrella 
+160: ROOT bench book man pedestrian pedestrians 
+161: ROOT bench book man tree trees 
+162: ROOT book man 
+163: ROOT child field wall 
+164: ROOT child field wall 
+165: ROOT child field wall 
+166: ROOT computer desk man pens pens 
+167: ROOT computer desk door man 
+168: ROOT girl horse vegetation 
+169: ROOT girl horse trees 
+170: ROOT girl horse trees wheat 
+171: ROOT people instrument man people 
+172: ROOT instrument instrument man people people 
+173: ROOT instrument instrument man people 
+174: ROOT guitar guitar man microphone person 
+175: ROOT guitar man 
+176: ROOT curtain guitar man 
+177: ROOT person person person person snow trees 
+178: ROOT person person person person snow trees 
+179: ROOT person person 
+180: ROOT phone woman woman 
+181: ROOT phone woman woman 
+182: ROOT phone woman 
+183: ROOT camera male male male man 
+184: ROOT drink male male male man 
+185: ROOT male male male man 
+186: ROOT track field hurdle hurdles man runners runners 
+187: ROOT track man 
+188: ROOT track trees man sky 
+189: ROOT horse man 
+190: ROOT fence fence horse man people people 
+191: ROOT asphalt bottle people woman 
+192: ROOT people trees woman 
+193: ROOT people woman 
+194: ROOT man 
+195: ROOT seat camera man wall 
+196: ROOT camera frame man wall 
+197: ROOT table person person canopy electronics 
+198: ROOT table person person 
+199: ROOT man mountain powerline road 
+200: ROOT grass man mountain road trees 
+201: ROOT man road trees 
+202: ROOT computers person woman 
+203: ROOT table plate soda computer crumbs man 
+204: ROOT table plate soda computer man 
+205: ROOT dog ground woman 
+206: ROOT dog woman 
+207: ROOT dog ground woman 
+208: ROOT horse houses obstacle 
+209: ROOT grass horse houses person 
+210: ROOT drink man man payphone 
+211: ROOT drink man man payphone truck 
+212: ROOT computer girl object 
+213: ROOT box boxes computer girl object 
+214: ROOT beach forest horse someone water 
+215: ROOT horse someone volcano 
+216: ROOT beach forest horse someone volcano water 
+217: ROOT stand billboard person person billboard billboard billboard field person person 
+218: ROOT person person field person person 
+219: ROOT curtain newspaper woman 
+220: ROOT curtain newspaper table woman 
+221: ROOT newspaper table woman 
+222: ROOT book man window 
+223: ROOT man 
+224: ROOT book man seat seat window 
+225: ROOT girl guy man pond 
+226: ROOT condos girl guy man 
+227: ROOT man trees 
+228: ROOT man man 
+229: ROOT house magazine woman 
+230: ROOT house magazine trees trees woman 
+231: ROOT house magazine sky woman 
+232: ROOT cellphone man 
+233: ROOT cellphone man 
+234: ROOT cellphone man 
+235: ROOT drum guitar man microphone 
+236: ROOT drum guitar man 
+237: ROOT drum guitar man 
+238: ROOT phone bowlingalley man 
+239: ROOT ball bowlingalley man phone 
+240: ROOT ball bowlingalley man phone 
+241: ROOT chair guitar man table 
+242: ROOT chair guitar man table 
+243: ROOT chair guitar man table 
+244: ROOT wall machine man 
+245: ROOT man 
+246: ROOT wall camera man 
+247: ROOT computer computer woman woman 
+248: ROOT computer desk woman woman 
+249: ROOT trees bike boy grass grass path tree 
+250: ROOT trees bike boy car path tree 
+251: ROOT book book man picture wall woman 
+252: ROOT violin guitar man man microphone microphone microphone person 
+253: ROOT violin guitar man man 
+254: ROOT violin guitar man man 
+255: ROOT sidewalk woman 
+256: ROOT bridge crowd sidewalk woman 
+257: ROOT stands horse man 
+258: ROOT arena horse man 
+259: ROOT arena horse man 
+260: ROOT person instrument person 
+261: ROOT person wall chair chair person 
+262: ROOT barricade bike man people 
+263: ROOT bike man motorcycle people policeman 
+264: ROOT camera window woman 
+265: ROOT camera window woman 
+266: ROOT woman table window 
+267: ROOT audience bleachers building child horse 
+268: ROOT audience bleachers child dirt horse 
+269: ROOT audience child horse 
+270: ROOT window window box house man window window window 
+271: ROOT box field house man 
+272: ROOT box house man 
+273: ROOT footstool magazine rug wall wall woman 
+274: ROOT chair footstool woman 
+275: ROOT chair footstool magazine woman 
+276: ROOT woman sidewalk cone 
+277: ROOT woman cone person pole 
+278: ROOT phone cigarettes man wallet 
+279: ROOT phone man wine 
+280: ROOT phone glass man wine 
+281: ROOT woman computer computer door woman 
+282: ROOT woman computer computer window woman 
+283: ROOT bookshelf doorway doorway girl violin picture 
+284: ROOT bookshelf girl violin 
+285: ROOT bookshelf girl violin 
+286: ROOT wall man people shop sidewalk telephone 
+287: ROOT man shop sidewalk telephone 
+288: ROOT canopy man sign telephone 
+289: ROOT man motorcycle motorcycle motorcycle parkinglot 
+290: ROOT man motorcycle motorcycle motorcycle parkinglot trees 
+291: ROOT cellphone door man wall 
+292: ROOT wall door man 
+293: ROOT cellphone man 
+294: ROOT stores woman escalator mannequin mannequin mannequins mannequins people people 
+295: ROOT stores woman escalator people people 
+296: ROOT stores woman escalator mannequin mannequin mannequins mannequins 
+297: ROOT girl guy person poster wall 
+298: ROOT guy poster 
+299: ROOT TV fan person person table window 
+300: ROOT TV fan person person 
+301: ROOT building man 
+302: ROOT building man pole sidewalk street 
+303: ROOT man 
+304: ROOT instrument man picture stand 
+305: ROOT instrument man picture stand 
+306: ROOT instrument man picture wall music 
+307: ROOT child horse man man 
+308: ROOT child horse man man 
+309: ROOT child horse man wall 
+310: ROOT bushes man saxophone tuba 
+311: ROOT bushes man saxophone tuba 
+312: ROOT man saxophone tuba 
+313: ROOT laptop laptop person person 
+314: ROOT chair chair laptop laptop person person 
+315: ROOT wall alley door door man wall 
+316: ROOT alley building door man 
+317: ROOT chair chair computer girl 
+318: ROOT computer desk girl 
+319: ROOT computer desk girl wall window 
+320: ROOT windows table adult adult adult laptop laptop laptop 
+321: ROOT windows table adult adult adult laptop laptop laptop 
+322: ROOT woman computer computer desks poster wall woman woman 
+323: ROOT camera plant woman 
+324: ROOT camera plant woman 
+325: ROOT camera floor plant stand woman 
+326: ROOT bike man 
+327: ROOT man people people people 
+328: ROOT bike man people people people road seats 
+329: ROOT yard bike child road sidewalk van 
+330: ROOT bike child road sidewalk van 
+331: ROOT bike building child fence sidewalk 
+332: ROOT grass person person trees 
+333: ROOT bicycle buildings people person road sand 
+334: ROOT bicycle buildings person road sand 
+335: ROOT bicycle buildings people person road sand 
+336: ROOT chairs guitar man table 
+337: ROOT guitar man 
+338: ROOT people guitar man 
+339: ROOT baby book books chair shelf 
+340: ROOT baby basket book chair changingstation 
+341: ROOT baby book chair changingstation shelf 
+342: ROOT trees girl grass mansion tree 
+343: ROOT girl grass mansion tree 
+344: ROOT girl grass mansion people person person 
+345: ROOT couch laptop man painting wall 
+346: ROOT couch laptop man painting 
+347: ROOT man phone rock 
+348: ROOT man rock 
+349: ROOT man phone 
+350: ROOT desk flowers lady lamp laptop phone 
+351: ROOT desk flowers lady laptop phone window 
+352: ROOT flowers lady phone 
+353: ROOT woman woman 
+354: ROOT fence track trees woman woman 
+355: ROOT fence track trees woman 
+356: ROOT camera mirror wallpaper woman 
+357: ROOT curtains mirror woman 
+358: ROOT guitar guitar man man wall 
+359: ROOT ceiling guitar guitar man man wall 
+360: ROOT man 
+361: ROOT man 
+362: ROOT man street 
+363: ROOT flute man sign 
+364: ROOT curtains drum drum drums flute man sign 
+365: ROOT drum drum drums flute man sign 
+366: ROOT computer cup desk man wall 
+367: ROOT cabinet computer cup desk man wall 
+368: ROOT cabinet computer desk man wall 
+369: ROOT bike man walkway 
+370: ROOT bike building door man plant 
+371: ROOT bike building door man walkway 
+372: ROOT man racer 
+373: ROOT student cabinet instrument instrument instrument student student 
+374: ROOT student cabinet instrument instrument instrument student student 
+375: ROOT chest child piano something wall 
+376: ROOT chest child piano 
+377: ROOT child piano something wall 
+378: ROOT woman pillar pillar pillar bicycle male pillar pillar pillar 
+379: ROOT woman bicycle bicycle male 
+380: ROOT computer computer man woman 
+381: ROOT chair computer computer man map woman 
+382: ROOT computer computer easle man map woman 
+383: ROOT buildings camera woman 
+384: ROOT street wall woman 
+385: ROOT buildings person person wall woman 
+386: ROOT phone man man 
+387: ROOT cabinet man man phone 
+388: ROOT shrubs bicycle man street 
+389: ROOT shrubs bicycle man street 
+390: ROOT bicycle groceries man street 
+391: ROOT man motorcycle 
+392: ROOT man motorcycle road 
+393: ROOT phone wall woman 
+394: ROOT phone wall woman 
+395: ROOT phone woman 
+396: ROOT book cat chair girl grass 
+397: ROOT cat girl 
+398: ROOT book cat girl 
+399: ROOT water beach bicyclist pier 
+400: ROOT water bicycle bicyclist pier 
+401: ROOT statue water bicycle bicyclist other other other pier 
+402: ROOT trees man road bicycle man man bicycle bicycle bicycle bicycle man man 
+403: ROOT man man man bicycle man man 
+404: ROOT book box child person plate 
+405: ROOT book child person 
+406: ROOT ball person trees 
+407: ROOT ball person wall bushes bushes 
+408: ROOT ball person 
+409: ROOT alley bicycle man window window building 
+410: ROOT alley bicycle man sign 
+411: ROOT alley bicycle man sign 
+412: ROOT man boy boy ocean 
+413: ROOT boy boy buildings man ocean shore 
+414: ROOT boy boy camera man shore 
+415: ROOT man newspaper stand 
+416: ROOT crate man newspaper stand 
+417: ROOT street man newspaper pedestrians pedestrians sidewalk stand 
+418: ROOT bike field man man path trees 
+419: ROOT bike field man man trees 
+420: ROOT man phone 
+421: ROOT man phone 
+422: ROOT man object phone 
+423: ROOT ledge man 
+424: ROOT camera ledge man 
+425: ROOT building buildings ledge man window 
+426: ROOT woman horse horse horse person person 
+427: ROOT woman arena horse jumps 
+428: ROOT woman horse horse person 
+429: ROOT bed lamp man window 
+430: ROOT bed computer man window 
+431: ROOT bed man window 
+432: ROOT bed grasslands laptop man 
+433: ROOT grasslands laptop man sky 
+434: ROOT laptop man sky 
+435: ROOT glasses man phone 
+436: ROOT building door man phone 
+437: ROOT building man phone 
+438: ROOT beach horse horse person person 
+439: ROOT person buildings intersection motorcycle people people people person 
+440: ROOT person motorcycle person 
+441: ROOT girl horse huts trees 
+442: ROOT girl horse 
+443: ROOT girl girl phone shade wall 
+444: ROOT buildings man payphone street 
+445: ROOT buildings man payphone street 
+446: ROOT man payphone 
+447: ROOT book chandelier guy 
+448: ROOT book chandelier door guy 
+449: ROOT book chandelier guy 
+450: ROOT bathtub horse woman 
+451: ROOT barn horse horse woman 
+452: ROOT barn bathtub horse horse man woman 
+453: ROOT bicycle boy mural road 
+454: ROOT bicycle boy mural road 
+455: ROOT bag bicycle boy building mural wall 
+456: ROOT couch laptop man 
+457: ROOT couch laptop man 
+458: ROOT couch laptop man 
+459: ROOT mountains path woman 
+460: ROOT mountains sign woman 
+461: ROOT mountains path woman 
+462: ROOT ledge magazine man plants 
+463: ROOT cross magazine man plants 
+464: ROOT ledge man 
+465: ROOT bed computer woman 
+466: ROOT computer woman 
+467: ROOT number number number people people people 
+468: ROOT trees people people people 
+469: ROOT tents cars flag horse obstacle pole rider 
+470: ROOT trees horse rider 
+471: ROOT cars gate horse rider 
+472: ROOT sky building man 
+473: ROOT building man 
+474: ROOT camera man tree 
+475: ROOT wall woman woman woman 
+476: ROOT wall woman woman woman 
+477: ROOT partition wall woman woman woman 
+478: ROOT bookshelf child computer magazines rack window 
+479: ROOT bookshelf child computer 
+480: ROOT bookshelf child computer magazines wall window 
+481: ROOT phone woman people people blanket 
+482: ROOT bike building man people person storefronts 
+483: ROOT line man paper wall 
+484: ROOT man paper 
+485: ROOT man paper 
+486: ROOT bicycle book sidewalk storefront woman 
+487: ROOT bicycle book woman 
+488: ROOT bicycle book meter storefront woman 
+489: ROOT tree woman 
+490: ROOT tree woman people lady lake path people people 
+491: ROOT computer man mouse 
+492: ROOT computer lightfixture man 
+493: ROOT coatrack computer man 
+494: ROOT female female male 
+495: ROOT child horse trees 
+496: ROOT aerna child fence trainer trees 
+497: ROOT child horse trees 
+498: ROOT cellphone girl people people table 
+499: ROOT cellphone girl people people 
+500: ROOT cellphone girl 
+501: ROOT people people people player player 
+502: ROOT people people people player player 
+503: ROOT cellphone newspapers person wall 
+504: ROOT cellphone newspapers person 
+505: ROOT cellphone newspapers person wall 
+506: ROOT train floor girl 
+507: ROOT baby toy walker 
+508: ROOT baby book toy 
+509: ROOT boy horse 
+510: ROOT boy building horse 
+511: ROOT boy horse trafficcone trafficcone 
+512: ROOT man motorcycle 
+513: ROOT man motorcycle street 
+514: ROOT man manhole motorcycle street 
+515: ROOT horse person railing trees 
+516: ROOT horse person 
+517: ROOT horse person railing trees 
+518: ROOT grass horse jockey trees 
+519: ROOT horse jockey trees 
+520: ROOT gate horse jockey trees 
+521: ROOT book books books books bookshelves 
+522: ROOT book books books bookshelves box 
+523: ROOT book books books books bookshelves box display 
+524: ROOT people people people piano snacks 
+525: ROOT horse tree trees woman 
+526: ROOT horse tree trees woman 
+527: ROOT horse tree trees woman 
+528: ROOT camera fish flag man man 
+529: ROOT camera flag man window wall 
+530: ROOT flag man 
+531: ROOT baby blanket cellphone someone 
+532: ROOT baby blanket cellphone couch 
+533: ROOT baby cellphone someone 
+534: ROOT ledge man trees trees 
+535: ROOT man tent water 
+536: ROOT girl 
+537: ROOT fountain buidlings girl 
+538: ROOT boy car car drums 
+539: ROOT boy car car drums people trees 
+540: ROOT crowd instrument man stage 
+541: ROOT crowd instrument man stage 
+542: ROOT beach buildings dog woman 
+543: ROOT buildings dog woman 
+544: ROOT bicycle man 
+545: ROOT people bicycle bike bike building man man 
+546: ROOT atmmachine bike man 
+547: ROOT fog fog ground mountains photographer 
+548: ROOT camera mountains photographer 
+549: ROOT dirthill man motorcross 
+550: ROOT dirthill man motorcross 
+551: ROOT man motorcross 
+552: ROOT man trumpet 
+553: ROOT man trumpet 
+554: ROOT man trumpet 
+555: ROOT motorcyle racetrack motorcyclist motorcyclist cone cone motorcycle motorcycle motorcycle motorcyclist motorcyclist 
+556: ROOT motorcycle motorcyclist 
+557: ROOT stuff box child computer desk drink stuff 
+558: ROOT chair child computer 
+559: ROOT woman chandelier chandelier coffeetable 
+560: ROOT woman chandelier 
+561: ROOT man people people trees 
+562: ROOT man people people rock water 
+563: ROOT belt girl horse 
+564: ROOT belt fence girl horse trees 
+565: ROOT person horse hurdle 
+566: ROOT person area fence horse hurdle mountains obstacle obstacles 
+567: ROOT horse hurdle obstacle obstacles 
+568: ROOT camera sidewalk woman 
+569: ROOT sidewalk woman 
+570: ROOT floor girl 
+571: ROOT package deskchairfoot girl 
+572: ROOT car car car parkinglot woman 
+573: ROOT computer woman 
+574: ROOT car car car computer picture woman 
+575: ROOT sky building people 
+576: ROOT building courtyard people 
+577: ROOT building people 
+578: ROOT horse jockey trees trees 
+579: ROOT pool toddler lady buildings child child child 
+580: ROOT pool toddler lady people chair chair chair 
+581: ROOT child door railing telephone wall 
+582: ROOT child door telephone 
+583: ROOT child door telephone 
+584: ROOT book boy 
+585: ROOT apartmentcomplex boy 
+586: ROOT camera girl window 
+587: ROOT camera girl window 
+588: ROOT blinds camera girl man 
+589: ROOT horse person 
+590: ROOT horse person stable 
+591: ROOT fireplace violin woman 
+592: ROOT fireplace violin woman 
+593: ROOT binocular dirtroad mountain people people people trees 
+594: ROOT man sky 
+595: ROOT hills lake man 
+596: ROOT man tourists trumpet 
+597: ROOT building man tourists trumpet 
+598: ROOT man tourists trumpet 
+599: ROOT person shoppingbag shoppingbag walkover windows windows 
+600: ROOT garbagecontainer person shoppingbag shoppingbag walkover 
+601: ROOT buildings woman 
+602: ROOT buildings woman 
+603: ROOT buildings street woman 
+604: ROOT stairs bushes horse man 
+605: ROOT stairs bushes hill horse man railing railing 
+606: ROOT computer girl 
+607: ROOT computer girl 
+608: ROOT computer girl 
+609: ROOT man phone storedisplay 
+610: ROOT man phone posters storedisplay 
+611: ROOT man phone storedisplay 
+612: ROOT pony boy girl 
+613: ROOT pony girl 
+614: ROOT computer desk images man picture shelves 
+615: ROOT computer man shelves 
+616: ROOT computer desk man 
+617: ROOT clouds girl 
+618: ROOT girl trees 
+619: ROOT trees bushes girl 
+620: ROOT man man 
+621: ROOT computer man 
+622: ROOT actionfigure computer man 
+623: ROOT child computer 
+624: ROOT fire man 
+625: ROOT fence fire man people 
+626: ROOT ledge trees woman 
+627: ROOT ledge trees woman 
+628: ROOT bars horse wall 
+629: ROOT bars horse people wall woman 
+630: ROOT horse people woman 
+631: ROOT man 
+632: ROOT cellphone man pipe wall 
+633: ROOT man wall 
+634: ROOT blanket foliage person 
+635: ROOT blanket book foliage person sand 
+636: ROOT computer man 
+637: ROOT computer computer computer computer man 
+638: ROOT boy rocks water 
+639: ROOT boy rocks water 
+640: ROOT book cemetry man tent 
+641: ROOT book cemetry man 
+642: ROOT book cemetry man tent 
+643: ROOT boat man primer sky 
+644: ROOT boat man scaffolding 
+645: ROOT man railing rollbrush scaffolding sky 
+646: ROOT man insturment_ 
+647: ROOT people people man people couch girl instrument instrument instrument instrument 
+648: ROOT man phone 
+649: ROOT bricks man phone 
+650: ROOT bricks man phone 
+651: ROOT drums man microphone stage 
+652: ROOT drummer guitarist man microphone stage 
+653: ROOT boy ledge 
+654: ROOT boy ledge 
+655: ROOT female phone vehicles vehicles 
+656: ROOT boy screen wall 
+657: ROOT boy computer 
+658: ROOT bed boy computer 
+659: ROOT gate man man 
+660: ROOT gate man man 
+661: ROOT man water 
+662: ROOT man water 
+663: ROOT man water 
+664: ROOT arena field line man man 
+665: ROOT man man 
+666: ROOT line man man 
+667: ROOT athlete finishline people people 
+668: ROOT camera people 
+669: ROOT cars man path people people people 
+670: ROOT man people 
+671: ROOT fence horse sign wall 
+672: ROOT fence horse rider rider field 
+673: ROOT horse rider 
+674: ROOT people sidewalk someone telephone telephonebooth 
+675: ROOT someone telephonebooth tree 
+676: ROOT someone telephonebooth wall 
+677: ROOT cabinet cards man 
+678: ROOT cards man 
+679: ROOT woman bouquet 
+680: ROOT trees woman aisle groom 
+681: ROOT car person 
+682: ROOT person woman 
+683: ROOT person woman 
+684: ROOT blinds telephone woman 
+685: ROOT plant telephone woman 
+686: ROOT telephone woman 
+687: ROOT guitar man 
+688: ROOT guitar man 
+689: ROOT building buildings buildings man people street 
+690: ROOT building buildings buildings man people street 
+691: ROOT bike girl shadow vehicle woman 
+692: ROOT bike girl 
+693: ROOT boy fence girl object 
+694: ROOT object boy girl tree 
+695: ROOT girl object 
+696: ROOT bike biker man 
+697: ROOT bicycle bike biker fence man spectators 
+698: ROOT bike biker spectators 
+699: ROOT gate equestrian fence flag horse 
+700: ROOT barrier gate equestrian forest horse 
+701: ROOT equestrian horse 
+702: ROOT woman ceiling drumstick guitar harmonica man walls 
+703: ROOT woman guitar man microphone 
+704: ROOT woman drumstick guitar man microphone 
+705: ROOT barstool bookshelf person 
+706: ROOT bookshelf lightsabre man person table 
+707: ROOT person table window 
+708: ROOT telephone woman 
+709: ROOT telephone woman 
+710: ROOT bench telephone woman 
+711: ROOT girl pool 
+712: ROOT girl pool sky 
+713: ROOT furniture furniture furniture furniture girl pool 
+714: ROOT baby book cow 
+715: ROOT baby book cow 
+716: ROOT bunkbed bunkbed girl 
+717: ROOT television bunkbed girl 
+718: ROOT piano someone someone 
+719: ROOT piano someone 
+720: ROOT grass horse obstacle rider trees 
+721: ROOT buildings horse horse obstacle rider trees 
+722: ROOT book boy wall 
+723: ROOT book boy wall 
+724: ROOT book boy table 
+725: ROOT book bookshelf cashregister counter woman 
+726: ROOT book books cashregister counter woman 
+727: ROOT something wall child grass plants 
+728: ROOT child grass petals petals petals petals 
+729: ROOT wall child plants 
+730: ROOT cellphone man wall 
+731: ROOT cellphone man wall 
+732: ROOT cellphone man wall 
+733: ROOT people people people window people table cello cello cello cello chair chair horn 
+734: ROOT window window people cello 
+735: ROOT laptop package woman 
+736: ROOT laptop package rug woman 
+737: ROOT laptop woman 
+738: ROOT man trees 
+739: ROOT bench man trees 
+740: ROOT trees horse person 
+741: ROOT trees horse person 
+742: ROOT horse man 
+743: ROOT instrument man man piano 
+744: ROOT composition man piano 
+745: ROOT instrument man man piano 
+746: ROOT barn equipment equipment girl horse 
+747: ROOT girl horse 
+748: ROOT sky girl horse 
+749: ROOT woman 
+750: ROOT man woman 
+751: ROOT man woman 
+752: ROOT people bookshelves computers 
+753: ROOT people pillar sign 
+754: ROOT chairs people 
+755: ROOT bridge field man trees trees trees 
+756: ROOT field man 
+757: ROOT bridge field man trees trees trees 
+758: ROOT payphone 
+759: ROOT glass glass man payphone telephonebooth 
+760: ROOT beach boy sand water 
+761: ROOT book window woman 
+762: ROOT blinds book window woman 
+763: ROOT blinds window woman 
+764: ROOT trees pedesterian 
+765: ROOT people people rocks vegetation waterfall 
+766: ROOT people people vegetation waterfall 
+767: ROOT people vegetation 
+768: ROOT boy girl shrubs walkway 
+769: ROOT girl 
+770: ROOT garbagecan woman 
+771: ROOT garbagecan street trash trash woman 
+772: ROOT camera man 
+773: ROOT camera man shops table woman 
+774: ROOT fence grass man motorscoot 
+775: ROOT motorscoot man trees 
+776: ROOT cellphone man 
+777: ROOT storageboxes wall bookshelf laptop laptop people people storageboxes 
+778: ROOT object person woman 
+779: ROOT object woman 
+780: ROOT object person woman 
+781: ROOT man handbag lady poster 
+782: ROOT hand lady 
+783: ROOT lady man pillar 
+784: ROOT truck bike boy buildings powerline 
+785: ROOT bike boy buildings kid kid 
+786: ROOT bike boy mountains 
+787: ROOT camera person rock 
+788: ROOT camera mountains person person rock 
+789: ROOT person mountains person rock 
+790: ROOT rail river trees wall woman woman 
+791: ROOT camera woman 
+792: ROOT river trees wall woman woman 
+793: ROOT stadium audience man man man man men 
+794: ROOT audience man man man man men 
+795: ROOT boy instrument microphone 
+796: ROOT boy camera instrument person stage 
+797: ROOT boy instrument wall 
+798: ROOT table woman table table chair chair chair glass magazine 
+799: ROOT table woman glass magazine straw 
+800: ROOT water bicycle person 
+801: ROOT water bicycle person 
+802: ROOT clouds man people water 
+803: ROOT clouds man sky water 
+804: ROOT clouds man sky 
+805: ROOT horse person 
+806: ROOT horse jumpingpost person tree tree 
+807: ROOT horse person 
+808: ROOT microphone woman 
+809: ROOT glasses microphone table woman 
+810: ROOT microphone wall woman 
+811: ROOT book boy 
+812: ROOT book boy posters wall 
+813: ROOT book boy 
+814: ROOT phonebooth woman 
+815: ROOT houses phonebooth trees woman sky 
+816: ROOT phonebooth trees woman 
+817: ROOT woman stores car door door door door parkinglot 
+818: ROOT man phone 
+819: ROOT man phone window 

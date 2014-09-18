@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("257.159,252.270")
+label="fence"
+]
+"n5" -> "n1" [
+label="behind"
+]
+"n2" [
+comment=("280.827,324.144")
+label="fence"
+]
+"n6" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("319.758,271.845")
+label="horse"
+]
+"n4" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("319.663,231.114")
+label="man"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("248.917,231.248")
+label="people"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("256.268,312.058")
+label="people"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

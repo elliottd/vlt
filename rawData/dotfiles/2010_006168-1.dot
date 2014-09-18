@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("465.008,224.049")
+label="girl"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("250.055,97.463")
+label="girl"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("221.006,189.640")
+label="horse"
+]
+"n2" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("312.699,240.482")
+label="reign"
+]
+"n1" -> "n4" [
+label="beside"
+]
+}

@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("283.391,271.804")
+label="bag"
+]
+"n2" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("203.240,278.326")
+label="bicycle"
+]
+"n3" -> "n2" [
+label="above"
+]
+"n3" [
+comment=("209.761,233.027")
+label="boy"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("250.057,47.251")
+label="building"
+]
+"n6" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("224.277,149.697")
+label="mural"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("230.964,150.564")
+label="wall"
+]
+"n5" -> "n6" [
+label="on"
+]
+}

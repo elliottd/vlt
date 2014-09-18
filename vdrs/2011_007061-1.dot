@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("21.027,256.611")
+label="people"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("143.793,408.692")
+label="sidewalk"
+]
+"n1" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("163.055,294.501")
+label="someone"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("202.647,263.854")
+label="telephone"
+]
+"n3" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("185.213,275.134")
+label="telephonebooth"
+]
+"n3" -> "n5" [
+label="on"
+]
+}

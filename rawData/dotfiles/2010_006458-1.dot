@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("404.883,150.428")
+label="bookshelf"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("122.656,133.801")
+label="doorway"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("179.175,150.897")
+label="doorway"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("243.071,209.649")
+label="girl"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("52.392,40.596")
+label="violin"
+]
+"n4" -> "n5" [
+label="surrounds"
+]
+"n6" [
+comment=("258.338,214.843")
+label="picture"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

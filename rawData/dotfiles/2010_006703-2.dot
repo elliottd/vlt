@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("350.674,103.153")
+label="cross"
+]
+"n3" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("179.757,200.966")
+label="magazine"
+]
+"n3" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("191.877,234.089")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("322.230,230.898")
+label="plants"
+]
+"n3" -> "n4" [
+label="beside"
+]
+}

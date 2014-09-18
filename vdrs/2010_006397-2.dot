@@ -1,0 +1,26 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("171.278,394.316")
+label="drum"
+]
+"n3" -> "n1" [
+label="behind"
+]
+"n2" [
+comment=("139.721,228.105")
+label="guitar"
+]
+"n3" -> "n2" [
+label="surrounds"
+]
+"n3" [
+comment=("125.803,264.103")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

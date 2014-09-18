@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("136.922,262.819")
+label="man"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("316.016,191.125")
+label="man"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("398.338,175.538")
+label="box"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("418.812,266.319")
+label="box"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("455.642,171.110")
+label="box"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

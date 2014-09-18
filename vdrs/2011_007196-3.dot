@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("380.078,163.713")
+label="table"
+]
+"n2" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("172.573,194.309")
+label="woman"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("436.146,271.859")
+label="glass"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("255.070,296.895")
+label="magazine"
+]
+"n2" -> "n4" [
+label="behind"
+]
+"n5" [
+comment=("481.329,205.280")
+label="straw"
+]
+"n3" -> "n5" [
+label="surrounds"
+]
+}

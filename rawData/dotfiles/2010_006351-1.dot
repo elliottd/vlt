@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("327.922,182.978")
+label="baby"
+]
+"n5" -> "n1" [
+label="beside"
+]
+"n1" [
+comment=("327.922,182.978")
+label="baby"
+]
+"n2" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("287.930,236.827")
+label="bed"
+]
+"n5" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("307.118,180.189")
+label="book"
+]
+"n5" -> "n3" [
+label="surrounds"
+]
+"n4" [
+comment=("32.428,156.339")
+label="bookshelf"
+]
+"n2" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("248.922,190.461")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

@@ -1,0 +1,222 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("165.495,158.851")
+label="trees"
+]
+"n6" -> "n1" [
+label="infront"
+]
+"n1" [
+comment=("165.495,158.851")
+label="trees"
+]
+"n12" -> "n1" [
+label="infront"
+]
+"n1" [
+comment=("165.495,158.851")
+label="trees"
+]
+"n2" -> "n1" [
+label="infront"
+]
+"n1" [
+comment=("165.495,158.851")
+label="trees"
+]
+"n5" -> "n1" [
+label="infront"
+]
+"n1" [
+comment=("165.495,158.851")
+label="trees"
+]
+"n11" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("307.970,258.150")
+label="man"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("197.705,418.446")
+label="road"
+]
+"n6" -> "n3" [
+label="above"
+]
+"n3" [
+comment=("197.705,418.446")
+label="road"
+]
+"n12" -> "n3" [
+label="above"
+]
+"n3" [
+comment=("197.705,418.446")
+label="road"
+]
+"n11" -> "n3" [
+label="above"
+]
+"n3" [
+comment=("197.705,418.446")
+label="road"
+]
+"n2" -> "n3" [
+label="above"
+]
+"n3" [
+comment=("197.705,418.446")
+label="road"
+]
+"n5" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("149.448,311.865")
+label="bicycle"
+]
+"n12" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("205.376,270.891")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("250.355,261.820")
+label="man"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n11" -> "n7" [
+label="above"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n6" -> "n7" [
+label="above"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n6" -> "n7" [
+label="infront"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n12" -> "n7" [
+label="infront"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n12" -> "n7" [
+label="above"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n11" -> "n7" [
+label="above"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n2" -> "n7" [
+label="above"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n2" -> "n7" [
+label="infront"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n5" -> "n7" [
+label="infront"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n5" -> "n7" [
+label="above"
+]
+"n7" [
+comment=("85.712,356.536")
+label="bicycle"
+]
+"n11" -> "n7" [
+label="infront"
+]
+"n8" [
+comment=("206.227,312.314")
+label="bicycle"
+]
+"n5" -> "n8" [
+label="above"
+]
+"n9" [
+comment=("249.082,294.430")
+label="bicycle"
+]
+"n6" -> "n9" [
+label="above"
+]
+"n10" [
+comment=("306.858,293.745")
+label="bicycle"
+]
+"n2" -> "n10" [
+label="above"
+]
+"n11" [
+comment=("90.677,284.303")
+label="man"
+]
+"n0" -> "n11" [
+label="-"
+]
+"n12" [
+comment=("148.398,267.517")
+label="man"
+]
+"n0" -> "n12" [
+label="-"
+]
+}

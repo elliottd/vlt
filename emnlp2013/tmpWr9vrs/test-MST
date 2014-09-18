@@ -1,0 +1,527 @@
+1	boy	boy	NN	NN	-	0	-	-	-
+2	gate	gate	NN	NN	-	1	infront	-	-
+3	laptop	laptop	NN	NN	-	1	beside	-	-
+
+1	boy	boy	NN	NN	-	0	-	-	-
+2	laptop	laptop	NN	NN	-	1	beside	-	-
+3	window	window	NN	NN	-	0	-	-	-
+
+1	trees	trees	NN	NN	-	0	-	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	people	people	NN	NN	-	0	-	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	person	person	NN	NN	-	0	-	-	-
+7	person	person	NN	NN	-	0	-	-	-
+
+1	man	man	NN	NN	-	0	-	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	people	people	NN	NN	-	0	-	-	-
+4	person	person	NN	NN	-	0	-	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	person	person	NN	NN	-	0	-	-	-
+7	phone	phone	NN	NN	-	1	surrounds	-	-
+
+1	building	building	NN	NN	-	0	-	-	-
+2	fence	fence	NN	NN	-	0	-	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	paper	paper	NN	NN	-	3	surrounds	-	-
+
+1	paper	paper	NN	NN	-	3	surrounds	-	-
+2	fence	fence	NN	NN	-	0	-	-	-
+3	man	man	NN	NN	-	0	-	-	-
+
+1	lady	lady	NN	NN	-	0	-	-	-
+2	window	window	NN	NN	-	0	-	-	-
+3	lady	lady	NN	NN	-	0	-	-	-
+4	lady	lady	NN	NN	-	0	-	-	-
+5	window	window	NN	NN	-	0	-	-	-
+6	door	door	NN	NN	-	0	-	-	-
+7	homes	homes	NN	NN	-	0	-	-	-
+8	car	car	NN	NN	-	0	-	-	-
+
+1	camera	camera	NN	NN	-	2	surrounds	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	wall	wall	NN	NN	-	2	infront	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	girl	girl	NN	NN	-	0	-	-	-
+3	horse	horse	NN	NN	-	1	above	-	-
+4	reign	reign	NN	NN	-	0	-	-	-
+
+1	barn	barn	NN	NN	-	0	-	-	-
+2	floor	floor	NN	NN	-	3	on	-	-
+3	girl	girl	NN	NN	-	0	-	-	-
+4	horse	horse	NN	NN	-	3	above	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	grass	grass	NN	NN	-	0	-	-	-
+3	trees	trees	NN	NN	-	0	-	-	-
+
+1	grass	grass	NN	NN	-	0	-	-	-
+2	sky	sky	NN	NN	-	0	-	-	-
+3	tree	tree	NN	NN	-	0	-	-	-
+4	trees	trees	NN	NN	-	0	-	-	-
+5	woman	woman	NN	NN	-	0	-	-	-
+
+1	flag	flag	NN	NN	-	2	below	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	sign	sign	NN	NN	-	1	beside	-	-
+
+1	man	man	NN	NN	-	0	-	-	-
+2	sign	sign	NN	NN	-	1	beside	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	horse	horse	NN	NN	-	1	above	-	-
+3	trees	trees	NN	NN	-	0	-	-	-
+
+1	bike	bike	NN	NN	-	3	above	-	-
+2	car	car	NN	NN	-	0	-	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	tree	tree	NN	NN	-	0	-	-	-
+5	tree	tree	NN	NN	-	0	-	-	-
+
+1	bottle	bottle	NN	NN	-	2	beside	-	-
+2	friend	friend	NN	NN	-	0	-	-	-
+3	girl	girl	NN	NN	-	0	-	-	-
+
+1	friend	friend	NN	NN	-	0	-	-	-
+2	girl	girl	NN	NN	-	0	-	-	-
+
+1	guy	guy	NN	NN	-	0	-	-	-
+2	minivan	minivan	NN	NN	-	0	-	-	-
+3	sign	sign	NN	NN	-	1	beside	-	-
+4	wood	wood	NN	NN	-	0	-	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	van	van	NN	NN	-	0	-	-	-
+
+1	buildings	buildings	NN	NN	-	0	-	-	-
+2	finishline	finishline	NN	NN	-	3	beside	-	-
+3	girl	girl	NN	NN	-	0	-	-	-
+4	people	people	NN	NN	-	0	-	-	-
+5	people	people	NN	NN	-	0	-	-	-
+6	person	person	NN	NN	-	0	-	-	-
+7	van	van	NN	NN	-	0	-	-	-
+
+1	trees	trees	NN	NN	-	0	-	-	-
+2	trees	trees	NN	NN	-	0	-	-	-
+3	people	people	NN	NN	-	0	-	-	-
+4	people	people	NN	NN	-	0	-	-	-
+5	horse	horse	NN	NN	-	6	above	-	-
+6	horse	horse	NN	NN	-	3	above	-	-
+
+1	magazine	magazine	NN	NN	-	2	surrounds	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	passenger	passenger	NN	NN	-	0	-	-	-
+4	passenger	passenger	NN	NN	-	0	-	-	-
+5	passengers	passengers	NN	NN	-	0	-	-	-
+6	window	window	NN	NN	-	0	-	-	-
+
+1	magazine	magazine	NN	NN	-	2	surrounds	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	window	window	NN	NN	-	0	-	-	-
+
+1	crowd	crowd	NN	NN	-	0	-	-	-
+2	fence	fence	NN	NN	-	0	-	-	-
+3	grass	grass	NN	NN	-	0	-	-	-
+4	woman	woman	NN	NN	-	0	-	-	-
+
+1	floor	floor	NN	NN	-	4	on	-	-
+2	keyboard	keyboard	NN	NN	-	4	beside	-	-
+3	tree	tree	NN	NN	-	0	-	-	-
+4	woman	woman	NN	NN	-	0	-	-	-
+
+1	keyboard	keyboard	NN	NN	-	3	beside	-	-
+2	tree	tree	NN	NN	-	0	-	-	-
+3	woman	woman	NN	NN	-	0	-	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	horse	horse	NN	NN	-	1	above	-	-
+3	trees	trees	NN	NN	-	0	-	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	horse	horse	NN	NN	-	1	above	-	-
+3	trees	trees	NN	NN	-	0	-	-	-
+4	wheat	wheat	NN	NN	-	0	-	-	-
+
+1	guitar	guitar	NN	NN	-	2	beside	-	-
+2	man	man	NN	NN	-	0	-	-	-
+
+1	vendingmachine	vendingmachine	NN	NN	-	0	-	-	-
+2	street	street	NN	NN	-	3	above	-	-
+3	street	street	NN	NN	-	4	above	-	-
+4	street	street	NN	NN	-	5	on	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	buildings	buildings	NN	NN	-	0	-	-	-
+7	buildings	buildings	NN	NN	-	0	-	-	-
+8	buildings	buildings	NN	NN	-	0	-	-	-
+9	buildings	buildings	NN	NN	-	0	-	-	-
+10	buildings	buildings	NN	NN	-	0	-	-	-
+11	buildings	buildings	NN	NN	-	0	-	-	-
+12	girl	girl	NN	NN	-	0	-	-	-
+13	girl	girl	NN	NN	-	0	-	-	-
+
+1	man	man	NN	NN	-	0	-	-	-
+
+1	seat	seat	NN	NN	-	0	-	-	-
+2	camera	camera	NN	NN	-	3	surrounds	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	wall	wall	NN	NN	-	3	infront	-	-
+
+1	SUV	SUV	NN	NN	-	0	-	-	-
+2	bike	bike	NN	NN	-	5	above	-	-
+3	bike	bike	NN	NN	-	5	above	-	-
+4	bike	bike	NN	NN	-	5	above	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	road	road	NN	NN	-	2	on	-	-
+
+1	SUV	SUV	NN	NN	-	0	-	-	-
+2	person	person	NN	NN	-	0	-	-	-
+
+1	horse	horse	NN	NN	-	2	above	-	-
+2	someone	someone	NN	NN	-	0	-	-	-
+3	volcano	volcano	NN	NN	-	0	-	-	-
+
+1	beach	beach	NN	NN	-	4	on	-	-
+2	forest	forest	NN	NN	-	0	-	-	-
+3	horse	horse	NN	NN	-	4	above	-	-
+4	someone	someone	NN	NN	-	0	-	-	-
+5	volcano	volcano	NN	NN	-	0	-	-	-
+6	water	water	NN	NN	-	0	-	-	-
+
+1	curtain	curtain	NN	NN	-	0	-	-	-
+2	newspaper	newspaper	NN	NN	-	3	surrounds	-	-
+3	woman	woman	NN	NN	-	0	-	-	-
+
+1	curtain	curtain	NN	NN	-	0	-	-	-
+2	newspaper	newspaper	NN	NN	-	4	surrounds	-	-
+3	table	table	NN	NN	-	0	-	-	-
+4	woman	woman	NN	NN	-	0	-	-	-
+
+1	newspaper	newspaper	NN	NN	-	3	surrounds	-	-
+2	table	table	NN	NN	-	0	-	-	-
+3	woman	woman	NN	NN	-	0	-	-	-
+
+1	condos	condos	NN	NN	-	0	-	-	-
+2	girl	girl	NN	NN	-	0	-	-	-
+3	guy	guy	NN	NN	-	0	-	-	-
+4	man	man	NN	NN	-	0	-	-	-
+
+1	wall	wall	NN	NN	-	3	infront	-	-
+2	machine	machine	NN	NN	-	0	-	-	-
+3	man	man	NN	NN	-	0	-	-	-
+
+1	man	man	NN	NN	-	0	-	-	-
+
+1	book	book	NN	NN	-	3	surrounds	-	-
+2	book	book	NN	NN	-	3	surrounds	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	picture	picture	NN	NN	-	0	-	-	-
+5	picture	picture	NN	NN	-	0	-	-	-
+6	wall	wall	NN	NN	-	4	on	-	-
+7	woman	woman	NN	NN	-	0	-	-	-
+
+1	violin	violin	NN	NN	-	3	beside	-	-
+2	guitar	guitar	NN	NN	-	3	beside	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	man	man	NN	NN	-	0	-	-	-
+5	microphone	microphone	NN	NN	-	3	beside	-	-
+6	microphone	microphone	NN	NN	-	3	beside	-	-
+7	microphone	microphone	NN	NN	-	3	beside	-	-
+8	person	person	NN	NN	-	0	-	-	-
+
+1	man	man	NN	NN	-	0	-	-	-
+2	motorcycle	motorcycle	NN	NN	-	1	above	-	-
+3	motorcycle	motorcycle	NN	NN	-	1	above	-	-
+4	motorcycle	motorcycle	NN	NN	-	1	above	-	-
+5	parkinglot	parkinglot	NN	NN	-	1	on	-	-
+
+1	boy	boy	NN	NN	-	0	-	-	-
+2	chair	chair	NN	NN	-	0	-	-	-
+3	fence	fence	NN	NN	-	0	-	-	-
+4	grass	grass	NN	NN	-	0	-	-	-
+
+1	student	student	NN	NN	-	0	-	-	-
+2	cabinet	cabinet	NN	NN	-	1	infront	-	-
+3	instrument	instrument	NN	NN	-	1	beside	-	-
+4	instrument	instrument	NN	NN	-	1	beside	-	-
+5	instrument	instrument	NN	NN	-	1	beside	-	-
+6	student	student	NN	NN	-	0	-	-	-
+7	student	student	NN	NN	-	0	-	-	-
+
+1	student	student	NN	NN	-	0	-	-	-
+2	cabinet	cabinet	NN	NN	-	1	infront	-	-
+3	instrument	instrument	NN	NN	-	1	beside	-	-
+4	instrument	instrument	NN	NN	-	1	beside	-	-
+5	instrument	instrument	NN	NN	-	1	beside	-	-
+6	student	student	NN	NN	-	0	-	-	-
+7	student	student	NN	NN	-	0	-	-	-
+
+1	chair	chair	NN	NN	-	0	-	-	-
+2	computer	computer	NN	NN	-	4	beside	-	-
+3	computer	computer	NN	NN	-	4	beside	-	-
+4	man	man	NN	NN	-	0	-	-	-
+5	map	map	NN	NN	-	0	-	-	-
+6	woman	woman	NN	NN	-	0	-	-	-
+
+1	shrubs	shrubs	NN	NN	-	0	-	-	-
+2	bicycle	bicycle	NN	NN	-	3	above	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	street	street	NN	NN	-	2	on	-	-
+
+1	ball	ball	NN	NN	-	2	beside	-	-
+2	person	person	NN	NN	-	0	-	-	-
+3	trees	trees	NN	NN	-	0	-	-	-
+
+1	alley	alley	NN	NN	-	2	on	-	-
+2	bicycle	bicycle	NN	NN	-	3	above	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	sign	sign	NN	NN	-	1	below	-	-
+
+1	camera	camera	NN	NN	-	3	surrounds	-	-
+2	ledge	ledge	NN	NN	-	3	on	-	-
+3	man	man	NN	NN	-	0	-	-	-
+
+1	woman	woman	NN	NN	-	0	-	-	-
+2	horse	horse	NN	NN	-	1	above	-	-
+3	horse	horse	NN	NN	-	1	above	-	-
+4	horse	horse	NN	NN	-	1	above	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	person	person	NN	NN	-	0	-	-	-
+
+1	woman	woman	NN	NN	-	0	-	-	-
+2	arena	arena	NN	NN	-	0	-	-	-
+3	horse	horse	NN	NN	-	1	above	-	-
+4	jumps	jumps	NN	NN	-	0	-	-	-
+
+1	woman	woman	NN	NN	-	0	-	-	-
+2	horse	horse	NN	NN	-	1	above	-	-
+3	horse	horse	NN	NN	-	1	above	-	-
+4	person	person	NN	NN	-	0	-	-	-
+
+1	book	book	NN	NN	-	2	surrounds	-	-
+2	child	child	NN	NN	-	0	-	-	-
+3	sofa	sofa	NN	NN	-	2	on	-	-
+
+1	bed	bed	NN	NN	-	4	on	-	-
+2	grasslands	grasslands	NN	NN	-	0	-	-	-
+3	laptop	laptop	NN	NN	-	4	beside	-	-
+4	man	man	NN	NN	-	0	-	-	-
+
+1	laptop	laptop	NN	NN	-	2	beside	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	sky	sky	NN	NN	-	0	-	-	-
+
+1	beach	beach	NN	NN	-	5	on	-	-
+2	beach	beach	NN	NN	-	5	on	-	-
+3	horse	horse	NN	NN	-	5	above	-	-
+4	horse	horse	NN	NN	-	5	above	-	-
+5	person	person	NN	NN	-	0	-	-	-
+6	person	person	NN	NN	-	0	-	-	-
+
+1	bicycle	bicycle	NN	NN	-	2	above	-	-
+2	boy	boy	NN	NN	-	0	-	-	-
+3	mural	mural	NN	NN	-	0	-	-	-
+4	road	road	NN	NN	-	1	on	-	-
+
+1	bag	bag	NN	NN	-	0	-	-	-
+2	bicycle	bicycle	NN	NN	-	3	above	-	-
+3	boy	boy	NN	NN	-	0	-	-	-
+4	building	building	NN	NN	-	0	-	-	-
+5	mural	mural	NN	NN	-	0	-	-	-
+6	wall	wall	NN	NN	-	3	infront	-	-
+
+1	couch	couch	NN	NN	-	3	on	-	-
+2	laptop	laptop	NN	NN	-	3	beside	-	-
+3	man	man	NN	NN	-	0	-	-	-
+
+1	couch	couch	NN	NN	-	3	on	-	-
+2	laptop	laptop	NN	NN	-	3	beside	-	-
+3	man	man	NN	NN	-	0	-	-	-
+
+1	bed	bed	NN	NN	-	3	on	-	-
+2	computer	computer	NN	NN	-	3	beside	-	-
+3	woman	woman	NN	NN	-	0	-	-	-
+
+1	bookshelf	bookshelf	NN	NN	-	0	-	-	-
+2	child	child	NN	NN	-	0	-	-	-
+3	computer	computer	NN	NN	-	2	beside	-	-
+
+1	bookshelf	bookshelf	NN	NN	-	0	-	-	-
+2	child	child	NN	NN	-	0	-	-	-
+3	computer	computer	NN	NN	-	2	beside	-	-
+4	magazines	magazines	NN	NN	-	2	surrounds	-	-
+5	wall	wall	NN	NN	-	2	infront	-	-
+6	window	window	NN	NN	-	0	-	-	-
+
+1	fence	fence	NN	NN	-	0	-	-	-
+2	friend	friend	NN	NN	-	0	-	-	-
+3	friend	friend	NN	NN	-	0	-	-	-
+4	friend	friend	NN	NN	-	0	-	-	-
+5	friend	friend	NN	NN	-	0	-	-	-
+6	friend	friend	NN	NN	-	0	-	-	-
+7	road	road	NN	NN	-	8	above	-	-
+8	road	road	NN	NN	-	9	above	-	-
+9	road	road	NN	NN	-	10	above	-	-
+10	road	road	NN	NN	-	11	above	-	-
+11	road	road	NN	NN	-	2	on	-	-
+
+1	female	female	NN	NN	-	0	-	-	-
+2	female	female	NN	NN	-	0	-	-	-
+3	male	male	NN	NN	-	0	-	-	-
+
+1	cellphone	cellphone	NN	NN	-	2	surrounds	-	-
+2	girl	girl	NN	NN	-	0	-	-	-
+3	people	people	NN	NN	-	0	-	-	-
+4	people	people	NN	NN	-	0	-	-	-
+5	table	table	NN	NN	-	0	-	-	-
+
+1	cellphone	cellphone	NN	NN	-	2	surrounds	-	-
+2	girl	girl	NN	NN	-	0	-	-	-
+3	people	people	NN	NN	-	0	-	-	-
+4	people	people	NN	NN	-	0	-	-	-
+
+1	people	people	NN	NN	-	0	-	-	-
+2	people	people	NN	NN	-	0	-	-	-
+3	people	people	NN	NN	-	0	-	-	-
+4	player	player	NN	NN	-	0	-	-	-
+5	player	player	NN	NN	-	0	-	-	-
+
+1	people	people	NN	NN	-	0	-	-	-
+2	people	people	NN	NN	-	0	-	-	-
+3	people	people	NN	NN	-	0	-	-	-
+4	player	player	NN	NN	-	0	-	-	-
+5	player	player	NN	NN	-	0	-	-	-
+
+1	flag	flag	NN	NN	-	2	below	-	-
+2	man	man	NN	NN	-	0	-	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	girl	girl	NN	NN	-	0	-	-	-
+3	girl	girl	NN	NN	-	0	-	-	-
+4	grass	grass	NN	NN	-	5	above	-	-
+5	grass	grass	NN	NN	-	0	-	-	-
+6	grass	grass	NN	NN	-	5	above	-	-
+
+1	ledge	ledge	NN	NN	-	2	on	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	trees	trees	NN	NN	-	0	-	-	-
+4	trees	trees	NN	NN	-	0	-	-	-
+
+1	boy	boy	NN	NN	-	0	-	-	-
+2	car	car	NN	NN	-	0	-	-	-
+3	car	car	NN	NN	-	0	-	-	-
+4	drums	drums	NN	NN	-	6	beside	-	-
+5	drums	drums	NN	NN	-	6	beside	-	-
+6	people	people	NN	NN	-	0	-	-	-
+7	trees	trees	NN	NN	-	0	-	-	-
+
+1	crowd	crowd	NN	NN	-	0	-	-	-
+2	instrument	instrument	NN	NN	-	1	beside	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	stage	stage	NN	NN	-	1	above	-	-
+
+1	woman	woman	NN	NN	-	0	-	-	-
+2	chandelier	chandelier	NN	NN	-	0	-	-	-
+
+1	microphone	microphone	NN	NN	-	2	beside	-	-
+2	gentleman	gentleman	NN	NN	-	0	-	-	-
+3	gentleman	gentleman	NN	NN	-	0	-	-	-
+
+1	gentleman	gentleman	NN	NN	-	0	-	-	-
+2	gentleman	gentleman	NN	NN	-	0	-	-	-
+3	marathonsign	marathonsign	NN	NN	-	1	beside	-	-
+4	microphone	microphone	NN	NN	-	1	beside	-	-
+5	trigger	trigger	NN	NN	-	0	-	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	presents	presents	NN	NN	-	0	-	-	-
+3	presents	presents	NN	NN	-	0	-	-	-
+4	woman	woman	NN	NN	-	0	-	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	greetingcard	greetingcard	NN	NN	-	0	-	-	-
+3	siding	siding	NN	NN	-	0	-	-	-
+4	woman	woman	NN	NN	-	0	-	-	-
+
+1	girl	girl	NN	NN	-	0	-	-	-
+2	greetingcard	greetingcard	NN	NN	-	0	-	-	-
+3	siding	siding	NN	NN	-	0	-	-	-
+4	woman	woman	NN	NN	-	0	-	-	-
+
+1	blanket	blanket	NN	NN	-	0	-	-	-
+2	foliage	foliage	NN	NN	-	0	-	-	-
+3	person	person	NN	NN	-	0	-	-	-
+
+1	clouds	clouds	NN	NN	-	0	-	-	-
+2	girl	girl	NN	NN	-	0	-	-	-
+
+1	boat	boat	NN	NN	-	2	above	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	primer	primer	NN	NN	-	0	-	-	-
+4	sky	sky	NN	NN	-	0	-	-	-
+
+1	boat	boat	NN	NN	-	2	above	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	scaffolding	scaffolding	NN	NN	-	0	-	-	-
+
+1	drums	drums	NN	NN	-	2	beside	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	microphone	microphone	NN	NN	-	2	beside	-	-
+4	stage	stage	NN	NN	-	2	above	-	-
+
+1	gate	gate	NN	NN	-	2	infront	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	man	man	NN	NN	-	0	-	-	-
+
+1	man	man	NN	NN	-	0	-	-	-
+2	phone	phone	NN	NN	-	1	surrounds	-	-
+
+1	building	building	NN	NN	-	0	-	-	-
+2	buildings	buildings	NN	NN	-	0	-	-	-
+3	buildings	buildings	NN	NN	-	0	-	-	-
+4	man	man	NN	NN	-	0	-	-	-
+5	people	people	NN	NN	-	0	-	-	-
+6	street	street	NN	NN	-	4	on	-	-
+
+1	telephone	telephone	NN	NN	-	2	surrounds	-	-
+2	woman	woman	NN	NN	-	0	-	-	-
+
+1	telephone	telephone	NN	NN	-	2	surrounds	-	-
+2	woman	woman	NN	NN	-	0	-	-	-
+
+1	bench	bench	NN	NN	-	0	-	-	-
+2	telephone	telephone	NN	NN	-	3	surrounds	-	-
+3	woman	woman	NN	NN	-	0	-	-	-
+
+1	piano	piano	NN	NN	-	2	beside	-	-
+2	someone	someone	NN	NN	-	0	-	-	-
+
+1	newspaper	newspaper	NN	NN	-	2	surrounds	-	-
+2	woman	woman	NN	NN	-	0	-	-	-
+
+1	man	man	NN	NN	-	0	-	-	-
+2	trees	trees	NN	NN	-	0	-	-	-
+3	water	water	NN	NN	-	0	-	-	-
+
+1	fence	fence	NN	NN	-	0	-	-	-
+2	grass	grass	NN	NN	-	0	-	-	-
+3	man	man	NN	NN	-	0	-	-	-
+4	motorscoot	motorscoot	NN	NN	-	3	above	-	-
+
+1	clouds	clouds	NN	NN	-	0	-	-	-
+2	man	man	NN	NN	-	0	-	-	-
+3	sky	sky	NN	NN	-	0	-	-	-
+4	water	water	NN	NN	-	0	-	-	-
+
+1	woman	woman	NN	NN	-	0	-	-	-
+2	stores	stores	NN	NN	-	9	infront	-	-
+3	car	car	NN	NN	-	0	-	-	-
+4	car	car	NN	NN	-	0	-	-	-
+5	door	door	NN	NN	-	2	surrounds	-	-
+6	door	door	NN	NN	-	2	surrounds	-	-
+7	door	door	NN	NN	-	2	surrounds	-	-
+8	door	door	NN	NN	-	2	surrounds	-	-
+9	parkinglot	parkinglot	NN	NN	-	1	on	-	-
+

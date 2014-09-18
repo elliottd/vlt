@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("167.048,75.075")
+label="buildings"
+]
+"n6" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("144.193,196.178")
+label="camera"
+]
+"n5" -> "n2" [
+label="surrounds"
+]
+"n3" [
+comment=("289.182,108.897")
+label="car"
+]
+"n5" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("66.480,135.285")
+label="cars"
+]
+"n5" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("158.686,252.694")
+label="man"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("172.165,276.251")
+label="parkinglot"
+]
+"n5" -> "n6" [
+label="on"
+]
+}

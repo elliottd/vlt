@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("295.165,150.243")
+label="athlete"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("403.770,267.852")
+label="finishline"
+]
+"n1" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("68.785,107.648")
+label="people"
+]
+"n1" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("110.624,280.000")
+label="people"
+]
+"n1" -> "n4" [
+label="behind"
+]
+}

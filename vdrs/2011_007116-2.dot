@@ -1,0 +1,26 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("43.661,164.398")
+label="television"
+]
+"n3" -> "n1" [
+label="opposite"
+]
+"n2" [
+comment=("307.125,125.012")
+label="bunkbed"
+]
+"n3" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("328.565,130.957")
+label="girl"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

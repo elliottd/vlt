@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("176.981,214.014")
+label="book"
+]
+"n4" -> "n1" [
+label="behind"
+]
+"n2" [
+comment=("90.012,287.640")
+label="box"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("406.271,200.022")
+label="child"
+]
+"n4" -> "n3" [
+label="behind"
+]
+"n4" [
+comment=("273.152,160.985")
+label="person"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("89.700,103.892")
+label="plate"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

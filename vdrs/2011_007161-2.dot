@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("309.733,148.500")
+label="boy"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("230.105,165.944")
+label="girl"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("253.761,63.900")
+label="shrubs"
+]
+"n4" -> "n3" [
+label="below"
+]
+"n4" [
+comment=("261.185,299.132")
+label="walkway"
+]
+"n1" -> "n4" [
+label="above"
+]
+"n4" [
+comment=("261.185,299.132")
+label="walkway"
+]
+"n2" -> "n4" [
+label="above"
+]
+}

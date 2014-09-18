@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("379.740,174.514")
+label="person"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("360.381,211.550")
+label="shoppingbag"
+]
+"n1" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("400.599,206.221")
+label="shoppingbag"
+]
+"n1" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("251.472,187.187")
+label="walkover"
+]
+"n1" -> "n4" [
+label="on"
+]
+"n5" [
+comment=("126.120,173.334")
+label="windows"
+]
+"n4" -> "n5" [
+label="surrounds"
+]
+"n6" [
+comment=("455.481,147.741")
+label="windows"
+]
+"n4" -> "n6" [
+label="surrounds"
+]
+}

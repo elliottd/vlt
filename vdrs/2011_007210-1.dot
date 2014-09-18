@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("188.181,310.311")
+label="boy"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("286.143,246.294")
+label="child"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("101.720,115.665")
+label="children"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("175.807,407.444")
+label="horn"
+]
+"n1" -> "n4" [
+label="surrounds"
+]
+"n5" [
+comment=("79.545,47.572")
+label="instrument"
+]
+"n3" -> "n5" [
+label="surrounds"
+]
+"n6" [
+comment=("270.053,220.685")
+label="instrument"
+]
+"n2" -> "n6" [
+label="surrounds"
+]
+}

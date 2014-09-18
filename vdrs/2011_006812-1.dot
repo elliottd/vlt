@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("157.703,121.199")
+label="tents"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("105.439,145.529")
+label="cars"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("280.860,63.840")
+label="flag"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("147.111,130.469")
+label="horse"
+]
+"n7" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("180.490,192.920")
+label="obstacle"
+]
+"n4" -> "n5" [
+label="above"
+]
+"n6" [
+comment=("273.398,94.695")
+label="pole"
+]
+"n3" -> "n6" [
+label="beside"
+]
+"n7" [
+comment=("140.384,72.052")
+label="rider"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

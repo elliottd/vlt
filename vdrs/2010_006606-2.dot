@@ -1,0 +1,68 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("357.258,240.004")
+label="woman"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("23.545,63.661")
+label="TV"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("324.615,131.867")
+label="blanket"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("141.608,201.274")
+label="child"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("236.176,242.538")
+label="child"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("267.283,240.533")
+label="couch"
+]
+"n5" -> "n6" [
+label="on"
+]
+"n6" [
+comment=("267.283,240.533")
+label="couch"
+]
+"n4" -> "n6" [
+label="on"
+]
+"n6" [
+comment=("267.283,240.533")
+label="couch"
+]
+"n1" -> "n6" [
+label="on"
+]
+"n7" [
+comment=("319.785,65.374")
+label="window"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

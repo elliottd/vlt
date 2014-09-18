@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("228.334,189.588")
+label="book"
+]
+"n5" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("422.392,99.758")
+label="books"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("107.210,171.594")
+label="cashregister"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("252.405,280.316")
+label="counter"
+]
+"n5" -> "n4" [
+label="behind"
+]
+"n5" [
+comment=("316.613,154.223")
+label="woman"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

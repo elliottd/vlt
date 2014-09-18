@@ -1,0 +1,26 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("273.632,273.288")
+label="newspaper"
+]
+"n3" -> "n1" [
+label="behind"
+]
+"n2" [
+comment=("261.956,157.281")
+label="person"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("127.756,183.739")
+label="woman"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

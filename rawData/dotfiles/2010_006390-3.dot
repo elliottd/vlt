@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("271.974,72.491")
+label="condos"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("334.033,167.190")
+label="girl"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("158.917,161.697")
+label="guy"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("246.029,154.346")
+label="man"
+]
+"n0" -> "n4" [
+label="-"
+]
+}

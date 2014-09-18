@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("243.103,133.680")
+label="afghan"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("261.111,258.394")
+label="couch"
+]
+"n1" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("200.906,208.798")
+label="flute"
+]
+"n6" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("234.657,272.519")
+label="girl"
+]
+"n6" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("353.515,282.436")
+label="girl"
+]
+"n6" -> "n5" [
+label="opposite"
+]
+"n6" [
+comment=("453.953,333.438")
+label="girl"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

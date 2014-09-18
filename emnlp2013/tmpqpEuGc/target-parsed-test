@@ -1,0 +1,585 @@
+1	newspaper	newspaper	NN	NN	"212.128|307.524"	3	behind	_	_
+2	chair	chair	NN	NN	"434.146|299.593"	3	on	_	_
+3	man	man	NN	NN	"277.455|251.775"	0	-	_	_
+
+1	boat	boat	NN	NN	"214.049|346.622"	2	on	_	_
+2	man	man	NN	NN	"152.331|215.249"	0	-	_	_
+3	trees	trees	NN	NN	"350.567|215.207"	2	infront	_	_
+4	wake	wake	NN	NN	"388.284|293.059"	2	infront	_	_
+
+1	camera	camera	NN	NN	"363.754|222.804"	2	surrounds	_	_
+2	man	man	NN	NN	"234.089|215.521"	0	-	_	_
+3	umbrella	umbrella	NN	NN	"348.555|45.569"	2	infront	_	_
+
+1	person	person	NN	NN	"165.922|274.537"	0	-	_	_
+2	trees	trees	NN	NN	"167.703|125.277"	1	below	_	_
+3	walkway	walkway	NN	NN	"167.575|396.029"	1	on	_	_
+
+1	friend	friend	NN	NN	"210.975|205.448"	3	beside	_	_
+2	payphone	payphone	NN	NN	"216.612|177.414"	3	beside	_	_
+3	woman	woman	NN	NN	"312.069|204.866"	0	-	_	_
+
+1	lamp	lamp	NN	NN	"419.790|189.071"	0	-	_	_
+2	phone	phone	NN	NN	"198.151|211.332"	4	surrounds	_	_
+3	table	table	NN	NN	"462.635|336.273"	0	-	_	_
+4	woman	woman	NN	NN	"241.220|216.285"	0	-	_	_
+
+1	trees	trees	NN	NN	"281.599|211.749"	0	-	_	_
+2	trees	trees	NN	NN	"241.644|115.089"	0	-	_	_
+3	people	people	NN	NN	"240.228|378.614"	0	-	_	_
+4	people	people	NN	NN	"140.559|219.146"	0	-	_	_
+5	horse	horse	NN	NN	"144.308|267.703"	3	above	_	_
+6	horse	horse	NN	NN	"294.921|250.540"	4	above	_	_
+
+1	flute	flute	NN	NN	"193.395|154.441"	2	infront	_	_
+2	girl	girl	NN	NN	"234.665|230.817"	0	-	_	_
+3	piano	piano	NN	NN	"436.550|268.941"	4	beside	_	_
+4	woman	woman	NN	NN	"352.149|249.963"	0	-	_	_
+
+1	camera	camera	NN	NN	"400.679|166.951"	2	surrounds	_	_
+2	man	man	NN	NN	"170.437|206.895"	0	-	_	_
+3	trees	trees	NN	NN	"203.744|58.683"	0	-	_	_
+4	umbrella	umbrella	NN	NN	"326.080|88.360"	0	-	_	_
+5	woman	woman	NN	NN	"434.393|186.999"	2	infront	_	_
+
+1	bicycle	bicycle	NN	NN	"211.759|362.299"	3	above	_	_
+2	car	car	NN	NN	"8.250|70.644"	0	-	_	_
+3	person	person	NN	NN	"174.930|216.756"	0	-	_	_
+4	road	road	NN	NN	"226.309|128.591"	5	below	_	_
+5	sidewalk	sidewalk	NN	NN	"142.230|381.716"	1	on	_	_
+6	trees	trees	NN	NN	"217.134|44.516"	4	below	_	_
+
+1	road	road	NN	NN	"226.309|128.591"	0	-	_	_
+2	bicycle	bicycle	NN	NN	"211.759|362.299"	3	above	_	_
+3	person	person	NN	NN	"174.930|216.756"	0	-	_	_
+
+1	beach	beach	NN	NN	"291.761|320.117"	4	above	_	_
+1	beach	beach	NN	NN	"291.761|320.117"	5	above	_	_
+2	horse	horse	NN	NN	"258.052|251.229"	4	above	_	_
+3	horse	horse	NN	NN	"486.349|207.453"	5	above	_	_
+4	man	man	NN	NN	"211.383|194.385"	0	-	_	_
+5	woman	woman	NN	NN	"246.625|169.450"	0	-	_	_
+
+1	man	man	NN	NN	"231.658|160.352"	0	-	_	_
+2	people	people	NN	NN	"354.181|35.800"	0	-	_	_
+3	person	person	NN	NN	"472.625|144.698"	0	-	_	_
+4	trumpet	trumpet	NN	NN	"297.696|276.939"	1	surrounds	_	_
+5	wall	wall	NN	NN	"242.718|159.929"	1	on	_	_
+
+1	man	man	NN	NN	"231.658|160.352"	0	-	_	_
+2	person	person	NN	NN	"472.625|144.698"	0	-	_	_
+3	trumpet	trumpet	NN	NN	"297.696|276.939"	1	surrounds	_	_
+4	wall	wall	NN	NN	"242.718|159.929"	1	on	_	_
+5	sidewalk	sidewalk	NN	NN	"213.678|143.115"	2	above	_	_
+
+1	boy	boy	NN	NN	"150.889|201.174"	0	-	_	_
+2	pony	pony	NN	NN	"195.671|373.560"	1	above	_	_
+
+1	trees	trees	NN	NN	"239.172|132.534"	0	-	_	_
+2	boy	boy	NN	NN	"150.889|201.174"	0	-	_	_
+3	pony	pony	NN	NN	"195.671|373.560"	2	above	_	_
+4	road	road	NN	NN	"328.882|447.184"	0	-	_	_
+
+1	sofa	sofa	NN	NN	"185.627|204.944"	0	-	_	_
+2	boy	boy	NN	NN	"220.054|254.234"	0	-	_	_
+3	computer	computer	NN	NN	"75.313|176.723"	2	beside	_	_
+4	hanging	hanging	NN	NN	"168.686|46.477"	0	-	_	_
+5	hanging	hanging	NN	NN	"214.944|69.002"	0	-	_	_
+
+1	man	man	NN	NN	"292.250|178.043"	0	-	_	_
+2	phone	phone	NN	NN	"199.042|214.595"	1	surrounds	_	_
+3	trees	trees	NN	NN	"257.943|160.115"	1	infront	_	_
+
+1	castle	castle	NN	NN	"30.318|108.824"	0	-	_	_
+2	man	man	NN	NN	"292.250|178.043"	0	-	_	_
+3	phone	phone	NN	NN	"199.042|214.595"	2	surrounds	_	_
+
+1	castle	castle	NN	NN	"30.318|108.824"	0	-	_	_
+2	man	man	NN	NN	"292.250|178.043"	0	-	_	_
+3	phone	phone	NN	NN	"199.042|214.595"	2	surrounds	_	_
+4	trees	trees	NN	NN	"257.943|160.115"	0	-	_	_
+
+1	vendingmachine	vendingmachine	NN	NN	"393.902|183.341"	0	-	_	_
+2	street	street	NN	NN	"281.720|266.940"	3	above	_	_
+2	street	street	NN	NN	"281.720|266.940"	6	on	_	_
+2	street	street	NN	NN	"281.720|266.940"	7	on	_	_
+3	person	person	NN	NN	"122.195|197.839"	0	-	_	_
+4	buildings	buildings	NN	NN	"110.458|88.258"	3	above	_	_
+4	buildings	buildings	NN	NN	"110.458|88.258"	0	-	_	_
+4	buildings	buildings	NN	NN	"110.458|88.258"	6	on	_	_
+4	buildings	buildings	NN	NN	"110.458|88.258"	7	on	_	_
+4	buildings	buildings	NN	NN	"110.458|88.258"	0	-	_	_
+5	buildings	buildings	NN	NN	"430.793|81.339"	0	-	_	_
+6	girl	girl	NN	NN	"249.296|182.882"	0	-	_	_
+7	girl	girl	NN	NN	"346.568|185.657"	0	-	_	_
+
+1	wall	wall	NN	NN	"182.126|126.491"	6	infront	_	_
+1	wall	wall	NN	NN	"182.126|126.491"	7	infront	_	_
+1	wall	wall	NN	NN	"182.126|126.491"	2	infront	_	_
+2	boy	boy	NN	NN	"250.472|282.214"	0	-	_	_
+3	cellphone	cellphone	NN	NN	"235.861|197.344"	2	surrounds	_	_
+4	door	door	NN	NN	"259.536|130.196"	2	infront	_	_
+4	door	door	NN	NN	"259.536|130.196"	6	infront	_	_
+4	door	door	NN	NN	"259.536|130.196"	7	infront	_	_
+5	floor	floor	NN	NN	"217.483|315.642"	2	on	_	_
+5	floor	floor	NN	NN	"217.483|315.642"	7	beside	_	_
+5	floor	floor	NN	NN	"217.483|315.642"	6	on	_	_
+6	friend	friend	NN	NN	"61.299|279.527"	0	-	_	_
+7	friend	friend	NN	NN	"448.328|298.697"	0	-	_	_
+
+1	baby	baby	NN	NN	"327.922|182.978"	3	beside	_	_
+2	bookshelf	bookshelf	NN	NN	"32.428|156.339"	3	beside	_	_
+3	man	man	NN	NN	"248.922|190.461"	0	-	_	_
+
+1	books	books	NN	NN	"60.028|43.136"	4	below	_	_
+2	laptop	laptop	NN	NN	"237.865|235.478"	3	surrounds	_	_
+2	laptop	laptop	NN	NN	"237.865|235.478"	5	behind	_	_
+3	man	man	NN	NN	"152.819|164.162"	0	-	_	_
+3	man	man	NN	NN	"152.819|164.162"	5	beside	_	_
+4	shelf	shelf	NN	NN	"56.525|64.700"	3	infront	_	_
+4	shelf	shelf	NN	NN	"56.525|64.700"	5	infront	_	_
+5	woman	woman	NN	NN	"266.708|142.183"	3	beside	_	_
+5	woman	woman	NN	NN	"266.708|142.183"	0	-	_	_
+
+1	horse	horse	NN	NN	"245.823|202.796"	5	above	_	_
+2	rock	rock	NN	NN	"21.813|138.931"	5	beside	_	_
+3	rock	rock	NN	NN	"144.876|77.061"	5	infront	_	_
+4	rock	rock	NN	NN	"408.761|118.480"	5	beside	_	_
+5	woman	woman	NN	NN	"244.095|151.066"	0	-	_	_
+
+1	trees	trees	NN	NN	"34.813|102.135"	0	-	_	_
+2	trees	trees	NN	NN	"364.678|92.394"	0	-	_	_
+3	bag	bag	NN	NN	"153.068|205.320"	4	behind	_	_
+4	person	person	NN	NN	"168.603|213.224"	0	-	_	_
+5	person	person	NN	NN	"251.521|196.137"	0	-	_	_
+6	person	person	NN	NN	"325.153|213.301"	0	-	_	_
+7	trail	trail	NN	NN	"278.838|296.273"	6	on	_	_
+7	trail	trail	NN	NN	"278.838|296.273"	5	above	_	_
+7	trail	trail	NN	NN	"278.838|296.273"	4	beside	_	_
+
+1	person	person	NN	NN	"235.666|220.814"	0	-	_	_
+2	pillow	pillow	NN	NN	"446.524|320.386"	1	above	_	_
+3	telephone	telephone	NN	NN	"388.505|240.805"	1	surrounds	_	_
+
+1	bike	bike	NN	NN	"310.572|283.396"	3	above	_	_
+2	bike	bike	NN	NN	"377.765|273.036"	4	above	_	_
+3	person	person	NN	NN	"310.092|250.933"	0	-	_	_
+4	person	person	NN	NN	"379.652|234.063"	0	-	_	_
+
+1	horse	horse	NN	NN	"228.900|266.877"	0	-	_	_
+2	man	man	NN	NN	"234.911|136.285"	0	-	_	_
+
+1	field	field	NN	NN	"247.294|265.036"	0	-	_	_
+2	horse	horse	NN	NN	"228.900|266.877"	3	above	_	_
+3	man	man	NN	NN	"234.911|136.285"	0	-	_	_
+
+1	field	field	NN	NN	"247.294|265.036"	3	on	_	_
+2	horse	horse	NN	NN	"228.900|266.877"	3	above	_	_
+3	man	man	NN	NN	"234.911|136.285"	0	-	_	_
+
+1	street	street	NN	NN	"213.261|274.843"	0	-	_	_
+2	house	house	NN	NN	"255.216|47.527"	0	-	_	_
+3	house	house	NN	NN	"442.405|65.186"	0	-	_	_
+4	bicycle	bicycle	NN	NN	"211.701|277.533"	0	-	_	_
+4	bicycle	bicycle	NN	NN	"211.701|277.533"	8	above	_	_
+5	car	car	NN	NN	"54.530|64.133"	0	-	_	_
+6	car	car	NN	NN	"126.163|76.189"	0	-	_	_
+7	concrete	concrete	NN	NN	"330.707|204.905"	0	-	_	_
+8	girl	girl	NN	NN	"201.617|208.670"	0	-	_	_
+9	house	house	NN	NN	"57.705|32.667"	0	-	_	_
+
+1	man	man	NN	NN	"129.521|311.400"	0	-	_	_
+2	telephone	telephone	NN	NN	"315.240|313.807"	1	beside	_	_
+
+1	chair	chair	NN	NN	"396.012|267.599"	0	-	_	_
+2	chair	chair	NN	NN	"456.427|272.694"	0	-	_	_
+3	phone	phone	NN	NN	"291.050|149.248"	5	surrounds	_	_
+4	stove	stove	NN	NN	"81.518|326.857"	5	beside	_	_
+5	woman	woman	NN	NN	"281.725|237.337"	0	-	_	_
+
+1	street	street	NN	NN	"283.734|316.822"	2	above	_	_
+1	street	street	NN	NN	"283.734|316.822"	3	above	_	_
+2	buildings	buildings	NN	NN	"48.952|184.983"	0	-	_	_
+3	buildings	buildings	NN	NN	"337.428|128.318"	0	-	_	_
+4	child	child	NN	NN	"143.472|314.091"	0	-	_	_
+5	child	child	NN	NN	"242.952|277.968"	0	-	_	_
+6	sidewalk	sidewalk	NN	NN	"207.781|338.181"	5	above	_	_
+6	sidewalk	sidewalk	NN	NN	"207.781|338.181"	4	on	_	_
+
+1	beach	beach	NN	NN	"257.447|284.916"	3	on	_	_
+1	beach	beach	NN	NN	"257.447|284.916"	4	on	_	_
+1	beach	beach	NN	NN	"257.447|284.916"	2	on	_	_
+2	people	people	NN	NN	"364.648|203.692"	0	-	_	_
+3	person	person	NN	NN	"219.404|246.677"	0	-	_	_
+4	person	person	NN	NN	"348.110|206.782"	0	-	_	_
+5	rock	rock	NN	NN	"54.731|339.747"	6	on	_	_
+6	something	something	NN	NN	"42.547|317.808"	0	-	_	_
+
+1	boy	boy	NN	NN	"136.545|234.954"	0	-	_	_
+2	boy	boy	NN	NN	"226.842|246.192"	0	-	_	_
+3	boy	boy	NN	NN	"419.575|194.871"	0	-	_	_
+4	trumpet	trumpet	NN	NN	"61.918|244.078"	1	beside	_	_
+5	trumpet	trumpet	NN	NN	"127.345|222.788"	2	beside	_	_
+6	trumpet	trumpet	NN	NN	"320.711|175.873"	3	beside	_	_
+
+1	boy	boy	NN	NN	"136.545|234.954"	0	-	_	_
+2	boy	boy	NN	NN	"226.842|246.192"	0	-	_	_
+3	boy	boy	NN	NN	"419.575|194.871"	0	-	_	_
+4	trumpet	trumpet	NN	NN	"61.918|244.078"	1	beside	_	_
+5	trumpet	trumpet	NN	NN	"127.345|222.788"	2	beside	_	_
+6	trumpet	trumpet	NN	NN	"320.711|175.873"	3	beside	_	_
+
+1	boy	boy	NN	NN	"146.102|201.723"	0	-	_	_
+2	chair	chair	NN	NN	"53.908|122.404"	0	-	_	_
+3	fence	fence	NN	NN	"147.015|101.749"	1	infront	_	_
+4	grass	grass	NN	NN	"153.491|299.714"	1	above	_	_
+
+1	grass	grass	NN	NN	"184.891|418.853"	4	above	_	_
+1	grass	grass	NN	NN	"184.891|418.853"	2	above	_	_
+2	man	man	NN	NN	"308.885|279.434"	0	-	_	_
+3	trees	trees	NN	NN	"159.876|315.362"	0	-	_	_
+4	woman	woman	NN	NN	"78.253|280.477"	0	-	_	_
+
+1	bike	bike	NN	NN	"221.067|176.619"	3	above	_	_
+2	bike	bike	NN	NN	"248.749|231.131"	4	above	_	_
+3	child	child	NN	NN	"220.313|165.454"	0	-	_	_
+4	child	child	NN	NN	"254.022|202.383"	0	-	_	_
+5	house	house	NN	NN	"211.639|97.337"	0	-	_	_
+
+1	camera	camera	NN	NN	"232.441|63.889"	4	beside	_	_
+2	canoe	canoe	NN	NN	"181.087|86.784"	0	-	_	_
+3	canoe	canoe	NN	NN	"274.060|115.945"	4	above	_	_
+4	man	man	NN	NN	"290.324|75.247"	0	-	_	_
+
+1	book	book	NN	NN	"279.669|283.551"	4	behind	_	_
+1	book	book	NN	NN	"279.669|283.551"	5	beside	_	_
+2	floor	floor	NN	NN	"315.712|305.709"	4	on	_	_
+2	floor	floor	NN	NN	"315.712|305.709"	5	on	_	_
+3	girl	girl	NN	NN	"185.034|263.257"	4	surrounds	_	_
+3	girl	girl	NN	NN	"185.034|263.257"	5	beside	_	_
+4	girl	girl	NN	NN	"316.258|201.180"	0	-	_	_
+5	girl	girl	NN	NN	"330.861|235.828"	0	-	_	_
+6	window	window	NN	NN	"310.571|29.503"	0	-	_	_
+
+1	table	table	NN	NN	"442.702|284.423"	0	-	_	_
+2	trumpet	trumpet	NN	NN	"234.130|160.457"	9	beside	_	_
+3	person	person	NN	NN	"171.234|305.726"	0	-	_	_
+4	person	person	NN	NN	"183.406|165.520"	0	-	_	_
+5	chair	chair	NN	NN	"90.116|223.173"	9	on	_	_
+6	chair	chair	NN	NN	"123.757|165.589"	3	on	_	_
+7	child	child	NN	NN	"290.533|210.366"	9	beside	_	_
+8	laptop	laptop	NN	NN	"455.657|258.545"	1	surrounds	_	_
+9	person	person	NN	NN	"100.454|215.543"	0	-	_	_
+
+1	path	path	NN	NN	"217.337|262.883"	4	on	_	_
+1	path	path	NN	NN	"217.337|262.883"	2	on	_	_
+1	path	path	NN	NN	"217.337|262.883"	3	on	_	_
+2	person	person	NN	NN	"171.379|197.735"	0	-	_	_
+3	person	person	NN	NN	"249.770|205.273"	0	-	_	_
+4	person	person	NN	NN	"322.342|200.318"	0	-	_	_
+5	sign	sign	NN	NN	"378.764|121.095"	2	opposite	_	_
+5	sign	sign	NN	NN	"378.764|121.095"	3	beside	_	_
+5	sign	sign	NN	NN	"378.764|121.095"	4	beside	_	_
+6	trees	trees	NN	NN	"266.997|83.464"	2	below	_	_
+6	trees	trees	NN	NN	"266.997|83.464"	4	below	_	_
+6	trees	trees	NN	NN	"266.997|83.464"	3	below	_	_
+
+1	person	person	NN	NN	"171.379|197.735"	0	-	_	_
+2	person	person	NN	NN	"249.770|205.273"	0	-	_	_
+3	person	person	NN	NN	"322.342|200.318"	0	-	_	_
+4	trees	trees	NN	NN	"266.997|83.464"	0	-	_	_
+
+1	woman	woman	NN	NN	"357.258|240.004"	0	-	_	_
+2	TV	TV	NN	NN	"23.545|63.661"	0	-	_	_
+3	blanket	blanket	NN	NN	"324.615|131.867"	0	-	_	_
+4	child	child	NN	NN	"141.608|201.274"	0	-	_	_
+5	child	child	NN	NN	"236.176|242.538"	0	-	_	_
+6	couch	couch	NN	NN	"267.283|240.533"	5	on	_	_
+6	couch	couch	NN	NN	"267.283|240.533"	4	on	_	_
+6	couch	couch	NN	NN	"267.283|240.533"	1	on	_	_
+7	window	window	NN	NN	"319.785|65.374"	0	-	_	_
+
+1	person	person	NN	NN	"255.350|247.123"	0	-	_	_
+2	person	person	NN	NN	"319.840|297.263"	0	-	_	_
+3	computer	computer	NN	NN	"34.205|172.009"	7	beside	_	_
+4	computer	computer	NN	NN	"47.845|210.601"	8	beside	_	_
+5	computer	computer	NN	NN	"99.761|322.524"	1	beside	_	_
+6	computer	computer	NN	NN	"161.746|447.743"	2	beside	_	_
+7	person	person	NN	NN	"104.159|144.743"	0	-	_	_
+8	person	person	NN	NN	"169.061|174.174"	0	-	_	_
+
+1	person	person	NN	NN	"255.350|247.123"	0	-	_	_
+2	person	person	NN	NN	"319.840|297.263"	0	-	_	_
+3	computer	computer	NN	NN	"34.205|172.009"	8	beside	_	_
+4	computer	computer	NN	NN	"47.845|210.601"	9	beside	_	_
+5	computer	computer	NN	NN	"99.761|322.524"	1	beside	_	_
+6	computer	computer	NN	NN	"161.746|447.743"	2	beside	_	_
+7	desks	desks	NN	NN	"115.614|368.277"	0	-	_	_
+8	person	person	NN	NN	"104.159|144.743"	0	-	_	_
+9	person	person	NN	NN	"169.061|174.174"	0	-	_	_
+
+1	cushion	cushion	NN	NN	"61.060|187.460"	0	-	_	_
+2	book	book	NN	NN	"201.830|251.236"	3	surrounds	_	_
+3	child	child	NN	NN	"230.639|186.167"	0	-	_	_
+4	cushion	cushion	NN	NN	"300.426|169.608"	0	-	_	_
+
+1	person	person	NN	NN	"189.428|225.865"	0	-	_	_
+2	person	person	NN	NN	"231.111|229.422"	0	-	_	_
+3	person	person	NN	NN	"289.113|226.262"	0	-	_	_
+4	car	car	NN	NN	"286.459|328.052"	2	behind	_	_
+4	car	car	NN	NN	"286.459|328.052"	1	behind	_	_
+4	car	car	NN	NN	"286.459|328.052"	3	behind	_	_
+5	fence	fence	NN	NN	"90.102|239.964"	0	-	_	_
+6	fence	fence	NN	NN	"246.376|198.346"	0	-	_	_
+7	forest	forest	NN	NN	"247.387|139.170"	0	-	_	_
+8	grass	grass	NN	NN	"277.504|232.197"	0	-	_	_
+9	path	path	NN	NN	"283.415|275.073"	2	above	_	_
+9	path	path	NN	NN	"283.415|275.073"	1	above	_	_
+9	path	path	NN	NN	"283.415|275.073"	3	above	_	_
+
+1	camera	camera	NN	NN	"207.216|143.416"	3	surrounds	_	_
+2	ceiling	ceiling	NN	NN	"191.512|52.545"	0	-	_	_
+3	girl	girl	NN	NN	"342.573|170.995"	0	-	_	_
+
+1	hut	hut	NN	NN	"434.183|135.056"	2	infront	_	_
+2	people	people	NN	NN	"272.572|219.542"	0	-	_	_
+
+1	book	book	NN	NN	"418.290|258.508"	2	behind	_	_
+2	man	man	NN	NN	"246.895|210.915"	0	-	_	_
+
+1	book	book	NN	NN	"418.290|258.508"	2	behind	_	_
+2	man	man	NN	NN	"246.895|210.915"	0	-	_	_
+
+1	book	book	NN	NN	"418.290|258.508"	2	behind	_	_
+2	man	man	NN	NN	"246.895|210.915"	0	-	_	_
+
+1	boy	boy	NN	NN	"137.343|200.595"	0	-	_	_
+2	other	other	NN	NN	"72.967|184.189"	0	-	_	_
+3	other	other	NN	NN	"358.982|186.042"	0	-	_	_
+4	sidewalk	sidewalk	NN	NN	"214.211|245.184"	0	-	_	_
+5	street	street	NN	NN	"265.987|308.448"	0	-	_	_
+6	truck	truck	NN	NN	"265.908|57.019"	0	-	_	_
+
+1	boy	boy	NN	NN	"169.251|305.407"	0	-	_	_
+2	phone	phone	NN	NN	"141.018|243.700"	1	surrounds	_	_
+3	rug	rug	NN	NN	"368.049|333.160"	1	above	_	_
+4	wall	wall	NN	NN	"221.473|167.768"	3	beside	_	_
+
+1	fence	fence	NN	NN	"401.918|241.169"	7	beside	_	_
+2	friend	friend	NN	NN	"102.102|268.331"	0	-	_	_
+3	friend	friend	NN	NN	"142.389|255.361"	0	-	_	_
+4	friend	friend	NN	NN	"192.367|247.020"	0	-	_	_
+5	friend	friend	NN	NN	"266.640|268.203"	0	-	_	_
+6	friend	friend	NN	NN	"321.092|238.310"	0	-	_	_
+7	road	road	NN	NN	"199.160|311.604"	5	on	_	_
+7	road	road	NN	NN	"199.160|311.604"	4	on	_	_
+7	road	road	NN	NN	"199.160|311.604"	2	on	_	_
+7	road	road	NN	NN	"199.160|311.604"	6	on	_	_
+7	road	road	NN	NN	"199.160|311.604"	3	on	_	_
+
+1	motorbike	motorbike	NN	NN	"218.253|251.246"	2	above	_	_
+2	person	person	NN	NN	"232.033|174.641"	0	-	_	_
+
+1	horseback	horseback	NN	NN	"212.968|337.115"	3	above	_	_
+2	river	river	NN	NN	"403.772|190.926"	3	infront	_	_
+3	woman	woman	NN	NN	"293.117|259.549"	0	-	_	_
+
+1	horseback	horseback	NN	NN	"212.968|337.115"	3	above	_	_
+2	trees	trees	NN	NN	"148.667|143.083"	0	-	_	_
+3	woman	woman	NN	NN	"293.117|259.549"	0	-	_	_
+
+1	instrument	instrument	NN	NN	"172.038|178.947"	2	beside	_	_
+2	man	man	NN	NN	"289.421|227.231"	0	-	_	_
+
+1	girl	girl	NN	NN	"146.391|259.483"	0	-	_	_
+2	girl	girl	NN	NN	"225.561|192.246"	0	-	_	_
+3	girl	girl	NN	NN	"380.145|172.571"	0	-	_	_
+
+1	book	book	NN	NN	"182.933|157.766"	2	beside	_	_
+2	child	child	NN	NN	"121.924|149.733"	0	-	_	_
+3	people	people	NN	NN	"256.336|33.455"	2	infront	_	_
+4	sidewalk	sidewalk	NN	NN	"155.508|139.410"	3	above	_	_
+5	stroller	stroller	NN	NN	"115.716|141.092"	2	on	_	_
+
+1	book	book	NN	NN	"182.933|157.766"	2	beside	_	_
+2	child	child	NN	NN	"121.924|149.733"	0	-	_	_
+3	people	people	NN	NN	"256.336|33.455"	4	below	_	_
+4	sidewalk	sidewalk	NN	NN	"155.508|139.410"	0	-	_	_
+5	stroller	stroller	NN	NN	"115.716|141.092"	2	on	_	_
+
+1	chicken	chicken	NN	NN	"131.636|247.587"	2	beside	_	_
+2	man	man	NN	NN	"193.164|272.609"	0	-	_	_
+3	recreationalvehicle	recreationalvehicle	NN	NN	"288.851|224.305"	0	-	_	_
+4	trees	trees	NN	NN	"55.949|190.304"	3	infront	_	_
+
+1	beer	beer	NN	NN	"258.792|444.244"	2	surrounds	_	_
+2	man	man	NN	NN	"217.577|310.771"	0	-	_	_
+3	people	people	NN	NN	"32.195|251.737"	0	-	_	_
+4	people	people	NN	NN	"141.301|334.989"	0	-	_	_
+
+1	bike	bike	NN	NN	"177.908|370.659"	3	above	_	_
+2	child	child	NN	NN	"328.988|221.307"	1	below	_	_
+3	man	man	NN	NN	"216.292|232.233"	0	-	_	_
+4	pole	pole	NN	NN	"321.406|256.795"	2	behind	_	_
+4	pole	pole	NN	NN	"321.406|256.795"	3	behind	_	_
+5	wall	wall	NN	NN	"287.123|107.616"	2	infront	_	_
+5	wall	wall	NN	NN	"287.123|107.616"	3	infront	_	_
+
+1	man	man	NN	NN	"216.787|96.619"	0	-	_	_
+2	sandmound	sandmound	NN	NN	"404.496|164.829"	1	beside	_	_
+3	water	water	NN	NN	"258.326|220.903"	1	above	_	_
+
+1	gentleman	gentleman	NN	NN	"147.508|210.311"	0	-	_	_
+2	gentleman	gentleman	NN	NN	"283.769|226.876"	0	-	_	_
+3	marathonsign	marathonsign	NN	NN	"304.575|105.965"	1	infront	_	_
+4	microphone	microphone	NN	NN	"299.622|161.826"	1	surrounds	_	_
+5	trigger	trigger	NN	NN	"138.533|13.267"	2	below	_	_
+
+1	throughfare	throughfare	NN	NN	"248.445|231.030"	4	on	_	_
+1	throughfare	throughfare	NN	NN	"248.445|231.030"	5	on	_	_
+2	wall	wall	NN	NN	"251.046|61.050"	4	infront	_	_
+2	wall	wall	NN	NN	"251.046|61.050"	5	infront	_	_
+3	boy	boy	NN	NN	"329.293|130.984"	4	below	_	_
+4	horseback	horseback	NN	NN	"331.180|187.378"	5	beside	_	_
+5	man	man	NN	NN	"451.284|191.701"	0	-	_	_
+
+1	man	man	NN	NN	"281.807|267.975"	0	-	_	_
+2	door	door	NN	NN	"340.034|209.374"	3	beside	_	_
+2	door	door	NN	NN	"340.034|209.374"	1	beside	_	_
+3	man	man	NN	NN	"193.997|245.907"	0	-	_	_
+
+1	building	building	NN	NN	"233.594|122.783"	4	infront	_	_
+1	building	building	NN	NN	"233.594|122.783"	5	infront	_	_
+2	cigarette	cigarette	NN	NN	"168.634|117.571"	5	surrounds	_	_
+3	cigarette	cigarette	NN	NN	"406.444|115.778"	4	surrounds	_	_
+4	people	people	NN	NN	"151.384|245.306"	0	-	_	_
+5	people	people	NN	NN	"298.690|226.565"	0	-	_	_
+
+1	bookcases	bookcases	NN	NN	"108.898|199.641"	0	-	_	_
+2	computer	computer	NN	NN	"363.506|186.045"	3	infront	_	_
+3	person	person	NN	NN	"349.733|208.051"	0	-	_	_
+
+1	girl	girl	NN	NN	"291.455|218.805"	3	beside	_	_
+2	presents	presents	NN	NN	"332.653|53.851"	1	infront	_	_
+2	presents	presents	NN	NN	"332.653|53.851"	3	infront	_	_
+3	woman	woman	NN	NN	"94.449|190.137"	0	-	_	_
+
+1	paper	paper	NN	NN	"441.527|314.534"	2	beside	_	_
+2	woman	woman	NN	NN	"94.449|190.137"	0	-	_	_
+
+1	chair	chair	NN	NN	"125.402|259.543"	2	on	_	_
+2	girl	girl	NN	NN	"167.959|259.539"	0	-	_	_
+3	greetingcard	greetingcard	NN	NN	"347.648|302.055"	2	beside	_	_
+
+1	lamp	lamp	NN	NN	"129.937|57.408"	0	-	_	_
+2	couch	couch	NN	NN	"261.111|258.394"	5	on	_	_
+2	couch	couch	NN	NN	"261.111|258.394"	6	on	_	_
+2	couch	couch	NN	NN	"261.111|258.394"	7	on	_	_
+3	curtains	curtains	NN	NN	"358.736|135.010"	0	-	_	_
+4	flute	flute	NN	NN	"200.906|208.798"	7	beside	_	_
+5	girl	girl	NN	NN	"234.657|272.519"	0	-	_	_
+6	girl	girl	NN	NN	"353.515|282.436"	0	-	_	_
+7	girl	girl	NN	NN	"453.953|333.438"	0	-	_	_
+
+1	baseball	baseball	NN	NN	"27.627|199.797"	4	beside	_	_
+2	baseballdiamond	baseballdiamond	NN	NN	"168.980|441.206"	3	on	_	_
+3	mound	mound	NN	NN	"164.200|467.097"	4	above	_	_
+4	pitcher	pitcher	NN	NN	"179.322|260.284"	0	-	_	_
+
+1	advertisements	advertisements	NN	NN	"194.357|277.405"	2	infront	_	_
+2	pitcher	pitcher	NN	NN	"179.322|260.284"	0	-	_	_
+
+1	man	man	NN	NN	"292.001|173.670"	0	-	_	_
+2	people	people	NN	NN	"436.289|75.978"	1	infront	_	_
+3	pond	pond	NN	NN	"96.841|162.798"	1	opposite	_	_
+
+1	man	man	NN	NN	"207.288|191.516"	0	-	_	_
+2	vioin	vioin	NN	NN	"237.489|101.176"	1	beside	_	_
+
+1	bars	bars	NN	NN	"200.454|254.311"	2	behind	_	_
+2	girl	girl	NN	NN	"162.024|300.230"	0	-	_	_
+
+1	bars	bars	NN	NN	"200.454|254.311"	2	behind	_	_
+2	girl	girl	NN	NN	"162.024|300.230"	0	-	_	_
+
+1	bars	bars	NN	NN	"200.454|254.311"	2	behind	_	_
+2	girl	girl	NN	NN	"162.024|300.230"	0	-	_	_
+
+1	man	man	NN	NN	"167.032|218.754"	0	-	_	_
+2	phone	phone	NN	NN	"135.924|126.748"	1	surrounds	_	_
+
+1	man	man	NN	NN	"167.032|218.754"	0	-	_	_
+2	phone	phone	NN	NN	"135.924|126.748"	1	surrounds	_	_
+
+1	trees	trees	NN	NN	"424.839|227.609"	2	infront	_	_
+2	artwork	artwork	NN	NN	"234.857|181.891"	0	-	_	_
+3	sky	sky	NN	NN	"248.825|111.181"	0	-	_	_
+4	tree	tree	NN	NN	"398.993|161.998"	2	behind	_	_
+5	trees	trees	NN	NN	"79.386|198.263"	2	infront	_	_
+
+1	trees	trees	NN	NN	"424.839|227.609"	2	infront	_	_
+2	artwork	artwork	NN	NN	"234.857|181.891"	5	opposite	_	_
+3	fence	fence	NN	NN	"250.767|347.818"	4	-	_	_
+4	grass	grass	NN	NN	"269.630|349.424"	2	behind	_	_
+5	person	person	NN	NN	"41.745|298.962"	0	-	_	_
+6	tree	tree	NN	NN	"398.993|161.998"	2	behind	_	_
+7	trees	trees	NN	NN	"79.386|198.263"	2	infront	_	_
+
+1	horse	horse	NN	NN	"451.564|230.022"	2	above	_	_
+2	rider	rider	NN	NN	"250.547|207.610"	0	-	_	_
+3	rider	rider	NN	NN	"386.983|206.713"	2	infront	_	_
+4	rider	rider	NN	NN	"446.923|207.491"	2	infront	_	_
+
+1	horse	horse	NN	NN	"251.368|243.706"	3	infront	_	_
+2	horse	horse	NN	NN	"387.658|222.986"	3	infront	_	_
+3	horse	horse	NN	NN	"451.564|230.022"	4	above	_	_
+4	rider	rider	NN	NN	"446.923|207.491"	0	-	_	_
+
+1	woman	woman	NN	NN	"168.609|283.204"	0	-	_	_
+2	woman	woman	NN	NN	"89.290|236.684"	1	infront	_	_
+
+1	camera	camera	NN	NN	"191.554|241.196"	3	infront	_	_
+2	ledge	ledge	NN	NN	"307.472|56.735"	3	infront	_	_
+3	person	person	NN	NN	"134.437|287.656"	0	-	_	_
+4	trees	trees	NN	NN	"156.047|63.962"	3	infront	_	_
+5	tripod	tripod	NN	NN	"186.068|317.045"	3	beside	_	_
+6	water	water	NN	NN	"231.029|214.686"	3	infront	_	_
+
+1	newspaper	newspaper	NN	NN	"157.915|262.825"	2	beside	_	_
+2	woman	woman	NN	NN	"78.817|204.616"	0	-	_	_
+
+1	actress	actress	NN	NN	"243.576|259.584"	0	-	_	_
+2	building	building	NN	NN	"162.634|151.421"	4	infront	_	_
+3	stage	stage	NN	NN	"162.016|447.468"	1	above	_	_
+4	tree	tree	NN	NN	"168.927|76.112"	3	below	_	_
+
+1	woman	woman	NN	NN	"193.312|298.153"	2	infront	_	_
+2	actress	actress	NN	NN	"243.576|259.584"	0	-	_	_
+3	stage	stage	NN	NN	"162.016|447.468"	2	above	_	_
+4	woman	woman	NN	NN	"65.536|327.229"	2	infront	_	_
+5	woman	woman	NN	NN	"107.801|304.516"	2	infront	_	_
+
+1	beach	beach	NN	NN	"218.195|350.807"	5	on	_	_
+2	book	book	NN	NN	"62.055|334.726"	5	beside	_	_
+3	ocean	ocean	NN	NN	"260.682|254.529"	0	-	_	_
+4	sky	sky	NN	NN	"244.916|90.135"	0	-	_	_
+5	woman	woman	NN	NN	"128.570|340.090"	0	-	_	_
+
+1	boy	boy	NN	NN	"188.181|310.311"	0	-	_	_
+2	child	child	NN	NN	"286.143|246.294"	0	-	_	_
+3	children	children	NN	NN	"101.720|115.665"	0	-	_	_
+4	horn	horn	NN	NN	"175.807|407.444"	1	surrounds	_	_
+5	instrument	instrument	NN	NN	"79.545|47.572"	3	surrounds	_	_
+6	instrument	instrument	NN	NN	"270.053|220.685"	2	surrounds	_	_
+
+1	boy	boy	NN	NN	"188.181|310.311"	0	-	_	_
+2	child	child	NN	NN	"286.143|246.294"	1	infront	_	_
+3	children	children	NN	NN	"101.720|115.665"	1	infront	_	_
+4	horn	horn	NN	NN	"175.807|407.444"	1	surrounds	_	_
+
+1	horse	horse	NN	NN	"111.638|198.497"	2	above	_	_
+2	man	man	NN	NN	"98.547|128.213"	0	-	_	_
+
+1	horse	horse	NN	NN	"111.638|198.497"	2	above	_	_
+2	man	man	NN	NN	"98.547|128.213"	0	-	_	_
+

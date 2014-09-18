@@ -1,0 +1,68 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("320.463,194.096")
+label="binocular"
+]
+"n6" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("219.714,280.126")
+label="dirtroad"
+]
+"n5" -> "n2" [
+label="on"
+]
+"n2" [
+comment=("219.714,280.126")
+label="dirtroad"
+]
+"n6" -> "n2" [
+label="on"
+]
+"n2" [
+comment=("219.714,280.126")
+label="dirtroad"
+]
+"n4" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("449.757,54.400")
+label="mountain"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("39.105,241.748")
+label="people"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("138.381,210.995")
+label="people"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("285.087,215.053")
+label="people"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("275.632,127.005")
+label="trees"
+]
+"n2" -> "n7" [
+label="-"
+]
+}

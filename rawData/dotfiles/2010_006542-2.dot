@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("167.455,351.441")
+label="couch"
+]
+"n3" -> "n1" [
+label="on"
+]
+"n2" [
+comment=("195.520,415.222")
+label="laptop"
+]
+"n3" -> "n2" [
+label="behind"
+]
+"n3" [
+comment=("177.582,291.999")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("222.324,84.623")
+label="painting"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("166.874,106.465")
+label="wall"
+]
+"n3" -> "n5" [
+label="infront"
+]
+"n5" [
+comment=("166.874,106.465")
+label="wall"
+]
+"n4" -> "n5" [
+label="on"
+]
+}

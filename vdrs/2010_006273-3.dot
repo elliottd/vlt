@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("283.803,238.880")
+label="boy"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("242.461,208.063")
+label="hill"
+]
+"n1" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("251.000,187.376")
+label="snow"
+]
+"n5" -> "n3" [
+label="behind"
+]
+"n3" [
+comment=("251.000,187.376")
+label="snow"
+]
+"n1" -> "n3" [
+label="on"
+]
+"n3" [
+comment=("251.000,187.376")
+label="snow"
+]
+"n4" -> "n3" [
+label="behind"
+]
+"n4" [
+comment=("295.160,143.988")
+label="tree"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("267.893,53.884")
+label="trees"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

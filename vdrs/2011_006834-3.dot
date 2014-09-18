@@ -1,0 +1,82 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("401.918,241.169")
+label="fence"
+]
+"n7" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("102.102,268.331")
+label="friend"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("142.389,255.361")
+label="friend"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("192.367,247.020")
+label="friend"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("266.640,268.203")
+label="friend"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("321.092,238.310")
+label="friend"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("199.160,311.604")
+label="road"
+]
+"n5" -> "n7" [
+label="on"
+]
+"n7" [
+comment=("199.160,311.604")
+label="road"
+]
+"n4" -> "n7" [
+label="on"
+]
+"n7" [
+comment=("199.160,311.604")
+label="road"
+]
+"n2" -> "n7" [
+label="on"
+]
+"n7" [
+comment=("199.160,311.604")
+label="road"
+]
+"n6" -> "n7" [
+label="on"
+]
+"n7" [
+comment=("199.160,311.604")
+label="road"
+]
+"n3" -> "n7" [
+label="on"
+]
+}

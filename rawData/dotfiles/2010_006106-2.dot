@@ -1,0 +1,89 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("97.799,148.430")
+label="boy"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("319.913,184.811")
+label="boy"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("242.794,121.174")
+label="field"
+]
+"n1" -> "n3" [
+label="infront"
+]
+"n3" [
+comment=("242.794,121.174")
+label="field"
+]
+"n2" -> "n3" [
+label="infront"
+]
+"n4" [
+comment=("442.913,40.730")
+label="onlookers"
+]
+"n1" -> "n4" [
+label="infront"
+]
+"n4" [
+comment=("442.913,40.730")
+label="onlookers"
+]
+"n2" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("253.458,288.976")
+label="track"
+]
+"n6" -> "n5" [
+label="on"
+]
+"n5" [
+comment=("253.458,288.976")
+label="track"
+]
+"n7" -> "n5" [
+label="on"
+]
+"n6" [
+comment=("88.446,309.022")
+label="tyre"
+]
+"n1" -> "n6" [
+label="above"
+]
+"n6" [
+comment=("88.446,309.022")
+label="tyre"
+]
+"n2" -> "n6" [
+label="beside"
+]
+"n7" [
+comment=("327.412,354.808")
+label="tyre"
+]
+"n1" -> "n7" [
+label="above"
+]
+"n7" [
+comment=("327.412,354.808")
+label="tyre"
+]
+"n2" -> "n7" [
+label="above"
+]
+}

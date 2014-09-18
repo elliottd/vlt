@@ -1,0 +1,89 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("217.337,262.883")
+label="path"
+]
+"n4" -> "n1" [
+label="on"
+]
+"n1" [
+comment=("217.337,262.883")
+label="path"
+]
+"n2" -> "n1" [
+label="on"
+]
+"n1" [
+comment=("217.337,262.883")
+label="path"
+]
+"n3" -> "n1" [
+label="on"
+]
+"n2" [
+comment=("171.379,197.735")
+label="person"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("249.770,205.273")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("322.342,200.318")
+label="person"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("378.764,121.095")
+label="sign"
+]
+"n2" -> "n5" [
+label="opposite"
+]
+"n5" [
+comment=("378.764,121.095")
+label="sign"
+]
+"n3" -> "n5" [
+label="beside"
+]
+"n5" [
+comment=("378.764,121.095")
+label="sign"
+]
+"n4" -> "n5" [
+label="beside"
+]
+"n6" [
+comment=("266.997,83.464")
+label="trees"
+]
+"n2" -> "n6" [
+label="below"
+]
+"n6" [
+comment=("266.997,83.464")
+label="trees"
+]
+"n4" -> "n6" [
+label="below"
+]
+"n6" [
+comment=("266.997,83.464")
+label="trees"
+]
+"n3" -> "n6" [
+label="below"
+]
+}

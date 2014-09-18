@@ -1,0 +1,47 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("81.677,300.843")
+label="man"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("373.140,283.458")
+label="people"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("402.910,300.003")
+label="people"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("343.325,316.166")
+label="rock"
+]
+"n2" -> "n4" [
+label="above"
+]
+"n4" [
+comment=("343.325,316.166")
+label="rock"
+]
+"n3" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("248.717,234.734")
+label="water"
+]
+"n1" -> "n5" [
+label="on"
+]
+}

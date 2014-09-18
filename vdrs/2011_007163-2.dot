@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("88.656,256.513")
+label="garbagecan"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("177.878,317.205")
+label="street"
+]
+"n5" -> "n2" [
+label="above"
+]
+"n3" [
+comment=("104.551,130.392")
+label="trash"
+]
+"n1" -> "n3" [
+label="below"
+]
+"n4" [
+comment=("226.639,412.629")
+label="trash"
+]
+"n1" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("272.303,200.565")
+label="woman"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

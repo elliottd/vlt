@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("424.839,227.609")
+label="trees"
+]
+"n2" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("234.857,181.891")
+label="artwork"
+]
+"n5" -> "n2" [
+label="opposite"
+]
+"n3" [
+comment=("250.767,347.818")
+label="fence"
+]
+"n4" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("269.630,349.424")
+label="grass"
+]
+"n2" -> "n4" [
+label="behind"
+]
+"n5" [
+comment=("41.745,298.962")
+label="person"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("398.993,161.998")
+label="tree"
+]
+"n2" -> "n6" [
+label="behind"
+]
+"n7" [
+comment=("79.386,198.263")
+label="trees"
+]
+"n2" -> "n7" [
+label="infront"
+]
+}

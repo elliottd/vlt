@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("168.601,322.543")
+label="street"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("141.776,324.098")
+label="man"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("103.667,306.913")
+label="newspaper"
+]
+"n2" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("41.702,157.758")
+label="pedestrians"
+]
+"n1" -> "n4" [
+label="surrounds"
+]
+"n5" [
+comment=("145.941,142.079")
+label="pedestrians"
+]
+"n1" -> "n5" [
+label="below"
+]
+"n6" [
+comment=("201.185,434.236")
+label="sidewalk"
+]
+"n2" -> "n6" [
+label="above"
+]
+"n7" [
+comment=("245.236,222.556")
+label="stand"
+]
+"n0" -> "n7" [
+label="-"
+]
+}

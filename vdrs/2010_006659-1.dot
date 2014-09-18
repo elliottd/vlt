@@ -1,0 +1,68 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("308.144,213.592")
+label="person"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("202.795,109.064")
+label="buildings"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("332.509,226.759")
+label="intersection"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("269.843,283.889")
+label="motorcycle"
+]
+"n8" -> "n4" [
+label="above"
+]
+"n4" [
+comment=("269.843,283.889")
+label="motorcycle"
+]
+"n1" -> "n4" [
+label="above"
+]
+"n5" [
+comment=("47.979,179.557")
+label="people"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("126.847,181.824")
+label="people"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("439.598,183.613")
+label="people"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("225.124,207.554")
+label="person"
+]
+"n0" -> "n8" [
+label="-"
+]
+}

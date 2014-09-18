@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("173.997,73.140")
+label="gate"
+]
+"n5" -> "n1" [
+label="above"
+]
+"n2" [
+comment=("422.344,153.920")
+label="equestrian"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("446.743,98.457")
+label="fence"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("250.306,65.760")
+label="flag"
+]
+"n3" -> "n4" [
+label="below"
+]
+"n5" [
+comment=("198.164,164.300")
+label="horse"
+]
+"n2" -> "n5" [
+label="above"
+]
+}

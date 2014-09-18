@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("147.950,257.471")
+label="table"
+]
+"n2" -> "n1" [
+label="behind"
+]
+"n1" [
+comment=("147.950,257.471")
+label="table"
+]
+"n3" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("171.980,221.544")
+label="person"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("358.692,226.618")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

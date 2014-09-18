@@ -1,0 +1,61 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("332.613,50.391")
+label="TV"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("393.010,275.486")
+label="fan"
+]
+"n3" -> "n2" [
+label="beside"
+]
+"n2" [
+comment=("393.010,275.486")
+label="fan"
+]
+"n4" -> "n2" [
+label="beside"
+]
+"n3" [
+comment=("58.085,276.845")
+label="person"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("192.979,279.385")
+label="person"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("32.813,353.252")
+label="table"
+]
+"n3" -> "n5" [
+label="behind"
+]
+"n5" [
+comment=("32.813,353.252")
+label="table"
+]
+"n4" -> "n5" [
+label="beside"
+]
+"n6" [
+comment=("76.648,113.523")
+label="window"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

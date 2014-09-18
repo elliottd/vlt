@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("95.453,168.303")
+label="glass"
+]
+"n5" -> "n1" [
+label="surrounds"
+]
+"n2" [
+comment=("228.261,180.497")
+label="glass"
+]
+"n5" -> "n2" [
+label="surrounds"
+]
+"n3" [
+comment=("107.104,305.035")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("192.644,181.186")
+label="payphone"
+]
+"n3" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("166.834,202.319")
+label="telephonebooth"
+]
+"n3" -> "n5" [
+label="on"
+]
+}

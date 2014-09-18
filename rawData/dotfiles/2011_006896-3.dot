@@ -1,0 +1,54 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("347.040,273.551")
+label="boy"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("361.723,105.991")
+label="car"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("474.586,192.937")
+label="car"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("122.432,285.725")
+label="drums"
+]
+"n1" -> "n4" [
+label="beside"
+]
+"n4" [
+comment=("122.432,285.725")
+label="drums"
+]
+"n5" -> "n4" [
+label="beside"
+]
+"n5" [
+comment=("284.514,197.912")
+label="people"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("413.614,32.123")
+label="trees"
+]
+"n0" -> "n6" [
+label="-"
+]
+}

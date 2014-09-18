@@ -1,0 +1,26 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("386.328,198.870")
+label="child"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("250.024,191.038")
+label="field"
+]
+"n1" -> "n2" [
+label="on"
+]
+"n3" [
+comment=("272.046,27.793")
+label="wall"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

@@ -1,0 +1,68 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("34.813,102.135")
+label="trees"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("364.678,92.394")
+label="trees"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("153.068,205.320")
+label="bag"
+]
+"n4" -> "n3" [
+label="behind"
+]
+"n4" [
+comment=("168.603,213.224")
+label="person"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("251.521,196.137")
+label="person"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("325.153,213.301")
+label="person"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("278.838,296.273")
+label="trail"
+]
+"n6" -> "n7" [
+label="on"
+]
+"n7" [
+comment=("278.838,296.273")
+label="trail"
+]
+"n5" -> "n7" [
+label="above"
+]
+"n7" [
+comment=("278.838,296.273")
+label="trail"
+]
+"n4" -> "n7" [
+label="beside"
+]
+}

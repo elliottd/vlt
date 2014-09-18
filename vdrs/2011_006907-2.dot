@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("161.878,152.657")
+label="fog"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("336.312,136.403")
+label="fog"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("239.946,243.176")
+label="ground"
+]
+"n5" -> "n3" [
+label="on"
+]
+"n4" [
+comment=("214.943,143.763")
+label="mountains"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("342.424,235.713")
+label="photographer"
+]
+"n0" -> "n5" [
+label="-"
+]
+}

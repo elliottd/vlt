@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("123.471,162.069")
+label="camera"
+]
+"n3" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("99.622,91.497")
+label="flag"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("33.688,340.241")
+label="man"
+]
+"n0" -> "n3" [
+label="-"
+]
+"n4" [
+comment=("100.409,214.178")
+label="window"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("339.191,77.626")
+label="wall"
+]
+"n2" -> "n5" [
+label="on"
+]
+}

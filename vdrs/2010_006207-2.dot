@@ -1,0 +1,75 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("228.895,105.937")
+label="wall"
+]
+"n5" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("414.525,176.469")
+label="wall"
+]
+"n6" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("30.268,184.166")
+label="wall"
+]
+"n10" -> "n3" [
+label="beside"
+]
+"n4" [
+comment=("86.020,225.258")
+label="woman"
+]
+"n0" -> "n4" [
+label="-"
+]
+"n5" [
+comment=("230.643,152.863")
+label="tiles"
+]
+"n0" -> "n5" [
+label="-"
+]
+"n6" [
+comment=("414.425,219.328")
+label="tiles"
+]
+"n0" -> "n6" [
+label="-"
+]
+"n7" [
+comment=("151.315,185.187")
+label="male"
+]
+"n0" -> "n7" [
+label="-"
+]
+"n8" [
+comment=("281.319,175.246")
+label="male"
+]
+"n0" -> "n8" [
+label="-"
+]
+"n9" [
+comment=("373.934,169.028")
+label="male"
+]
+"n0" -> "n9" [
+label="-"
+]
+"n10" [
+comment=("29.603,227.026")
+label="tiles"
+]
+"n0" -> "n10" [
+label="-"
+]
+}

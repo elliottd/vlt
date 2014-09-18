@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("291.455,218.805")
+label="girl"
+]
+"n3" -> "n1" [
+label="beside"
+]
+"n2" [
+comment=("332.653,53.851")
+label="presents"
+]
+"n1" -> "n2" [
+label="infront"
+]
+"n2" [
+comment=("332.653,53.851")
+label="presents"
+]
+"n3" -> "n2" [
+label="infront"
+]
+"n3" [
+comment=("94.449,190.137")
+label="woman"
+]
+"n0" -> "n3" [
+label="-"
+]
+}

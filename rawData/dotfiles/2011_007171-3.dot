@@ -1,0 +1,40 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("193.312,298.153")
+label="woman"
+]
+"n2" -> "n1" [
+label="infront"
+]
+"n2" [
+comment=("243.576,259.584")
+label="actress"
+]
+"n0" -> "n2" [
+label="-"
+]
+"n3" [
+comment=("162.016,447.468")
+label="stage"
+]
+"n2" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("65.536,327.229")
+label="woman"
+]
+"n2" -> "n4" [
+label="infront"
+]
+"n5" [
+comment=("107.801,304.516")
+label="woman"
+]
+"n2" -> "n5" [
+label="infront"
+]
+}

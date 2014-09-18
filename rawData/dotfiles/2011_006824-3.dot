@@ -1,0 +1,33 @@
+digraph s1 {
+"n0" [
+label=ROOT
+]
+"n1" [
+comment=("169.251,305.407")
+label="boy"
+]
+"n0" -> "n1" [
+label="-"
+]
+"n2" [
+comment=("141.018,243.700")
+label="phone"
+]
+"n1" -> "n2" [
+label="surrounds"
+]
+"n3" [
+comment=("368.049,333.160")
+label="rug"
+]
+"n1" -> "n3" [
+label="above"
+]
+"n4" [
+comment=("221.473,167.768")
+label="wall"
+]
+"n3" -> "n4" [
+label="beside"
+]
+}
