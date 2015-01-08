@@ -1,0 +1,6 @@
+featureWeights
+test-MST*
+test-sentences-generated*
+dev-MST*
+dev-sentences-generated*
+trained.model
