@@ -1,0 +1,6 @@
+*.conll
+*.gold
+*.parsed
+*.actions
+*.labs
+target-*
