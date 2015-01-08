@@ -1,7 +1,7 @@
 Visual and Linguistic Treebank
 ------------------------------
 
-Release 2, 25th August 2014
+Release 3, 8th January 2015
 
 http://homepages.inf.ed.ac.uk/s0128959/dataset/
 
@@ -21,7 +21,7 @@ The tools/ directory contains a few tools to manipulate the data between
 different on-disk representations. See the tools/README file for the list of
 dependencies.
 
-Please direct any comments or problems to: d.elliott@ed.ac.uk
+Please direct any comments or problems to: elliott@cwi.nl
 
 ===
 
