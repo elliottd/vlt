@@ -1,6 +1,8 @@
 featureWeights
 test-MST*
 test-sentences-generated*
+test-ROOT
 dev-MST*
 dev-sentences-generated*
+dev-ROOT
 trained.model
