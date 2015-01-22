@@ -1,4 +1,4 @@
 *.align
 *.tagged
-source-strings
-source-strings-tagged
+*.malt
+descriptions*
