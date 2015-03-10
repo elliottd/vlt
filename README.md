@@ -1,13 +1,13 @@
-Visual and Linguistic Treebank
-------------------------------
+Visual and Linguistic Treebank (VLT2K)
+--------------------------------------
 
 Release 3, 8th January 2015
 
 http://homepages.inf.ed.ac.uk/s0128959/dataset/
 
-This is the first release of the Visual and Linguistic Treebank. It contains
-multiple descriptions for the 2,424 images in the trainval portion of the
-PASCAL VOC 2010 Action Recognition Taster. There is also object annotations for
+The Visual and Linguistic Treebank contains multiple descriptions for 
+the 2,424 images in the trainval portion of the PASCAL VOC 2010 Action 
+Recognition Taster. There is also object annotations for
 431 images, and corresponding Visual Dependency Representations for the
 object-annotated images.
 
@@ -20,25 +20,23 @@ Please direct any comments or problems to: elliott@cwi.nl
 
 An overview of the Visual and Linguistic Treebank Dataset.
 
-images/
+`images/`
 
-The files in this directory are the JPEGs of the images for which descriptions and annotations are available.
+The files in this directory will be the JPEGs of the images for which descriptions and annotations are available. You need to download the JPEGs directly from PASCAL.
 
-* tools/extractVOCImages.py can be used to populate this directory. 
-
-rawData/xmlfiles/
+`rawData/xmlfiles/`
 
 The files in this directory are the object boundary annotations created from LabelMe annotations. 
 There is one .xml file per annotated image.
 
-rawData/dotfiles/
+`rawData/dotfiles/`
 
 The VDR annotations for the images. 
 -1,-2,-3 suffixes mean they correspond to the 1st, 2nd, and 3rd description respectively.
 
 .actions is the list of actions in the image
 
-rawData/textfiles/
+`rawData/textfiles/`
 
 We collected three descriptions for each image from Amazon Mechanical Turk. 
 The -1,-2,-3 suffixes mean they correspond to the 1st, 2nd, and 3rd description respectively.
